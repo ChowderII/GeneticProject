@@ -1,0 +1,3223 @@
+EIMQhJrqtlARdGgzjeoZUT	0	0:00:00.000190	0
+EIMQhJrqtlARdGgzJeoZUT	0	0:00:00.000327	1
+EIMQhJrqtlARdGgzeeoZUT	0	0:00:00.000391	2
+EIM hJrqtlARdGgzjeoZUT	0	0:00:00.000438	3
+EIMQhJrqtlARdGpzjeoZUT	0	0:00:00.000480	4
+EIMQhJrqtlARdcgzjeoZUT	0	0:00:00.000521	5
+EIMQgJrqtlARdGgzjeoZUT	0	0:00:00.000560	6
+EIMQhJrqtlARdGgzjeoLUT	0	0:00:00.000600	7
+EIMQhJjqtlARdGgzjeoZUT	0	0:00:00.000639	8
+EIMQAJrqtlARdGgzjeoZUT	0	0:00:00.000678	9
+E.MQhJrqtlARdGgzjeoZUT	0	0:00:00.000717	10
+EIMQeJrqtlARdGgzjeoZUT	0	0:00:00.000757	11
+EIMQhJrqalARdGgzjeoZUT	0	0:00:00.000797	12
+EIMQgJrqtlARdGgzjeoZUT	0	0:00:00.000836	13
+EIMQhJrqtlARdGazjeoZUT	0	0:00:00.000874	14
+EIMQhJrqtlARdGgzjeoZUm	0	0:00:00.000913	15
+EItQhJrqtlARdGgzjeoZUT	0	0:00:00.000952	16
+EIMQhJrqtlARdbgzjeoZUT	0	0:00:00.000990	17
+EIMQhJrqtlARdGgzIeoZUT	0	0:00:00.001028	18
+EIMQhJrqtlARdGgzjeosUT	0	0:00:00.001067	19
+XIMQhJrqtlARdGgzjeoZUT	0	0:00:00.001106	20
+EIMQhJrqtlKRdGgzjeoZUT	0	0:00:00.001145	21
+EIMQoJrqtlARdGgzjeoZUT	0	0:00:00.001184	22
+EIMQMJrqtlARdGgzjeoZUT	0	0:00:00.001251	23
+EoMQhJrqtlARdGgzjeoZUT	0	0:00:00.001289	24
+EIMQhJrqtlARdGgzjecZUT	0	0:00:00.001325	25
+EIMQhJnqtlARdGgzjeoZUT	0	0:00:00.001360	26
+EIMQhJrqulARdGgzjeoZUT	0	0:00:00.001395	27
+EIMQhJrqtIARdGgzjeoZUT	0	0:00:00.001430	28
+EIMQhJrqtlARdGLzjeoZUT	0	0:00:00.001465	29
+EIMQhJrqtlARdGgnjeoZUT	0	0:00:00.001500	30
+EIMQhwrqtlARdGgzjeoZUT	0	0:00:00.001535	31
+EIMQhJrqtlARdGgzjeoZGT	0	0:00:00.001570	32
+EIMQhJrqtlARdGgzOeoZUT	0	0:00:00.001606	33
+EIMQhJrqtlARdGgzjeoZmT	0	0:00:00.001641	34
+EIMQhArqtlARdGgzjeoZUT	0	0:00:00.001676	35
+EIMQhJrqtlARdwgzjeoZUT	1	0:00:00.001712	36
+EIMQhJrqtlAUdwgzjeoZUT	1	0:00:00.001775	37
+EUMQhJrqtlARdwgzjeoZUT	1	0:00:00.001814	38
+EIMQhJrqtlARdwgzjeUZUT	1	0:00:00.001851	39
+EIMQhJrqtlARdwozjeoZUT	1	0:00:00.001896	40
+EIMQhJrqtlQRdwgzjeoZUT	1	0:00:00.001964	41
+EIMQhJrqtlARdwozjeoZUT	1	0:00:00.002010	42
+EIMQhJrqtlARdwgzjeoZUm	1	0:00:00.002046	43
+EIMQhJrqtlAWdwgzjeoZUT	1	0:00:00.002082	44
+EIMQgJrqtlARdwgzjeoZUT	1	0:00:00.002117	45
+EIMQhJrqtlARdwgzjeomUT	1	0:00:00.002153	46
+EIMQhJrqolARdwgzjeoZUT	1	0:00:00.002189	47
+EIMQhJrqtlARdFgzjeoZUT	0	0:00:00.002225	48
+EIUQhJrqtlARdwgzjeoZUT	1	0:00:00.002260	49
+EfMQhJrqtlARdwgzjeoZUT	1	0:00:00.002296	50
+EIMQhJrqtlARdwgzjeoZwT	1	0:00:00.002333	51
+EIMQbJrqtlARdwgzjeoZUT	1	0:00:00.002368	52
+EIMQhJrqtlARd!gzjeoZUT	0	0:00:00.002404	53
+EIMQhJrqtlARdwgojeoZUT	1	0:00:00.002439	54
+EI!QhJrqtlARdwgzjeoZUT	1	0:00:00.002475	55
+EIMQhJrqAlARdwgzjeoZUT	1	0:00:00.002511	56
+EIMQhJrqtlARdwg!jeoZUT	1	0:00:00.002547	57
+UIMQhJrqtlARdwgzjeoZUT	1	0:00:00.002583	58
+EIMdhJrqtlARdwgzjeoZUT	1	0:00:00.002619	59
+EIMQhJrqtlARdwPzjeoZUT	1	0:00:00.002654	60
+EIMQhJrqtlARdwgOjeoZUT	1	0:00:00.002690	61
+EIMQhJrqtl.RdwgzjeoZUT	1	0:00:00.002725	62
+EIMQhJrqtlFRdwgzjeoZUT	1	0:00:00.002761	63
+EIMQhJrqtlARdwgzjpoZUT	1	0:00:00.002797	64
+EIMQhJrqtlxRdwgzjeoZUT	1	0:00:00.002833	65
+EIMQhJrqtlARdwgzceoZUT	1	0:00:00.002868	66
+EIMQhJrqtjARdwgzjeoZUT	1	0:00:00.002904	67
+EIMQhJrqtlARdwgzjeoZU!	2	0:00:00.002940	68
+EIMQhJrqtlARdwNzjeoZU!	2	0:00:00.002992	69
+EIMQhJrqtlARdwgzjeoSU!	2	0:00:00.003028	70
+EIMQhJrqtlAvdwgzjeoZU!	2	0:00:00.003064	71
+EIMQhJrqtlURdwgzjeoZU!	2	0:00:00.003100	72
+EIMQhJrqtlARdwgzjeoEU!	2	0:00:00.003136	73
+EIMQhJrqtlAMdwgzjeoZU!	2	0:00:00.003172	74
+EIMQhJrqtlhRdwgzjeoZU!	2	0:00:00.003208	75
+EIMQhJrqtlARdwuzjeoZU!	2	0:00:00.003243	76
+EIMQhJrqtlARdEgzjeoZU!	1	0:00:00.003279	77
+EIRQhJrqtlARdwgzjeoZU!	2	0:00:00.003314	78
+EMMQhJrqtlARdwgzjeoZU!	2	0:00:00.003350	79
+EIMQhVrqtlARdwgzjeoZU!	2	0:00:00.003385	80
+VIMQhJrqtlARdwgzjeoZU!	2	0:00:00.003421	81
+E MQhJrqtlARdwgzjeoZU!	2	0:00:00.003457	82
+wIMQhJrqtlARdwgzjeoZU!	2	0:00:00.003494	83
+EIMQhJrqtlAEdwgzjeoZU!	2	0:00:00.003530	84
+EIMQhJ!qtlARdwgzjeoZU!	2	0:00:00.003565	85
+EIMQhJrqtlARdwgzjaoZU!	2	0:00:00.003601	86
+EIMQdJrqtlARdwgzjeoZU!	2	0:00:00.003637	87
+EIMQhJrgtlARdwgzjeoZU!	2	0:00:00.003673	88
+EIMQVJrqtlARdwgzjeoZU!	2	0:00:00.003709	89
+EIMQhJrqtlAudwgzjeoZU!	2	0:00:00.003745	90
+EIMQhJrqtlARdwgzieoZU!	2	0:00:00.003781	91
+EIMQhJrqtlARdwgzjeoZUo	1	0:00:00.003816	92
+EIMQhJrqMlARdwgzjeoZU!	2	0:00:00.003852	93
+EIMQhJrqtlARdwgzjeuZU!	2	0:00:00.003889	94
+EIMQOJrqtlARdwgzjeoZU!	2	0:00:00.003927	95
+EIMQhJrctlARdwgzjeoZU!	2	0:00:00.004002	96
+EIMQhJrqtlARdwgzjeoZR!	2	0:00:00.004042	97
+QIMQhJrqtlARdwgzjeoZU!	2	0:00:00.004078	98
+EIMQhJrqdlARdwgzjeoZU!	2	0:00:00.004113	99
+EITQhJrqtlARdwgzjeoZU!	2	0:00:00.004149	100
+EIMQJJrqtlARdwgzjeoZU!	2	0:00:00.004185	101
+EIwQhJrqtlARdwgzjeoZU!	2	0:00:00.004221	102
+EIMxhJrqtlARdwgzjeoZU!	2	0:00:00.004257	103
+EIMQhJrqtlAwdwgzjeoZU!	2	0:00:00.004292	104
+JIMQhJrqtlARdwgzjeoZU!	2	0:00:00.004328	105
+EIMQhJrqtlARdwgzjeozU!	2	0:00:00.004365	106
+EIMQhJrqtrARdwgzjeoZU!	2	0:00:00.004401	107
+EIMQhJrqtlARdwgzjeYZU!	2	0:00:00.004437	108
+EhMQhJrqtlARdwgzjeoZU!	2	0:00:00.004473	109
+EIMQxJrqtlARdwgzjeoZU!	2	0:00:00.004509	110
+EIMQhJMqtlARdwgzjeoZU!	2	0:00:00.004545	111
+EIMQhJrqtTARdwgzjeoZU!	2	0:00:00.004580	112
+EIMghJrqtlARdwgzjeoZU!	2	0:00:00.004616	113
+EIMQhJrdtlARdwgzjeoZU!	2	0:00:00.004651	114
+EIMQhJrqjlARdwgzjeoZU!	2	0:00:00.004687	115
+EIMQhJrqtlARdwgzbeoZU!	2	0:00:00.004723	116
+EIMQhJrqtlARdwgzje!ZU!	2	0:00:00.004758	117
+EIMQhJrqMlARdwgzjeoZU!	2	0:00:00.004794	118
+EIMQSJrqtlARdwgzjeoZU!	2	0:00:00.004829	119
+EIMQhJrqtlARdwgzeeoZU!	2	0:00:00.004864	120
+EIMQhJrqtaARdwgzjeoZU!	2	0:00:00.004900	121
+EIMQhJrqtlSRdwgzjeoZU!	2	0:00:00.004935	122
+EIMKhJrqtlARdwgzjeoZU!	2	0:00:00.004971	123
+EIMQhJrqtlARdwgzjWoZU!	2	0:00:00.005007	124
+EIMQhJrqtlARdwgzjeoZr!	2	0:00:00.005042	125
+EwMQhJrqtlARdwgzjeoZU!	2	0:00:00.005078	126
+EIVQhJrqtlARdwgzjeoZU!	2	0:00:00.005113	127
+EIMQhJrqtlARdwyzjeoZU!	2	0:00:00.005148	128
+EIMQhJrqilARdwgzjeoZU!	2	0:00:00.005184	129
+EIMQhJrqtlARd gzjeoZU!	1	0:00:00.005312	130
+EIMQhJrqtlARgwgzjeoZU!	2	0:00:00.005353	131
+EIMQhJrqtlARdwgzjeoZUv	1	0:00:00.005388	132
+EIMQhJrqtlADdwgzjeoZU!	2	0:00:00.005424	133
+EIMdhJrqtlARdwgzjeoZU!	2	0:00:00.005460	134
+EIMQhJrqtlARdwgzjejZU!	2	0:00:00.005496	135
+EIMQhJrqtUARdwgzjeoZU!	2	0:00:00.005531	136
+EIMQhJrqtlARdwgzjeMZU!	2	0:00:00.005567	137
+EIMQhJrqtVARdwgzjeoZU!	2	0:00:00.005603	138
+EIMQhhrqtlARdwgzjeoZU!	2	0:00:00.005638	139
+EIMQhjrqtlARdwgzjeoZU!	2	0:00:00.005674	140
+EIMQhJrqtlARdGgzjeoZU!	1	0:00:00.005710	141
+EIMQhJrqtlARdwnzjeoZU!	2	0:00:00.005745	142
+EIMQhJrqtlAQdwgzjeoZU!	2	0:00:00.005781	143
+EIMQhJrqVlARdwgzjeoZU!	2	0:00:00.005817	144
+EIMihJrqtlARdwgzjeoZU!	3	0:00:00.005853	145
+EIMihJrqtlARdwgzbeoZU!	3	0:00:00.005905	146
+EIMvhJrqtlARdwgzjeoZU!	2	0:00:00.005941	147
+EIMihJrqtlzRdwgzjeoZU!	3	0:00:00.005978	148
+EIMihlrqtlARdwgzjeoZU!	3	0:00:00.006014	149
+EIPihJrqtlARdwgzjeoZU!	3	0:00:00.006049	150
+EIMihJrqtlARdwgzjeoZUz	2	0:00:00.006085	151
+EIMihJrqtlARdwgzVeoZU!	3	0:00:00.006120	152
+EIKihJrqtlARdwgzjeoZU!	3	0:00:00.006156	153
+EIMihJrqtlARdwgzjeobU!	3	0:00:00.006192	154
+EInihJrqtlARdwgzjeoZU!	3	0:00:00.006228	155
+EIxihJrqtlARdwgzjeoZU!	3	0:00:00.006264	156
+EIMihJrqt.ARdwgzjeoZU!	3	0:00:00.006300	157
+EIMihJrqtlARdwzzjeoZU!	3	0:00:00.006335	158
+EIMihJrqtlARdwgCjeoZU!	3	0:00:00.006371	159
+EIMihJrqtlARdwgzjKoZU!	3	0:00:00.006407	160
+EIMihJrqtlARdwgzjeoJU!	3	0:00:00.006443	161
+EIMihJrutlARdwgzjeoZU!	4	0:00:00.006479	162
+EIMihJrutlASdwgzjeoZU!	4	0:00:00.006531	163
+EIMih!rutlARdwgzjeoZU!	4	0:00:00.006568	164
+EIMihJrutlARdwLzjeoZU!	4	0:00:00.006604	165
+EIMihvrutlARdwgzjeoZU!	4	0:00:00.006640	166
+EIMihJrutlARdwszjeoZU!	4	0:00:00.006676	167
+EIMihJrut ARdwgzjeoZU!	4	0:00:00.006712	168
+EIMihJrutlAKdwgzjeoZU!	4	0:00:00.006748	169
+EIMihJrutl RdwgzjeoZU!	4	0:00:00.006784	170
+EIMihJrutlARdKgzjeoZU!	3	0:00:00.006820	171
+EIMThJrutlARdwgzjeoZU!	3	0:00:00.006856	172
+EIMihJrOtlARdwgzjeoZU!	3	0:00:00.006891	173
+EIMihJrutlARddgzjeoZU!	3	0:00:00.006927	174
+EIMihJrutlAjdwgzjeoZU!	4	0:00:00.006963	175
+oIMihJrutlARdwgzjeoZU!	4	0:00:00.006998	176
+EIMyhJrutlARdwgzjeoZU!	3	0:00:00.007034	177
+EIMihJrutlAR!wgzjeoZU!	4	0:00:00.007071	178
+EIMihJrutlARdwgzjeoZUT	3	0:00:00.007107	179
+EIMDhJrutlARdwgzjeoZU!	3	0:00:00.007143	180
+EIMihJrutlARdwgIjeoZU!	4	0:00:00.007179	181
+EIMihJrutlArdwgzjeoZU!	4	0:00:00.007215	182
+EIMiKJrutlARdwgzjeoZU!	4	0:00:00.007251	183
+EIMihJrutlARdwgzjeYZU!	4	0:00:00.007286	184
+EITihJrutlARdwgzjeoZU!	4	0:00:00.007322	185
+EIhihJrutlARdwgzjeoZU!	4	0:00:00.007358	186
+EIMihJrutlORdwgzjeoZU!	4	0:00:00.007395	187
+EIMihJrutlsRdwgzjeoZU!	4	0:00:00.007430	188
+EIMKhJrutlARdwgzjeoZU!	3	0:00:00.007489	189
+EIMihirutlARdwgzjeoZU!	4	0:00:00.007528	190
+EIMihJrudlARdwgzjeoZU!	4	0:00:00.007564	191
+EIMihJrutlARdwgzjeoZUH	3	0:00:00.007600	192
+EIMihJrutlAjdwgzjeoZU!	4	0:00:00.007637	193
+EIMihJrutlARdwgzjeoZUP	3	0:00:00.007673	194
+EIMihJrutlARdwwzjeoZU!	4	0:00:00.007708	195
+EIMihJrutlARdw!zjeoZU!	4	0:00:00.007744	196
+EIMihUrutlARdwgzjeoZU!	4	0:00:00.007780	197
+EIMvhJrutlARdwgzjeoZU!	3	0:00:00.007816	198
+EIMihJVutlARdwgzjeoZU!	4	0:00:00.007854	199
+EIMhhJrutlARdwgzjeoZU!	3	0:00:00.007891	200
+EIMihJrutlARdwgzjeYZU!	4	0:00:00.007927	201
+EIMihJrutlARdYgzjeoZU!	3	0:00:00.007964	202
+EIMihJrutlARdwgzjeoeU!	4	0:00:00.007999	203
+EIMihJrutlARdwgOjeoZU!	4	0:00:00.008035	204
+EIMihJrutlARdwgzjexZU!	4	0:00:00.008071	205
+EIMiLJrutlARdwgzjeoZU!	4	0:00:00.008106	206
+EIMihKrutlARdwgzjeoZU!	4	0:00:00.008142	207
+EIMihJrutlARtwgzjeoZU!	4	0:00:00.008177	208
+EIMihJrutlARdwMzjeoZU!	4	0:00:00.008214	209
+EIMihJrut!ARdwgzjeoZU!	4	0:00:00.008249	210
+EIMihJruwlARdwgzjeoZU!	4	0:00:00.008285	211
+yIMihJrutlARdwgzjeoZU!	4	0:00:00.008322	212
+EIMivJrutlARdwgzjeoZU!	4	0:00:00.008358	213
+EIMihJrutlARdGgzjeoZU!	3	0:00:00.008393	214
+EIMihJrutlARdwIzjeoZU!	4	0:00:00.008429	215
+EIMihUrutlARdwgzjeoZU!	4	0:00:00.008466	216
+EIMihJrutlARdwgzjeo.U!	4	0:00:00.008501	217
+EIMihJrutlARdwZzjeoZU!	4	0:00:00.008537	218
+EIMihJrHtlARdwgzjeoZU!	3	0:00:00.008574	219
+EIMihJrutlARdwgzjBoZU!	4	0:00:00.008609	220
+ERMihJrutlARdwgzjeoZU!	4	0:00:00.008645	221
+EIMihJrytlARdwgzjeoZU!	3	0:00:00.008681	222
+EIMihJrutlARmwgzjeoZU!	4	0:00:00.008717	223
+EIMNhJrutlARdwgzjeoZU!	3	0:00:00.008752	224
+EIMihJrutlARdwgzgeoZU!	4	0:00:00.008788	225
+EIMihJrutlvRdwgzjeoZU!	4	0:00:00.008823	226
+EIMizJrutlARdwgzjeoZU!	4	0:00:00.008859	227
+EIMihJrutlARdwgzjooZU!	4	0:00:00.008895	228
+EjMihJrutlARdwgzjeoZU!	4	0:00:00.008931	229
+EIMihJrutlARdwgzjeopU!	4	0:00:00.008966	230
+EIMihJruteARdwgzjeoZU!	5	0:00:00.009002	231
+EIsihJruteARdwgzjeoZU!	5	0:00:00.009055	232
+EIMihJrutaARdwgzjeoZU!	4	0:00:00.009091	233
+EIMihJruteARdwgzjeolU!	5	0:00:00.009127	234
+EIMihJruteARdwgzjeoZUD	4	0:00:00.009163	235
+EIMihJruteARdGgzjeoZU!	4	0:00:00.009226	236
+EIMihsruteARdwgzjeoZU!	5	0:00:00.009263	237
+EIMihJruteXRdwgzjeoZU!	5	0:00:00.009297	238
+EIMihJruteARdPgzjeoZU!	4	0:00:00.009330	239
+EIMmhJruteARdwgzjeoZU!	4	0:00:00.009363	240
+EIMihJrutXARdwgzjeoZU!	4	0:00:00.009396	241
+ENMihJruteARdwgzjeoZU!	5	0:00:00.009429	242
+EIMihJrudeARdwgzjeoZU!	5	0:00:00.009462	243
+EIMihJrutJARdwgzjeoZU!	4	0:00:00.009496	244
+EIMihJrutcARdwgzjeoZU!	4	0:00:00.009530	245
+EIM hJruteARdwgzjeoZU!	4	0:00:00.009563	246
+EIMihJruteARdwgzjZoZU!	5	0:00:00.009597	247
+EIMihIruteARdwgzjeoZU!	5	0:00:00.009630	248
+EIMihJrutZARdwgzjeoZU!	4	0:00:00.009663	249
+EIMihJruteARQwgzjeoZU!	5	0:00:00.009696	250
+EIMihJruteARdwgzjeoyU!	5	0:00:00.009729	251
+EIMihJruteARdwgzjeouU!	5	0:00:00.009762	252
+EIMihJruteARdkgzjeoZU!	4	0:00:00.009796	253
+EIMihJruteARdwgzfeoZU!	5	0:00:00.009829	254
+EIMihJruteAhdwgzjeoZU!	5	0:00:00.009863	255
+EIMihJruteARdwnzjeoZU!	5	0:00:00.009896	256
+EIMihJrueeARdwgzjeoZU!	5	0:00:00.009930	257
+EIMihJruteARdwgzjeoZO!	5	0:00:00.009963	258
+EIMihJruteCRdwgzjeoZU!	5	0:00:00.009996	259
+EIdihJruteARdwgzjeoZU!	5	0:00:00.010030	260
+EIMihdruteARdwgzjeoZU!	5	0:00:00.010064	261
+EIMihJrFteARdwgzjeoZU!	4	0:00:00.010097	262
+EIMihJrpteARdwgzjeoZU!	4	0:00:00.010131	263
+EIMMhJruteARdwgzjeoZU!	4	0:00:00.010164	264
+EIMihJrutebRdwgzjeoZU!	5	0:00:00.010198	265
+EIMihJTuteARdwgzjeoZU!	5	0:00:00.010231	266
+EIMihJruteAOdwgzjeoZU!	5	0:00:00.010264	267
+EIMihJruteARzwgzjeoZU!	5	0:00:00.010297	268
+EIMihJruteAIdwgzjeoZU!	5	0:00:00.010331	269
+EIMihJruteARdwgzjeoAU!	5	0:00:00.010364	270
+EIaihJruteARdwgzjeoZU!	5	0:00:00.010397	271
+EIMihJruteARdwwzjeoZU!	5	0:00:00.010431	272
+EIMihJxuteARdwgzjeoZU!	5	0:00:00.010464	273
+EIMihJruteARdwgzmeoZU!	5	0:00:00.010497	274
+EIMihJruteARdwgzjeoZU.	4	0:00:00.010531	275
+EIMihJrutwARdwgzjeoZU!	4	0:00:00.010564	276
+EIMihJruteARdwgzjRoZU!	5	0:00:00.010597	277
+EIMihJruteARdwxzjeoZU!	5	0:00:00.010630	278
+EIMihJruteAR.wgzjeoZU!	5	0:00:00.010663	279
+EIMiharuteARdwgzjeoZU!	5	0:00:00.010696	280
+EIMihJruteAgdwgzjeoZU!	5	0:00:00.010730	281
+EIMihJruteARdwfzjeoZU!	5	0:00:00.010786	282
+EIMihJruteARdwgzjeoYU!	5	0:00:00.010822	283
+EIMiQJruteARdwgzjeoZU!	5	0:00:00.010857	284
+EIMihJruteARdSgzjeoZU!	4	0:00:00.010890	285
+EIMihJLuteARdwgzjeoZU!	5	0:00:00.010923	286
+EIMihJruteARdwgzAeoZU!	5	0:00:00.010957	287
+EIMihJrwteARdwgzjeoZU!	4	0:00:00.010990	288
+EIMihJruteANdwgzjeoZU!	5	0:00:00.011023	289
+EnMihJruteARdwgzjeoZU!	5	0:00:00.011057	290
+EIMihJrudeARdwgzjeoZU!	5	0:00:00.011090	291
+EIMihHruteARdwgzjeoZU!	5	0:00:00.011123	292
+EIMihJruteARdwgzjeoZUF	4	0:00:00.011157	293
+EIMihJruteARdZgzjeoZU!	4	0:00:00.011190	294
+EIMihJruAeARdwgzjeoZU!	5	0:00:00.011223	295
+EIMihJruteARdwgzjeoPU!	5	0:00:00.011256	296
+EGMihJruteARdwgzjeoZU!	5	0:00:00.011289	297
+EIMihJruteARdwgzjeoZUH	4	0:00:00.011322	298
+EIMihJruteARdwgqjeoZU!	5	0:00:00.011356	299
+EIOihJruteARdwgzjeoZU!	5	0:00:00.011389	300
+EIMihJruteARdygzjeoZU!	4	0:00:00.011423	301
+EIMvhJruteARdwgzjeoZU!	4	0:00:00.011458	302
+iIMihJruteARdwgzjeoZU!	5	0:00:00.011492	303
+EIMihJrZteARdwgzjeoZU!	4	0:00:00.011525	304
+EIMyhJruteARdwgzjeoZU!	4	0:00:00.011559	305
+EIMidJruteARdwgzjeoZU!	5	0:00:00.011592	306
+EIM.hJruteARdwgzjeoZU!	4	0:00:00.011625	307
+EIMihzruteARdwgzjeoZU!	5	0:00:00.011658	308
+EIMihJruteARdwgzjeoZT!	5	0:00:00.011691	309
+EIMihJruteARdwgzjeoZE!	5	0:00:00.011725	310
+EIMihJruteARdwgzjeqZU!	5	0:00:00.011759	311
+EIMihmruteARdwgzjeoZU!	5	0:00:00.011792	312
+EIMihJrupeARdwgzjeoZU!	6	0:00:00.011825	313
+EIMihhrupeARdwgzjeoZU!	6	0:00:00.011875	314
+EIMieJrupeARdwgzjeoZU!	6	0:00:00.011908	315
+EIMihJrupTARdwgzjeoZU!	5	0:00:00.011942	316
+EIMihJrupeARdwgzjeoZUJ	5	0:00:00.011975	317
+EIMihJrupeARdmgzjeoZU!	5	0:00:00.012008	318
+EIMYhJrupeARdwgzjeoZU!	5	0:00:00.012041	319
+EIMihJrupeARdwQzjeoZU!	6	0:00:00.012075	320
+EIMihJrlpeARdwgzjeoZU!	5	0:00:00.012108	321
+nIMihJrupeARdwgzjeoZU!	6	0:00:00.012141	322
+EIMihJruseARdwgzjeoZU!	5	0:00:00.012175	323
+EIMihJrupetRdwgzjeoZU!	6	0:00:00.012208	324
+EIMihJrupeArdwgzjeoZU!	6	0:00:00.012242	325
+EIMihJrupeARdwgpjeoZU!	6	0:00:00.012275	326
+EIMihJrupeARdwgz eoZU!	6	0:00:00.012308	327
+EXMihJrupeARdwgzjeoZU!	6	0:00:00.012341	328
+EIMihJMupeARdwgzjeoZU!	6	0:00:00.012375	329
+EIMiYJrupeARdwgzjeoZU!	6	0:00:00.012408	330
+EIMihJrapeARdwgzjeoZU!	5	0:00:00.012442	331
+EIMihJrupeARdwgzjeoZm!	6	0:00:00.012475	332
+EIMihJrupeARdwgzjeoZI!	6	0:00:00.012509	333
+EIVihJrupeARdwgzjeoZU!	6	0:00:00.012543	334
+EIMihprupeARdwgzjeoZU!	6	0:00:00.012576	335
+EIMihJrupeVRdwgzjeoZU!	6	0:00:00.012610	336
+EIMihJBupeARdwgzjeoZU!	6	0:00:00.012643	337
+EIMihJrupeURdwgzjeoZU!	6	0:00:00.012677	338
+EIMiiJrupeARdwgzjeoZU!	6	0:00:00.012710	339
+EIMihJrupeARdwgzjeoZUm	5	0:00:00.012744	340
+EIMiEJrupeARdwgzjeoZU!	6	0:00:00.012777	341
+EIMihJrupeARdwgzjeoZUY	5	0:00:00.012811	342
+EIMihJrupeARdwgzjNoZU!	6	0:00:00.012845	343
+EIMihJrupeARdwgSjeoZU!	6	0:00:00.012878	344
+EIMihJrupeARTwgzjeoZU!	6	0:00:00.012912	345
+EIMihJjupeARdwgzjeoZU!	6	0:00:00.012945	346
+EIMihJrupeARdwgzjeo U!	7	0:00:00.012979	347
+EIvihJrupeARdwgzjeo U!	7	0:00:00.013028	348
+EIIihJrupeARdwgzjeo U!	7	0:00:00.013062	349
+EIMihJrupeARfwgzjeo U!	7	0:00:00.013095	350
+EIMihJrupeARdwgqjeo U!	7	0:00:00.013129	351
+EIMihJrupeARawgzjeo U!	7	0:00:00.013162	352
+EIMihJrupeARdwgejeo U!	7	0:00:00.013228	353
+EIMihJrupeARdwgzjet U!	7	0:00:00.013265	354
+EIMihJrupeARdtgzjeo U!	6	0:00:00.013299	355
+IIMihJrupeARdwgzjeo U!	7	0:00:00.013332	356
+EIMihJrupeARdwgzjeo UV	6	0:00:00.013366	357
+EIMihJrupeARdwgzjso U!	7	0:00:00.013400	358
+uIMihJrupeARdwgzjeo U!	7	0:00:00.013433	359
+EIMihJrupeqRdwgzjeo U!	7	0:00:00.013467	360
+pIMihJrupeARdwgzjeo U!	7	0:00:00.013501	361
+EIMihjrupeARdwgzjeo U!	7	0:00:00.013534	362
+EIMiBJrupeARdwgzjeo U!	7	0:00:00.013568	363
+EIMihJrupeARdwgzjeo Uf	6	0:00:00.013601	364
+EIMihJrupeARdwgzjer U!	7	0:00:00.013635	365
+EIMihJrupeARkwgzjeo U!	7	0:00:00.013695	366
+EIMihJrupeARdwgzteo U!	7	0:00:00.013735	367
+EIMihJrupeARdwgzTeo U!	7	0:00:00.013774	368
+EIkihJrupeARdwgzjeo U!	7	0:00:00.013811	369
+EIMihJrupeARdwgzjei U!	7	0:00:00.013848	370
+EIMihJrupeARDwgzjeo U!	7	0:00:00.013882	371
+EIMihJrupePRdwgzjeo U!	7	0:00:00.013916	372
+EIMihJrupeRRdwgzjeo U!	7	0:00:00.013950	373
+EtMihJrupeARdwgzjeo U!	7	0:00:00.013983	374
+EIMihJrupeARdRgzjeo U!	6	0:00:00.014035	375
+EICihJrupeARdwgzjeo U!	7	0:00:00.014071	376
+EIMihJru.eARdwgzjeo U!	6	0:00:00.014104	377
+EIMihJrupeARdwgzjef U!	7	0:00:00.014137	378
+EIMihJrCpeARdwgzjeo U!	6	0:00:00.014172	379
+EIMihJrupeARdwgzjeo Ua	6	0:00:00.014206	380
+EIMihJrupeARdwgzjKo U!	7	0:00:00.014239	381
+EIMihErupeARdwgzjeo U!	7	0:00:00.014272	382
+EIMihJrupeARdwgzjZo U!	7	0:00:00.014306	383
+EIMiyJrupeARdwgzjeo U!	7	0:00:00.014339	384
+EIMihJrupeAIdwgzjeo U!	7	0:00:00.014373	385
+EIMihJrupeARdwgzTeo U!	7	0:00:00.014407	386
+EIMihJXupeARdwgzjeo U!	7	0:00:00.014440	387
+EIMihJrupeARtwgzjeo U!	7	0:00:00.014474	388
+EIMihJrupeARdwezjeo U!	8	0:00:00.014507	389
+EI ihJrupeARdwezjeo U!	9	0:00:00.014556	390
+EI ihJrupeAXdwezjeo U!	9	0:00:00.014605	391
+EI ihJrupeARdwezjeoIU!	8	0:00:00.014639	392
+EI ihJrupeARdwezjfo U!	9	0:00:00.014673	393
+EI ihJrupeARdwezXeo U!	9	0:00:00.014708	394
+Eb ihJrupeARdwezjeo U!	9	0:00:00.014742	395
+EI ihJrupeARdweLjeo U!	9	0:00:00.014776	396
+EI ihJrUpeARdwezjeo U!	8	0:00:00.014810	397
+EI ihJPupeARdwezjeo U!	9	0:00:00.014844	398
+EI ihJrupedRdwezjeo U!	9	0:00:00.014877	399
+EI ihJrupeARdwezjew U!	9	0:00:00.014910	400
+EI ihJrupeARdwezjeo UT	8	0:00:00.014944	401
+EI ihJrupeARdwefjeo U!	9	0:00:00.014978	402
+RI ihJrupeARdwezjeo U!	9	0:00:00.015012	403
+EI ihyrupeARdwezjeo U!	9	0:00:00.015046	404
+EI ihJrUpeARdwezjeo U!	8	0:00:00.015079	405
+EIeihJrupeARdwezjeo U!	8	0:00:00.015115	406
+EI ihJrupeARdGezjeo U!	8	0:00:00.015149	407
+EI ihJrupeARdwezjeo Um	8	0:00:00.015183	408
+EI ihJrupeARdweijeo U!	9	0:00:00.015216	409
+EI ihJrupeARdfezjeo U!	8	0:00:00.015250	410
+EI ihJrupeyRdwezjeo U!	9	0:00:00.015284	411
+ZI ihJrupeARdwezjeo U!	9	0:00:00.015318	412
+EI ihJrupAARdwezjeo U!	8	0:00:00.015352	413
+EI icJrupeARdwezjeo U!	9	0:00:00.015386	414
+EI ihJruplARdwezjeo U!	8	0:00:00.015419	415
+EI iPJrupeARdwezjeo U!	9	0:00:00.015453	416
+EI ihJrupeARdwezjeH U!	9	0:00:00.015487	417
+NI ihJrupeARdwezjeo U!	9	0:00:00.015520	418
+EI QhJrupeARdwezjeo U!	8	0:00:00.015554	419
+EI ihJgupeARdwezjeo U!	9	0:00:00.015588	420
+EI ihJrupeARdwEzjeo U!	8	0:00:00.015621	421
+EI ihJrupeARdwezjeo UF	8	0:00:00.015655	422
+EI ihJrupeARdwezieo U!	9	0:00:00.015688	423
+EI ihJrupeARdwQzjeo U!	8	0:00:00.015722	424
+EI ihJrupeARdweyjeo U!	9	0:00:00.015756	425
+EI ihJrupePRdwezjeo U!	9	0:00:00.015789	426
+EI ihJrupeAvdwezjeo U!	9	0:00:00.015823	427
+EI ihJrupeARdwezpeo U!	9	0:00:00.015857	428
+EI ihJrupeARdwOzjeo U!	8	0:00:00.015891	429
+EI ihJrupiARdwezjeo U!	8	0:00:00.015924	430
+EI ihJrupeARdwetjeo U!	9	0:00:00.015957	431
+EI ihJrupeACdwezjeo U!	9	0:00:00.015991	432
+EI ihJrupeTRdwezjeo U!	9	0:00:00.016024	433
+EI ihOrupeARdwezjeo U!	9	0:00:00.016058	434
+EI ihJrupeQRdwezjeo U!	9	0:00:00.016091	435
+EI ihJrupeARLwezjeo U!	9	0:00:00.016125	436
+EI ihJrupxARdwezjeo U!	8	0:00:00.016158	437
+EI ihJrupeARdw zjeo U!	8	0:00:00.016192	438
+EI ihJrupeARdwezOeo U!	9	0:00:00.016225	439
+EI ihJrupeARdw!zjeo U!	8	0:00:00.016259	440
+EI ihJrIpeARdwezjeo U!	8	0:00:00.016293	441
+EI ihJrupeARdwezjeo m!	9	0:00:00.016326	442
+EIsihJrupeARdwezjeo U!	8	0:00:00.016360	443
+EI ihJqupeARdwezjeo U!	9	0:00:00.016393	444
+EI ihJrupeARewezjeo U!	9	0:00:00.016427	445
+EI ihJrupeARdweFjeo U!	9	0:00:00.016460	446
+EI ihJrupeARdwezjoo U!	9	0:00:00.016494	447
+EI ihJrupeARLwezjeo U!	9	0:00:00.016528	448
+EI ihJrupeARdwezjeoTU!	8	0:00:00.016561	449
+VI ihJrupeARdwezjeo U!	9	0:00:00.016595	450
+EI ihJrupeARdwmzjeo U!	8	0:00:00.016629	451
+EI ihJZupeARdwezjeo U!	9	0:00:00.016662	452
+EQ ihJrupeARdwezjeo U!	9	0:00:00.016696	453
+EIEihJrupeARdwezjeo U!	8	0:00:00.016730	454
+EI ihJrupeARdwezjeoxU!	8	0:00:00.016764	455
+EI ihJrJpeARdwezjeo U!	8	0:00:00.016799	456
+EI ihtrupeARdwezjeo U!	9	0:00:00.016833	457
+EI ihJWupeARdwezjeo U!	9	0:00:00.016868	458
+EI ihJrupeqRdwezjeo U!	9	0:00:00.016902	459
+EI ihJrupXARdwezjeo U!	8	0:00:00.016937	460
+EI ihJrupeARdwezjew U!	9	0:00:00.016971	461
+kI ihJrupeARdwezjeo U!	9	0:00:00.017006	462
+EI ihJEupeARdwezjeo U!	9	0:00:00.017040	463
+EI ihJrupeNRdwezjeo U!	9	0:00:00.017075	464
+EI ihJrupeARdJezjeo U!	8	0:00:00.017109	465
+EI ihJrupeARd ezjeo U!	8	0:00:00.017144	466
+EIWihJrupeARdwezjeo U!	8	0:00:00.017178	467
+EI ihJrupeLRdwezjeo U!	9	0:00:00.017239	468
+EI ihJrupeAedwezjeo U!	9	0:00:00.017308	469
+EI ihJrupeAAdwezjeo U!	9	0:00:00.017343	470
+EI ihJrupeARdwezjez U!	9	0:00:00.017378	471
+EI ihJrupewRdwezjeo U!	9	0:00:00.017412	472
+EI ihJrupeARdwezjeoEU!	8	0:00:00.017446	473
+EI ihJrupeARdwezjeJ U!	9	0:00:00.017481	474
+XI ihJrupeARdwezjeo U!	9	0:00:00.017515	475
+EIQihJrupeARdwezjeo U!	8	0:00:00.017550	476
+EI ihJrupeARdaezjeo U!	8	0:00:00.017584	477
+EI ihJrupeARdwezjeobU!	8	0:00:00.017618	478
+EI ihJrupeSRdwezjeo U!	9	0:00:00.017652	479
+EI ihJrupeARdwezreo U!	9	0:00:00.017686	480
+EI ihJrupMARdwezjeo U!	8	0:00:00.017720	481
+EITihJrupeARdwezjeo U!	8	0:00:00.017755	482
+EI ihJrupeAmdwezjeo U!	9	0:00:00.017789	483
+EI ihJrupeARdwezjeoCU!	8	0:00:00.017823	484
+EI khJrupeARdwezjeo U!	8	0:00:00.017857	485
+EI ihJruyeARdwezjeo U!	8	0:00:00.017891	486
+EI ihJrupeARdwezjeo H!	9	0:00:00.017926	487
+EI ihJrupeATdwezjeo U!	9	0:00:00.017960	488
+EJ ihJrupeARdwezjeo U!	9	0:00:00.017995	489
+Ev ihJrupeARdwezjeo U!	9	0:00:00.018029	490
+EI ihKrupeARdwezjeo U!	9	0:00:00.018064	491
+EI ihJrupeARd.ezjeo U!	8	0:00:00.018098	492
+EI ihJrupeARdCezjeo U!	8	0:00:00.018132	493
+EI ihJrupeARdwezSeo U!	9	0:00:00.018166	494
+EI ihJruplARdwezjeo U!	8	0:00:00.018200	495
+EI ihJrupeARJwezjeo U!	9	0:00:00.018234	496
+EI ihJrkpeARdwezjeo U!	8	0:00:00.018268	497
+EI ihJrCpeARdwezjeo U!	8	0:00:00.018301	498
+EI ihZrupeARdwezjeo U!	9	0:00:00.018335	499
+EI ihJrupeARdwezjeH U!	9	0:00:00.018381	500
+EI ihJrupe Rdwezjeo U!	9	0:00:00.018416	501
+EI ihJrupeARdwezjeo m!	9	0:00:00.018449	502
+EI ihJrupeARdwezCeo U!	9	0:00:00.018483	503
+EI ihJrupeARdweWjeo U!	9	0:00:00.018517	504
+EI ihJrueeARdwezjeo U!	8	0:00:00.018550	505
+EI ihJrupeARdwezFeo U!	9	0:00:00.018584	506
+EI ihJrMpeARdwezjeo U!	8	0:00:00.018618	507
+EI ihJrupQARdwezjeo U!	8	0:00:00.018651	508
+EI ihJrupelRdwezjeo U!	9	0:00:00.018685	509
+EI ihJrupeARdwezFeo U!	9	0:00:00.018720	510
+EI ihJrupeURdwezjeo U!	9	0:00:00.018754	511
+EI ihJrupeARdwezjej U!	9	0:00:00.018787	512
+EI ihJrupe Rdwezjeo U!	9	0:00:00.018821	513
+EI ihJrupeARdwezjeo Ub	8	0:00:00.018855	514
+EI ihJrugeARdwezjeo U!	8	0:00:00.018889	515
+EI ihJrupeARxwezjeo U!	9	0:00:00.018923	516
+EI ihJrupeARdwezjeD U!	9	0:00:00.018956	517
+EI ihJrupeARdwezjeoQU!	8	0:00:00.018990	518
+EI ihrrupeARdwezjeo U!	9	0:00:00.019024	519
+EI ihJruperRdwezjeo U!	10	0:00:00.019059	520
+EI .hJruperRdwezjeo U!	9	0:00:00.019109	521
+Ej ihJruperRdwezjeo U!	10	0:00:00.019143	522
+EI ihJruperRdwezjeH U!	10	0:00:00.019178	523
+EI ihJrupKrRdwezjeo U!	9	0:00:00.019212	524
+EI ihJru!erRdwezjeo U!	9	0:00:00.019269	525
+EI ihJruNerRdwezjeo U!	9	0:00:00.019339	526
+EI ihJruperRdwezjEo U!	10	0:00:00.019400	527
+EI ihJruperRdPezjeo U!	9	0:00:00.019467	528
+EI ihJruperRdsezjeo U!	9	0:00:00.019515	529
+EI ihxruperRdwezjeo U!	10	0:00:00.019550	530
+EI ihJrWperRdwezjeo U!	9	0:00:00.019614	531
+EI ihJrwperRdwezjeo U!	9	0:00:00.019658	532
+EI ihlruperRdwezjeo U!	10	0:00:00.019693	533
+EI ihhruperRdwezjeo U!	10	0:00:00.019728	534
+EI iRJruperRdwezjeo U!	10	0:00:00.019763	535
+EI ihJruperRdNezjeo U!	9	0:00:00.019797	536
+EI ihJruperRdwxzjeo U!	9	0:00:00.019831	537
+EI ihJruMerRdwezjeo U!	9	0:00:00.019865	538
+EI ihsruperRdwezjeo U!	10	0:00:00.019900	539
+ED ihJruperRdwezjeo U!	10	0:00:00.019934	540
+EI ihJruperRdwezjeo n!	10	0:00:00.019969	541
+EI ihJouperRdwezjeo U!	10	0:00:00.020003	542
+EIQihJruperRdwezjeo U!	9	0:00:00.020039	543
+EI ihJrfperRdwezjeo U!	9	0:00:00.020074	544
+EI ihJrkperRdwezjeo U!	9	0:00:00.020108	545
+EI ihJruperRdwezjeo U.	9	0:00:00.020143	546
+EI ihJruperRdlezjeo U!	9	0:00:00.020178	547
+EI ihJru!erRdwezjeo U!	9	0:00:00.020213	548
+EI iYJruperRdwezjeo U!	10	0:00:00.020247	549
+EI ihJKuperRdwezjeo U!	10	0:00:00.020283	550
+EI ihJruperRdwedjeo U!	10	0:00:00.020318	551
+EI ihJruperRPwezjeo U!	10	0:00:00.020353	552
+EI ihJIuperRdwezjeo U!	10	0:00:00.020388	553
+EI ihJruGerRdwezjeo U!	9	0:00:00.020423	554
+EI yhJruperRdwezjeo U!	9	0:00:00.020458	555
+EI ihJrsperRdwezjeo U!	9	0:00:00.020492	556
+EI ihJruperRdIezjeo U!	9	0:00:00.020527	557
+Eo ihJruperRdwezjeo U!	10	0:00:00.020562	558
+EI ihJruperRdwezjeo US	9	0:00:00.020596	559
+EI ihJruperRdwezjeoFU!	9	0:00:00.020630	560
+EI ihJrXperRdwezjeo U!	9	0:00:00.020704	561
+EI ihJOuperRdwezjeo U!	10	0:00:00.020762	562
+EI ihJruperRdwezjeo A!	10	0:00:00.020829	563
+EI ihJrupeERdwezjeo U!	9	0:00:00.020883	564
+EI ihJruperRdTezjeo U!	9	0:00:00.020934	565
+EI ihJruperRdwezjzo U!	10	0:00:00.020997	566
+EI ihJrFperRdwezjeo U!	9	0:00:00.021054	567
+EI ihJruperRdwezjeK U!	10	0:00:00.021114	568
+EI ihJruperUdwezjeo U!	10	0:00:00.021172	569
+EI ihJeuperRdwezjeo U!	10	0:00:00.021265	570
+EI ihJruperRdwdzjeo U!	9	0:00:00.021315	571
+EI iqJruperRdwezjeo U!	10	0:00:00.021356	572
+EI ihJrIperRdwezjeo U!	9	0:00:00.021384	573
+EI ihJuuperRdwezjeo U!	10	0:00:00.021430	574
+EI XhJruperRdwezjeo U!	9	0:00:00.021477	575
+ I ihJruperRdwezjeo U!	10	0:00:00.021525	576
+EIOihJruperRdwezjeo U!	9	0:00:00.021577	577
+EI ihJruperRdwezjeoaU!	9	0:00:00.021634	578
+EB ihJruperRdwezjeo U!	10	0:00:00.021690	579
+EI ihmruperRdwezjeo U!	10	0:00:00.021737	580
+EI ihJruperRdwbzjeo U!	9	0:00:00.021803	581
+EI ihJruphrRdwezjeo U!	9	0:00:00.021867	582
+EI WhJruperRdwezjeo U!	9	0:00:00.021913	583
+EI ihJruperRdwekjeo U!	10	0:00:00.021964	584
+EI ihJruperRdwlzjeo U!	9	0:00:00.022017	585
+EI ihJruperRdwezjea U!	10	0:00:00.022068	586
+EI ihJruperRdwezjeW U!	10	0:00:00.022114	587
+EIjihJruperRdwezjeo U!	9	0:00:00.022162	588
+EI ihJruperRdwezzeo U!	10	0:00:00.022211	589
+EI ihJruperRdwezveo U!	10	0:00:00.022264	590
+EI ihLruperRdwezjeo U!	10	0:00:00.022314	591
+JI ihJruperRdwezjeo U!	10	0:00:00.022381	592
+EI ihJrupDrRdwezjeo U!	9	0:00:00.022418	593
+EIwihJruperRdwezjeo U!	9	0:00:00.022449	594
+EI ihJrupeNRdwezjeo U!	9	0:00:00.022474	595
+EI ihJruperRdwezjeo Um	9	0:00:00.022502	596
+EI ahJruperRdwezjeo U!	9	0:00:00.022531	597
+EI ihJruperIdwezjeo U!	10	0:00:00.022557	598
+EIAihJruperRdwezjeo U!	9	0:00:00.022583	599
+EI ihJruperRdwezYeo U!	10	0:00:00.022611	600
+EI ihJruperRBwezjeo U!	10	0:00:00.022637	601
+EI ihJruperRcwezjeo U!	10	0:00:00.022663	602
+EI ihJruperRdwezjeo !!	11	0:00:00.022690	603
+EIOihJruperRdwezjeo !!	10	0:00:00.022735	604
+EI ihJrupKrRdwezjeo !!	10	0:00:00.022791	605
+EI ihJXuperRdwezjeo !!	11	0:00:00.022835	606
+EI ihJruperRdweVjeo !!	11	0:00:00.022865	607
+EI ihJruperRdwezjeo k!	10	0:00:00.022890	608
+EI ihJruperRdwezIeo !!	11	0:00:00.022933	609
+EI ihJruperRdwezjeo v!	10	0:00:00.022982	610
+EI HhJruperRdwezjeo !!	10	0:00:00.023027	611
+EI ihJruper dwezjeo !!	12	0:00:00.023078	612
+EI ihCruper dwezjeo !!	12	0:00:00.023126	613
+EI EhJruper dwezjeo !!	11	0:00:00.023154	614
+EI ihJruper dwezjeo !c	11	0:00:00.023179	615
+EI ihJrupmr dwezjeo !!	11	0:00:00.023205	616
+EI iSJruper dwezjeo !!	12	0:00:00.023231	617
+EI ihJruper dwyzjeo !!	11	0:00:00.023257	618
+EI ihJruper dwezSeo !!	12	0:00:00.023283	619
+EI ihJruper dSezjeo !!	11	0:00:00.023311	620
+lI ihJruper dwezjeo !!	12	0:00:00.023338	621
+EI ihJruper dwNzjeo !!	11	0:00:00.023365	622
+EI ihJrup!r dwezjeo !!	11	0:00:00.023392	623
+EI ihJruper dwegjeo !!	12	0:00:00.023418	624
+EI ihJruper dwezjeO !!	12	0:00:00.023445	625
+EI ihJkuper dwezjeo !!	12	0:00:00.023470	626
+EI ihJrupdr dwezjeo !!	11	0:00:00.023497	627
+EI ihJruper dWezjeo !!	11	0:00:00.023525	628
+EI ihJruper dwezdeo !!	12	0:00:00.023550	629
+EI ihJrIper dwezjeo !!	11	0:00:00.023575	630
+EI ihJruperbdwezjeo !!	11	0:00:00.023601	631
+EI ihJruperMdwezjeo !!	11	0:00:00.023626	632
+EI ihjruper dwezjeo !!	12	0:00:00.023654	633
+EI ihJ.uper dwezjeo !!	12	0:00:00.023679	634
+EI ihJruper dwezjuo !!	12	0:00:00.023706	635
+ES ihJruper dwezjeo !!	12	0:00:00.023732	636
+EI ihJruper dSezjeo !!	11	0:00:00.023759	637
+EI ihJruper dwezjlo !!	12	0:00:00.023784	638
+EI ihJEuper dwezjeo !!	12	0:00:00.023811	639
+EI jhJruper dwezjeo !!	11	0:00:00.023837	640
+EI ihJrlper dwezjeo !!	11	0:00:00.023864	641
+EI ihJruper ddezjeo !!	11	0:00:00.023890	642
+EI ihJruper dwezjeo P!	11	0:00:00.023917	643
+EI ihJrupcr dwezjeo !!	11	0:00:00.023942	644
+EI ihJruper dwe jeo !!	12	0:00:00.023970	645
+EI ihJruper Twezjeo !!	12	0:00:00.023999	646
+EI ihJruper dwezjeoy!!	11	0:00:00.024025	647
+EI ihJruper dwezjeo !u	11	0:00:00.024052	648
+EI iWJruper dwezjeo !!	12	0:00:00.024079	649
+EI ihJruper Swezjeo !!	12	0:00:00.024104	650
+EI ihJruper dwezjeo !P	11	0:00:00.024129	651
+EI ihmruper dwezjeo !!	12	0:00:00.024154	652
+EI ihJruper dwezjeo f!	11	0:00:00.024232	653
+EI ihJruper!dwezjeo !!	11	0:00:00.024273	654
+EI icJruper dwezjeo !!	12	0:00:00.024299	655
+EIKihJruper dwezjeo !!	11	0:00:00.024325	656
+EI ihJrupUr dwezjeo !!	11	0:00:00.024350	657
+EI itJruper dwezjeo !!	12	0:00:00.024375	658
+EI iVJruper dwezjeo !!	12	0:00:00.024399	659
+EI ihJruper dwezxeo !!	12	0:00:00.024425	660
+EI ihJruperkdwezjeo !!	11	0:00:00.024450	661
+EI ihJroper dwezjeo !!	11	0:00:00.024475	662
+EI ihJrupec dwezjeo !!	11	0:00:00.024500	663
+EI ihhruper dwezjeo !!	12	0:00:00.024524	664
+EI ihJrumer dwezjeo !!	11	0:00:00.024549	665
+EI ihJruper Lwezjeo !!	12	0:00:00.024574	666
+EI ihJruper dwezQeo !!	12	0:00:00.024599	667
+EI ihJruper dwezYeo !!	12	0:00:00.024624	668
+EI ihJrZper dwezjeo !!	11	0:00:00.024649	669
+EI ihJruper dweljeo !!	12	0:00:00.024673	670
+EI ihJrupeH dwezjeo !!	11	0:00:00.024698	671
+EITihJruper dwezjeo !!	11	0:00:00.024723	672
+EI ihJruper Lwezjeo !!	12	0:00:00.024747	673
+EIHihJruper dwezjeo !!	11	0:00:00.024772	674
+EI ihJruXer dwezjeo !!	11	0:00:00.024796	675
+wI ihJruper dwezjeo !!	12	0:00:00.024821	676
+EI ihJrupeH dwezjeo !!	11	0:00:00.024846	677
+EIcihJruper dwezjeo !!	11	0:00:00.024871	678
+EI ihJruKer dwezjeo !!	11	0:00:00.024895	679
+EI ihjruper dwezjeo !!	12	0:00:00.024920	680
+EI iVJruper dwezjeo !!	12	0:00:00.024945	681
+EI ihJruper dwezjeo !h	11	0:00:00.024970	682
+EIAihJruper dwezjeo !!	11	0:00:00.024994	683
+EIWihJruper dwezjeo !!	11	0:00:00.025019	684
+EI ihJruper dwezjeo Y!	11	0:00:00.025043	685
+EI ihJruper dwezj o !!	12	0:00:00.025068	686
+EI ihJruper dwezjco !!	12	0:00:00.025093	687
+EI ihJruper dwezjeo !P	11	0:00:00.025117	688
+EQ ihJruper dwezjeo !!	12	0:00:00.025142	689
+EI ihJruper dwezjeo !.	11	0:00:00.025167	690
+EI ihJruper dUezjeo !!	11	0:00:00.025201	691
+EI ihJruper dwezjeI !!	12	0:00:00.025229	692
+EI ihJruper dwezjxo !!	12	0:00:00.025274	693
+EI PhJruper dwezjeo !!	11	0:00:00.025299	694
+EI ihJrupek dwezjeo !!	11	0:00:00.025324	695
+EI AhJruper dwezjeo !!	11	0:00:00.025348	696
+nI ihJruper dwezjeo !!	12	0:00:00.025373	697
+EI ihJruper dwezjeo !z	11	0:00:00.025398	698
+EI ihJruper dwebjeo !!	12	0:00:00.025423	699
+EI ihJruper dWezjeo !!	11	0:00:00.025448	700
+EI ihJruper dwezjez !!	12	0:00:00.025474	701
+EI ihJruper dwezjIo !!	12	0:00:00.025499	702
+EI FhJruper dwezjeo !!	11	0:00:00.025524	703
+AI ihJruper dwezjeo !!	13	0:00:00.025549	704
+AI ihJruper dwez eo !!	13	0:00:00.025587	705
+AI ihJruper dwgzjeo !!	12	0:00:00.025612	706
+AI ihJruper dwepjeo !!	13	0:00:00.025638	707
+AI ihJrdper dwezjeo !!	12	0:00:00.025663	708
+AI ihJruper dweVjeo !!	13	0:00:00.025688	709
+AI ihJruper dweOjeo !!	13	0:00:00.025713	710
+AI ihJrupes dwezjeo !!	12	0:00:00.025738	711
+AI ihJruper dwezjeoi!!	12	0:00:00.025763	712
+AI ihJrupeK dwezjeo !!	12	0:00:00.025789	713
+AI ihJruper dwezjeN !!	13	0:00:00.025814	714
+AI ihJruperhdwezjeo !!	12	0:00:00.025840	715
+AI ihJmuper dwezjeo !!	13	0:00:00.025877	716
+AI ihJruper djezjeo !!	12	0:00:00.025903	717
+AI fhJruper dwezjeo !!	12	0:00:00.025928	718
+AI iOJruper dwezjeo !!	13	0:00:00.025953	719
+AI ihJruper dwezjeo J!	12	0:00:00.025990	720
+HI ihJruper dwezjeo !!	12	0:00:00.026041	721
+AI ihJruper dgezjeo !!	12	0:00:00.026074	722
+AI ihJruper dwezxeo !!	13	0:00:00.026099	723
+AI ihJruper dwezEeo !!	13	0:00:00.026124	724
+AI.ihJruper dwezjeo !!	12	0:00:00.026149	725
+AI ihJruper dnezjeo !!	12	0:00:00.026174	726
+An ihJruper dwezjeo !!	13	0:00:00.026199	727
+AI ihJruperQdwezjeo !!	12	0:00:00.026224	728
+AI ihJruWer dwezjeo !!	12	0:00:00.026249	729
+AIdihJruper dwezjeo !!	12	0:00:00.026274	730
+AI ihJruper dwezjeo !Y	12	0:00:00.026301	731
+AI ihJrupeV dwezjeo !!	12	0:00:00.026332	732
+AI ihJluper dwezjeo !!	13	0:00:00.026363	733
+AI ieJruper dwezjeo !!	13	0:00:00.026393	734
+AI ihsruper dwezjeo !!	13	0:00:00.026420	735
+wI ihJruper dwezjeo !!	12	0:00:00.026450	736
+AI iEJruper dwezjeo !!	13	0:00:00.026480	737
+AI ihJruper dNezjeo !!	12	0:00:00.026510	738
+AI ihJruper dwezjeo Z!	12	0:00:00.026538	739
+AI ihJruper dwZzjeo !!	12	0:00:00.026570	740
+AI ihJraper dwezjeo !!	12	0:00:00.026599	741
+AI ihJruper dwezjeo !l	12	0:00:00.026624	742
+AI ihJruperEdwezjeo !!	12	0:00:00.026649	743
+AI NhJruper dwezjeo !!	12	0:00:00.026698	744
+AI ihJruper dwezjeow!!	12	0:00:00.026725	745
+AI ihJruper twezjeo !!	13	0:00:00.026751	746
+AI itJruper dwezjeo !!	13	0:00:00.026776	747
+AI ihJrcper dwezjeo !!	12	0:00:00.026801	748
+AI ihJruper dwezje. !!	13	0:00:00.026826	749
+AI ihJrupeo dwezjeo !!	12	0:00:00.026851	750
+AI ihJpuper dwezjeo !!	13	0:00:00.026876	751
+AI iheruper dwezjeo !!	13	0:00:00.026901	752
+An ihJruper dwezjeo !!	13	0:00:00.026926	753
+AI ChJruper dwezjeo !!	12	0:00:00.026951	754
+AI ihHruper dwezjeo !!	13	0:00:00.026976	755
+AI ihJruWer dwezjeo !!	12	0:00:00.027001	756
+AI ihmruper dwezjeo !!	13	0:00:00.027027	757
+AI ihJSuper dwezjeo !!	14	0:00:00.027051	758
+AI ihJSuper dwezjeo !U	13	0:00:00.027088	759
+AI!ihJSuper dwezjeo !!	13	0:00:00.027113	760
+AI ihJnuper dwezjeo !!	13	0:00:00.027138	761
+AI ihJSuper dwezOeo !!	14	0:00:00.027163	762
+dI ihJSuper dwezjeo !!	13	0:00:00.027188	763
+AI ihJSuper dwezyeo !!	14	0:00:00.027213	764
+An ihJSuper dwezjeo !!	14	0:00:00.027238	765
+AI ihJSuper dwDzjeo !!	13	0:00:00.027263	766
+AI ihJSuper dwezjeoT!!	13	0:00:00.027288	767
+AI ihJSuper dwezjeu !!	14	0:00:00.027313	768
+AI ihJSupwr dwezjeo !!	13	0:00:00.027338	769
+AI ihJSuper dwpzjeo !!	13	0:00:00.027363	770
+AI ihJSuperGdwezjeo !!	13	0:00:00.027388	771
+AI ihJSuper dwezjeq !!	14	0:00:00.027413	772
+AI ihJSuper dwezj!o !!	14	0:00:00.027438	773
+AI ihJSuper hwezjeo !!	14	0:00:00.027463	774
+AI ihJSupor dwezjeo !!	13	0:00:00.027488	775
+AIxihJSuper dwezjeo !!	13	0:00:00.027514	776
+AI ihJSuper dwezjel !!	14	0:00:00.027540	777
+AI ihJSuperndwezjeo !!	13	0:00:00.027565	778
+AI ihJvuper dwezjeo !!	13	0:00:00.027589	779
+AI ihJSuper dweVjeo !!	14	0:00:00.027614	780
+AI ihJSuper dwezjeo !b	13	0:00:00.027640	781
+xI ihJSuper dwezjeo !!	13	0:00:00.027665	782
+AI ihJSuper dwezjeH !!	14	0:00:00.027690	783
+AI ihJSuperVdwezjeo !!	13	0:00:00.027715	784
+AI ihJSuper dwezjLo !!	14	0:00:00.027740	785
+AI ihJSuper dwezjem !!	14	0:00:00.027765	786
+AI EhJSuper dwezjeo !!	13	0:00:00.027790	787
+AI ihJSuper dwezjeo G!	13	0:00:00.027815	788
+AI ihJSup!r dwezjeo !!	13	0:00:00.027840	789
+AI ihJSuper dwezjeoa!!	13	0:00:00.027865	790
+AI ihgSuper dwezjeo !!	14	0:00:00.027890	791
+AI igJSuper dwezjeo !!	14	0:00:00.027915	792
+AI ihJSuwer dwezjeo !!	13	0:00:00.027940	793
+AI ihJSuper Lwezjeo !!	14	0:00:00.027965	794
+AI ihJSupev dwezjeo !!	13	0:00:00.027990	795
+AI ihJSuper dwezjeo c!	13	0:00:00.028015	796
+AI ihJSuper dwezeeo !!	14	0:00:00.028040	797
+AI ihJSuperHdwezjeo !!	13	0:00:00.028065	798
+AI ihJSuper diezjeo !!	13	0:00:00.028090	799
+AI ihJS!per dwezjeo !!	13	0:00:00.028115	800
+AI ihJSBper dwezjeo !!	13	0:00:00.028140	801
+AI ihJSuperedwezjeo !!	13	0:00:00.028165	802
+AI ihJSuFer dwezjeo !!	13	0:00:00.028190	803
+AI ihJSuper djezjeo !!	13	0:00:00.028216	804
+AI ihJSbper dwezjeo !!	13	0:00:00.028240	805
+AI ihJSOper dwezjeo !!	13	0:00:00.028266	806
+AI ihJSuper dwezjxo !!	14	0:00:00.028291	807
+AI ihJSuper dwJzjeo !!	13	0:00:00.028316	808
+AA ihJSuper dwezjeo !!	14	0:00:00.028341	809
+AI iQJSuper dwezjeo !!	14	0:00:00.028366	810
+AI ihJSuperwdwezjeo !!	13	0:00:00.028391	811
+AILihJSuper dwezjeo !!	13	0:00:00.028416	812
+AI rhJSuper dwezjeo !!	13	0:00:00.028441	813
+AI ihJSuper dwezjeo !C	13	0:00:00.028466	814
+AI ihJSuper dwezjeo m!	13	0:00:00.028491	815
+AI ihJSuper dwezjeo !v	13	0:00:00.028517	816
+AI ihJSAper dwezjeo !!	13	0:00:00.028542	817
+AI ihJSuper dwebjeo !!	14	0:00:00.028568	818
+AI ihJSuper dwezjeo !z	13	0:00:00.028593	819
+AI ihJSqper dwezjeo !!	13	0:00:00.028618	820
+AI ihJSuper dwezieo !!	14	0:00:00.028643	821
+AI ihJSuper dweCjeo !!	14	0:00:00.028668	822
+AI ihJSuper dwezjeo !y	13	0:00:00.028693	823
+AI ihJSuOer dwezjeo !!	13	0:00:00.028718	824
+AI  hJSuper dwezjeo !!	13	0:00:00.028742	825
+AI ihJSuzer dwezjeo !!	13	0:00:00.028767	826
+AI ihJzuper dwezjeo !!	13	0:00:00.028793	827
+AI ihJSOper dwezjeo !!	13	0:00:00.028818	828
+AI ihJSLper dwezjeo !!	13	0:00:00.028842	829
+AI ihJSZper dwezjeo !!	13	0:00:00.028867	830
+AI MhJSuper dwezjeo !!	13	0:00:00.028892	831
+AIbihJSuper dwezjeo !!	13	0:00:00.028917	832
+AI ihJSuper dwesjeo !!	15	0:00:00.028942	833
+AI ihJSuper dwesjwo !!	15	0:00:00.028978	834
+XI ihJSuper dwesjeo !!	14	0:00:00.029015	835
+AI ihJSuper dwe.jeo !!	14	0:00:00.029041	836
+AI ihjSuper dwesjeo !!	15	0:00:00.029067	837
+Ae ihJSuper dwesjeo !!	15	0:00:00.029092	838
+AI ihJSuper dweRjeo !!	14	0:00:00.029117	839
+AI ihJSuper dwesjDo !!	15	0:00:00.029142	840
+EI ihJSuper dwesjeo !!	14	0:00:00.029167	841
+AI ihJSuder dwesjeo !!	14	0:00:00.029200	842
+AI ihJSuper dTesjeo !!	14	0:00:00.029238	843
+AI ihJSuper dwVsjeo !!	14	0:00:00.029264	844
+AI ihJSuper dwesjeE !!	15	0:00:00.029290	845
+AI ihJSuper nwesjeo !!	15	0:00:00.029327	846
+AI ihJSuper daesjeo !!	14	0:00:00.029352	847
+AIWihJSuper dwesjeo !!	14	0:00:00.029377	848
+AI ihJSuper dwesjAo !!	15	0:00:00.029402	849
+AI mhJSuper dwesjeo !!	14	0:00:00.029428	850
+AI i.JSuper dwesjeo !!	15	0:00:00.029453	851
+AI ihJSup.r dwesjeo !!	14	0:00:00.029478	852
+AI ihJSuper owesjeo !!	15	0:00:00.029503	853
+AI ihJSuper dwesjeo !j	14	0:00:00.029528	854
+AI ihJSuper dwesjeoG!!	14	0:00:00.029553	855
+AI ihJSuper dfesjeo !!	14	0:00:00.029578	856
+AI ihJSuperLdwesjeo !!	14	0:00:00.029603	857
+AI ihJSuper dSesjeo !!	14	0:00:00.029628	858
+AIKihJSuper dwesjeo !!	14	0:00:00.029653	859
+AI ihJSuper dwesjro !!	15	0:00:00.029677	860
+AI ihJSuper dwesjBo !!	15	0:00:00.029702	861
+AI ihJSuprr dwesjeo !!	14	0:00:00.029727	862
+AI ihJSupBr dwesjeo !!	14	0:00:00.029752	863
+AI ihJSuper dwesReo !!	15	0:00:00.029777	864
+AI ihJSuper dwesjeo !d	14	0:00:00.029802	865
+AI ihJSuper dwesjeo K!	14	0:00:00.029827	866
+AI ihJSuperTdwesjeo !!	14	0:00:00.029852	867
+AI ihJSuper Kwesjeo !!	15	0:00:00.029877	868
+AI ihJSuper dwesjeoq!!	14	0:00:00.029902	869
+AI ihJSuper dwesjeo P!	14	0:00:00.029927	870
+AI ihJluper dwesjeo !!	14	0:00:00.029952	871
+AI ihJAuper dwesjeo !!	14	0:00:00.029976	872
+AI ihJSuper dwesjei !!	15	0:00:00.030002	873
+AI MhJSuper dwesjeo !!	14	0:00:00.030027	874
+GI ihJSuper dwesjeo !!	14	0:00:00.030051	875
+AI ihJSupNr dwesjeo !!	14	0:00:00.030076	876
+AI ihJ.uper dwesjeo !!	14	0:00:00.030101	877
+AI ihJSupeb dwesjeo !!	14	0:00:00.030126	878
+AI ivJSuper dwesjeo !!	15	0:00:00.030151	879
+AI ihJSupWr dwesjeo !!	14	0:00:00.030176	880
+AI ihJSuperudwesjeo !!	14	0:00:00.030201	881
+AI ihJSuperJdwesjeo !!	14	0:00:00.030225	882
+AI ihJSuyer dwesjeo !!	14	0:00:00.030250	883
+AI ihJSuper dwesjeU !!	15	0:00:00.030276	884
+AI ihJSuperYdwesjeo !!	14	0:00:00.030300	885
+AI ihJSuTer dwesjeo !!	14	0:00:00.030325	886
+AI ihJSuper dwesjeo !H	14	0:00:00.030350	887
+AI ihJSuper dwMsjeo !!	14	0:00:00.030375	888
+AI imJSuper dwesjeo !!	15	0:00:00.030400	889
+AI iLJSuper dwesjeo !!	15	0:00:00.030425	890
+AI ihJSuper dwesjyo !!	15	0:00:00.030450	891
+AI ihJSuperfdwesjeo !!	14	0:00:00.030474	892
+AI iYJSuper dwesjeo !!	15	0:00:00.030499	893
+AI ihJSuper dwesjeW !!	15	0:00:00.030525	894
+AI ihJSbper dwesjeo !!	14	0:00:00.030549	895
+AI ihJSuper dwesjeo Y!	14	0:00:00.030574	896
+AI iuJSuper dwesjeo !!	15	0:00:00.030599	897
+AI ihJSjper dwesjeo !!	14	0:00:00.030624	898
+AB ihJSuper dwesjeo !!	15	0:00:00.030649	899
+AI ihdSuper dwesjeo !!	15	0:00:00.030674	900
+AI ihJSuper dwjsjeo !!	14	0:00:00.030699	901
+AI ihJSuLer dwesjeo !!	14	0:00:00.030724	902
+.I ihJSuper dwesjeo !!	14	0:00:00.030749	903
+AQ ihJSuper dwesjeo !!	15	0:00:00.030774	904
+AI ihJSuperidwesjeo !!	14	0:00:00.030800	905
+AI ihJpuper dwesjeo !!	14	0:00:00.030824	906
+AI ihJSuper dTesjeo !!	14	0:00:00.030849	907
+AI ihJSFper dwesjeo !!	14	0:00:00.030874	908
+AI ihJSupez dwesjeo !!	14	0:00:00.030899	909
+AI ihJSuper dhesjeo !!	14	0:00:00.030924	910
+AI ihJSuper dwesjeo K!	14	0:00:00.030949	911
+AI ihESuper dwesjeo !!	15	0:00:00.030973	912
+AIQihJSuper dwesjeo !!	14	0:00:00.030998	913
+AI ihJSuper dwMsjeo !!	14	0:00:00.031023	914
+AI KhJSuper dwesjeo !!	14	0:00:00.031048	915
+AI ihJSupPr dwesjeo !!	14	0:00:00.031073	916
+AI ihJSuper dwesje  !!	15	0:00:00.031099	917
+AI ihJSuper dwesZeo !!	15	0:00:00.031124	918
+AI ilJSuper dwesjeo !!	15	0:00:00.031149	919
+AI ihJSXper dwesjeo !!	14	0:00:00.031174	920
+AI ihJSuper ywesjeo !!	15	0:00:00.031200	921
+AIRihJSuper dwesjeo !!	14	0:00:00.031225	922
+AI ihJSXper dwesjeo !!	14	0:00:00.031250	923
+AI ihJSupEr dwesjeo !!	14	0:00:00.031275	924
+AI ihJTuper dwesjeo !!	14	0:00:00.031300	925
+AO ihJSuper dwesjeo !!	15	0:00:00.031336	926
+AI ihJSuper dwesj!o !!	15	0:00:00.031363	927
+AI ihJSuper dwesjro !!	15	0:00:00.031388	928
+AIXihJSuper dwesjeo !!	14	0:00:00.031413	929
+AI ihJSuper rwesjeo !!	15	0:00:00.031438	930
+hI ihJSuper dwesjeo !!	14	0:00:00.031463	931
+AI i.JSuper dwesjeo !!	15	0:00:00.031488	932
+AI ihJSuper dwesjeo !.	14	0:00:00.031513	933
+AI ihWSuper dwesjeo !!	15	0:00:00.031538	934
+AI ihJSuyer dwesjeo !!	14	0:00:00.031563	935
+AI ihJSupeL dwesjeo !!	14	0:00:00.031588	936
+AI ihJSuper dwesjeok!!	14	0:00:00.031613	937
+AI ihJSuper dBesjeo !!	14	0:00:00.031638	938
+AI ihJSuper dwesjeo !y	14	0:00:00.031663	939
+AI ixJSuper dwesjeo !!	15	0:00:00.031688	940
+AI ihJSuper dwesjeoH!!	14	0:00:00.031713	941
+AI ihJSuGer dwesjeo !!	14	0:00:00.031738	942
+AI ihJSuper dwesjeo !q	14	0:00:00.031764	943
+AI ihJSkper dwesjeo !!	14	0:00:00.031789	944
+AIsihJSuper dwesjeo !!	14	0:00:00.031814	945
+AI.ihJSuper dwesjeo !!	14	0:00:00.031838	946
+AI ihJSuperydwesjeo !!	14	0:00:00.031864	947
+AI ihJSuperldwesjeo !!	14	0:00:00.031889	948
+AI ihJSupOr dwesjeo !!	14	0:00:00.031913	949
+Av ihJSuper dwesjeo !!	15	0:00:00.031938	950
+AI ihJSuper uwesjeo !!	15	0:00:00.031964	951
+AI ihJSuper dwesjeo !E	14	0:00:00.031988	952
+AIWihJSuper dwesjeo !!	14	0:00:00.032014	953
+AI ihJSupeD dwesjeo !!	14	0:00:00.032038	954
+AI chJSuper dwesjeo !!	14	0:00:00.032064	955
+AI ihJSuper dwesfeo !!	15	0:00:00.032088	956
+AI iMJSuper dwesjeo !!	15	0:00:00.032114	957
+AI ihJSuper dwesjeM !!	15	0:00:00.032139	958
+AW ihJSuper dwesjeo !!	15	0:00:00.032164	959
+AI ihJSuXer dwesjeo !!	14	0:00:00.032189	960
+AI iiJSuper dwesjeo !!	15	0:00:00.032214	961
+AI ihJSuper dwesjeo !V	14	0:00:00.032239	962
+AI ihJSGper dwesjeo !!	14	0:00:00.032264	963
+AI XhJSuper dwesjeo !!	14	0:00:00.032289	964
+AI ihJSupeS dwesjeo !!	14	0:00:00.032314	965
+AI ihJSuper dwesjeH !!	15	0:00:00.032339	966
+AI ihJSuperUdwesjeo !!	14	0:00:00.032364	967
+AI ihJSupar dwesjeo !!	14	0:00:00.032389	968
+AI WhJSuper dwesjeo !!	14	0:00:00.032414	969
+AI ihJSuper dwesjeS !!	15	0:00:00.032439	970
+AI ihJSuper dwesjeo !a	14	0:00:00.032464	971
+AI ihJSNper dwesjeo !!	14	0:00:00.032489	972
+AI ihJSuRer dwesjeo !!	14	0:00:00.032514	973
+AI ihJSuper dwerjeo !!	14	0:00:00.032539	974
+AM ihJSuper dwesjeo !!	15	0:00:00.032564	975
+AI ihJSuper dweRjeo !!	14	0:00:00.032589	976
+AI ihJSuper dwesjeoU!!	14	0:00:00.032614	977
+AI ioJSuper dwesjeo !!	15	0:00:00.032639	978
+AI ihJSuper dwedjeo !!	14	0:00:00.032664	979
+AI ihJSuper dwrsjeo !!	14	0:00:00.032689	980
+AI ihJSuper dwesjJo !!	15	0:00:00.032714	981
+AI ihJSuper dwesjeo !g	14	0:00:00.032739	982
+AI ihJSuUer dwesjeo !!	14	0:00:00.032764	983
+AI ihJSuper Swesjeo !!	15	0:00:00.032789	984
+AI ihJSuper dwesjeo d!	14	0:00:00.032814	985
+AI ihJSuVer dwesjeo !!	14	0:00:00.032839	986
+AI ihJSuper dwesjeo !y	14	0:00:00.032867	987
+AI ihJSuper dwesjeo Z!	14	0:00:00.032912	988
+AI ihJSupeT dwesjeo !!	14	0:00:00.032956	989
+AI ihnSuper dwesjeo !!	15	0:00:00.033004	990
+AI ihJSuper dwesjeo m!	14	0:00:00.033041	991
+AI ihJSuper dwesEeo !!	15	0:00:00.033067	992
+AI ihJSuper dwesWeo !!	15	0:00:00.033092	993
+AIsihJSuper dwesjeo !!	14	0:00:00.033117	994
+AI ihJquper dwesjeo !!	14	0:00:00.033142	995
+AI ihJSupPr dwesjeo !!	14	0:00:00.033167	996
+II ihJSuper dwesjeo !!	14	0:00:00.033202	997
+AI ihJSuperBdwesjeo !!	14	0:00:00.033247	998
+AI ihJSuper dwesjeo !q	14	0:00:00.033270	999
+WI ihJSuper dwesjeo !!	14	0:00:00.033293	1000
+AI ihJSuper dwesjYo !!	15	0:00:00.033316	1001
+AI ihJSuper dwesjeo !.	14	0:00:00.033339	1002
+AI ihJSuper dwesjeo Z!	14	0:00:00.033361	1003
+AI ihJSupeA dwesjeo !!	14	0:00:00.033384	1004
+AI ihJSuper dwesqeo !!	15	0:00:00.033407	1005
+tI ihJSuper dwesjeo !!	14	0:00:00.033430	1006
+kI ihJSuper dwesjeo !!	14	0:00:00.033453	1007
+AI ihJSupar dwesjeo !!	14	0:00:00.033475	1008
+AI ihJSkper dwesjeo !!	14	0:00:00.033498	1009
+AI ihJSup!r dwesjeo !!	14	0:00:00.033521	1010
+AI ihJSuper dwesjVo !!	15	0:00:00.033544	1011
+AI ihJSuper dwesjeo n!	14	0:00:00.033567	1012
+AI ihJSeper dwesjeo !!	14	0:00:00.033589	1013
+AI ihJSuper dweEjeo !!	14	0:00:00.033612	1014
+AI ihJSuper Dwesjeo !!	15	0:00:00.033634	1015
+AI ihJSEper dwesjeo !!	14	0:00:00.033670	1016
+AI ihJSuper dweCjeo !!	14	0:00:00.033694	1017
+AI ihJzuper dwesjeo !!	14	0:00:00.033717	1018
+AI ihJSupe! dwesjeo !!	14	0:00:00.033739	1019
+AI ihJSuper dwesoeo !!	16	0:00:00.033762	1020
+AI ihJSupzr dwesoeo !!	15	0:00:00.033795	1021
+AI ihJSuper dwesoeoN!!	15	0:00:00.033818	1022
+AI ihJSuper dwesoeo !q	15	0:00:00.033841	1023
+AI ihJSuper dwtsoeo !!	15	0:00:00.033865	1024
+AI ihJuuper dwesoeo !!	15	0:00:00.033888	1025
+AI ihJSuper dwes!eo !!	15	0:00:00.033911	1026
+zI ihJSuper dwesoeo !!	15	0:00:00.033934	1027
+AI ihJSuperYdwesoeo !!	15	0:00:00.033957	1028
+AI ihJSuper dw.soeo !!	15	0:00:00.033979	1029
+AI bhJSuper dwesoeo !!	15	0:00:00.034002	1030
+AI ihJSuperHdwesoeo !!	15	0:00:00.034025	1031
+AI iMJSuper dwesoeo !!	16	0:00:00.034048	1032
+AI ihJSuper dwesxeo !!	15	0:00:00.034071	1033
+bI ihJSuper dwesoeo !!	15	0:00:00.034093	1034
+AI ihJSOper dwesoeo !!	15	0:00:00.034116	1035
+AI ihJSuper dwekoeo !!	15	0:00:00.034139	1036
+AI jhJSuper dwesoeo !!	15	0:00:00.034161	1037
+AI ihJSuper Ywesoeo !!	16	0:00:00.034184	1038
+AI ihJSuper doesoeo !!	15	0:00:00.034207	1039
+AI ihJSuper dwesKeo !!	15	0:00:00.034230	1040
+AI ihJSuper dwesoeo s!	15	0:00:00.034252	1041
+AI ih Super dwesoeo !!	17	0:00:00.034275	1042
+AI ih Super dwesoeo U!	16	0:00:00.034308	1043
+AI ih Super dwesoeo a!	16	0:00:00.034331	1044
+AI ih Super dwVsoeo !!	16	0:00:00.034354	1045
+AI ih Super Qwesoeo !!	17	0:00:00.034377	1046
+AI ih SuperFdwesoeo !!	16	0:00:00.034400	1047
+AI ih Super dwesoel !!	17	0:00:00.034422	1048
+AI ih Super owesoeo !!	17	0:00:00.034445	1049
+AI ih Super dwesoeo.!!	16	0:00:00.034468	1050
+AI ih Super dwesoeoT!!	16	0:00:00.034491	1051
+PI ih Super dwesoeo !!	16	0:00:00.034514	1052
+AI ih Super dwesoeok!!	16	0:00:00.034536	1053
+AI ih Super cwesoeo !!	17	0:00:00.034559	1054
+AI ih Super dwesoJo !!	17	0:00:00.034582	1055
+AI ih Guper dwesoeo !!	16	0:00:00.034605	1056
+AI ih Super dwesoeo e!	16	0:00:00.034627	1057
+AI ih Super dwZsoeo !!	16	0:00:00.034650	1058
+AI ih SupeL dwesoeo !!	16	0:00:00.034673	1059
+AI ih .uper dwesoeo !!	16	0:00:00.034696	1060
+AI ih Suptr dwesoeo !!	16	0:00:00.034719	1061
+AI iM Super dwesoeo !!	17	0:00:00.034741	1062
+AI ih SuperAdwesoeo !!	16	0:00:00.034764	1063
+AI ih SupMr dwesoeo !!	16	0:00:00.034787	1064
+AI ih Supeo dwesoeo !!	16	0:00:00.034809	1065
+AI ihkSuper dwesoeo !!	16	0:00:00.034832	1066
+AI ih Super dwesoeo !U	16	0:00:00.034854	1067
+AI ih zuper dwesoeo !!	16	0:00:00.034877	1068
+AI ih Sujer dwesoeo !!	16	0:00:00.034900	1069
+AI ih Super dCesoeo !!	16	0:00:00.034922	1070
+AI ih Super dwesoeo !D	16	0:00:00.034945	1071
+AI ih Supek dwesoeo !!	16	0:00:00.034967	1072
+AI ih Superndwesoeo !!	16	0:00:00.034990	1073
+AI iB Super dwesoeo !!	17	0:00:00.035013	1074
+AI Vh Super dwesoeo !!	16	0:00:00.035036	1075
+AI ih Super dwesJeo !!	16	0:00:00.035078	1076
+AI ih Super ywesoeo !!	17	0:00:00.035106	1077
+AIPih Super dwesoeo !!	16	0:00:00.035140	1078
+AI ih SupDr dwesoeo !!	16	0:00:00.035163	1079
+WI ih Super dwesoeo !!	16	0:00:00.035185	1080
+AI ih Super dwesoeoP!!	16	0:00:00.035208	1081
+AI ih Superjdwesoeo !!	16	0:00:00.035231	1082
+AI ih SuperTdwesoeo !!	16	0:00:00.035253	1083
+AI Vh Super dwesoeo !!	16	0:00:00.035276	1084
+AI ih Super dwesoeo !B	16	0:00:00.035309	1085
+AI ih SupeZ dwesoeo !!	16	0:00:00.035332	1086
+AI ih Super dwesleo !!	16	0:00:00.035355	1087
+AI i! Super dwesoeo !!	17	0:00:00.035378	1088
+UI ih Super dwesoeo !!	16	0:00:00.035400	1089
+AI ii Super dwesoeo !!	17	0:00:00.035423	1090
+AI ih SupeS dwesoeo !!	16	0:00:00.035446	1091
+AI ih ruper dwesoeo !!	16	0:00:00.035469	1092
+AI ihOSuper dwesoeo !!	16	0:00:00.035491	1093
+AI ih Super Dwesoeo !!	17	0:00:00.035514	1094
+AI ih SuperZdwesoeo !!	16	0:00:00.035537	1095
+AI ih Super dwQsoeo !!	16	0:00:00.035560	1096
+AI ih Super dwesoeo !Z	16	0:00:00.035582	1097
+AI ih SupeE dwesoeo !!	16	0:00:00.035605	1098
+AI ih Super dwDsoeo !!	16	0:00:00.035628	1099
+AI ih Super dPesoeo !!	16	0:00:00.035651	1100
+AI ih Super dwRsoeo !!	16	0:00:00.035673	1101
+AI th Super dwesoeo !!	16	0:00:00.035696	1102
+AI ih Super dwesoeJ !!	17	0:00:00.035719	1103
+AI ih Super dwesozo !!	17	0:00:00.035742	1104
+AI ih SupeE dwesoeo !!	16	0:00:00.035774	1105
+AIlih Super dwesoeo !!	16	0:00:00.035799	1106
+AI ih Super dwesoeo !v	16	0:00:00.035822	1107
+AI ih Super dwesoeo F!	16	0:00:00.035844	1108
+AI ih Super dwesoeo !h	16	0:00:00.035867	1109
+AI iR Super dwesoeo !!	17	0:00:00.035890	1110
+AI ih Super dwesoeo i!	16	0:00:00.035913	1111
+BI ih Super dwesoeo !!	16	0:00:00.035936	1112
+AI ih nuper dwesoeo !!	16	0:00:00.035958	1113
+AI ih Super dGesoeo !!	16	0:00:00.035981	1114
+AI ih Supxr dwesoeo !!	16	0:00:00.036004	1115
+AI ih Kuper dwesoeo !!	16	0:00:00.036026	1116
+AI ih Super dwesoeok!!	16	0:00:00.036049	1117
+AI ih Super iwesoeo !!	17	0:00:00.036072	1118
+AI ih Super dwYsoeo !!	16	0:00:00.036095	1119
+AI ihcSuper dwesoeo !!	16	0:00:00.036117	1120
+UI ih Super dwesoeo !!	16	0:00:00.036140	1121
+AI ih Super dwesxeo !!	16	0:00:00.036163	1122
+AI ih Suter dwesoeo !!	16	0:00:00.036185	1123
+AI ih Super dwJsoeo !!	16	0:00:00.036208	1124
+AI ih Super dwesoCo !!	17	0:00:00.036231	1125
+AI ih Super dwesVeo !!	16	0:00:00.036254	1126
+Ae ih Super dwesoeo !!	17	0:00:00.036276	1127
+AI ih Super dXesoeo !!	16	0:00:00.036300	1128
+AI ih Super dwesoeo !A	16	0:00:00.036323	1129
+AQ ih Super dwesoeo !!	17	0:00:00.036346	1130
+AI ih Supervdwesoeo !!	16	0:00:00.036368	1131
+AI ih Super d esoeo !!	16	0:00:00.036391	1132
+DI ih Super dwesoeo !!	16	0:00:00.036413	1133
+AI ih SupDr dwesoeo !!	16	0:00:00.036436	1134
+AI ih Super dwesoeN !!	17	0:00:00.036459	1135
+AI ihLSuper dwesoeo !!	16	0:00:00.036482	1136
+AI ih Supei dwesoeo !!	16	0:00:00.036504	1137
+AI iv Super dwesoeo !!	17	0:00:00.036527	1138
+AI ihuSuper dwesoeo !!	16	0:00:00.036550	1139
+AI iV Super dwesoeo !!	17	0:00:00.036573	1140
+AI ih Super Kwesoeo !!	17	0:00:00.036595	1141
+DI ih Super dwesoeo !!	16	0:00:00.036618	1142
+AI ih Suder dwesoeo !!	16	0:00:00.036641	1143
+AG ih Super dwesoeo !!	17	0:00:00.036664	1144
+AI gh Super dwesoeo !!	16	0:00:00.036687	1145
+AI ih Supem dwesoeo !!	16	0:00:00.036710	1146
+AI ih Super dgesoeo !!	16	0:00:00.036733	1147
+AI ihBSuper dwesoeo !!	16	0:00:00.036755	1148
+AI ih Super dwesoeo U!	16	0:00:00.036778	1149
+AI ih Sxper dwesoeo !!	16	0:00:00.036801	1150
+AI ih Suber dwesoeo !!	16	0:00:00.036823	1151
+AR ih Super dwesoeo !!	17	0:00:00.036846	1152
+AI ih Super dwesomo !!	18	0:00:00.036869	1153
+AI ih Super dwesomZ !!	18	0:00:00.036903	1154
+AI ih Super iwesomo !!	18	0:00:00.036925	1155
+AI ih Supermdwesomo !!	17	0:00:00.036948	1156
+AIHih Super dwesomo !!	17	0:00:00.036971	1157
+AI if Super dwesomo !!	18	0:00:00.036994	1158
+AI ihwSuper dwesomo !!	17	0:00:00.037017	1159
+AI ih Super dJesomo !!	17	0:00:00.037040	1160
+AI ih Super dwesomo !X	17	0:00:00.037063	1161
+AI iD Super dwesomo !!	18	0:00:00.037085	1162
+AI ih Suver dwesomo !!	17	0:00:00.037108	1163
+AI ih Super dweXomo !!	17	0:00:00.037144	1164
+AI ih Superudwesomo !!	17	0:00:00.037181	1165
+AIcih Super dwesomo !!	17	0:00:00.037231	1166
+AI ih Super dwestmo !!	17	0:00:00.037279	1167
+AI ih Super dwesnmo !!	17	0:00:00.037310	1168
+AI ih Suier dwesomo !!	17	0:00:00.037335	1169
+AI ih Super dwepomo !!	17	0:00:00.037377	1170
+AI ih Super dwesomD !!	18	0:00:00.037418	1171
+AI ih Super dwesdmo !!	17	0:00:00.037456	1172
+AE ih Super dwesomo !!	18	0:00:00.037495	1173
+AI ihXSuper dwesomo !!	17	0:00:00.037531	1174
+AI ih Super dweskmo !!	17	0:00:00.037571	1175
+AI ihSSuper dwesomo !!	17	0:00:00.037613	1176
+AI ih Super dwesomo r!	17	0:00:00.037657	1177
+AI ihCSuper dwesomo !!	17	0:00:00.037684	1178
+AW ih Super dwesomo !!	18	0:00:00.037719	1179
+AL ih Super dwesomo !!	18	0:00:00.037763	1180
+AI ih Super dwesomS !!	18	0:00:00.037805	1181
+AI ih Super dwesomy !!	18	0:00:00.037853	1182
+AI ih Supe. dwesomo !!	17	0:00:00.037902	1183
+AIQih Super dwesomo !!	17	0:00:00.037954	1184
+AI ih Super dQesomo !!	17	0:00:00.037999	1185
+AI iS Super dwesomo !!	18	0:00:00.038049	1186
+AI ih Super dwesrmo !!	17	0:00:00.038118	1187
+AI ih SupeT dwesomo !!	17	0:00:00.038161	1188
+AI ih Super Ewesomo !!	18	0:00:00.038206	1189
+VI ih Super dwesomo !!	17	0:00:00.038257	1190
+AI ih Super dwesomo !Z	17	0:00:00.038306	1191
+AI ihXSuper dwesomo !!	17	0:00:00.038351	1192
+AI ih STper dwesomo !!	17	0:00:00.038395	1193
+BI ih Super dwesomo !!	17	0:00:00.038464	1194
+AI iw Super dwesomo !!	18	0:00:00.038515	1195
+AI ih Super dwesVmo !!	17	0:00:00.038564	1196
+AI ih Super dwesomC !!	18	0:00:00.038612	1197
+AI ih kuper dwesomo !!	17	0:00:00.038639	1198
+AI ih fuper dwesomo !!	17	0:00:00.038663	1199
+AI ih Seper dwesomo !!	17	0:00:00.038686	1200
+AI ih Super dwesoma !!	18	0:00:00.038710	1201
+AI ih SuperIdwesomo !!	17	0:00:00.038738	1202
+AI ih Super dwesKmo !!	17	0:00:00.038762	1203
+AI ih SuperVdwesomo !!	17	0:00:00.038786	1204
+AI ih Supek dwesomo !!	17	0:00:00.038810	1205
+AI Mh Super dwesomo !!	17	0:00:00.038836	1206
+AI ih Shper dwesomo !!	17	0:00:00.038865	1207
+AI ih Suptr dwesomo !!	17	0:00:00.038916	1208
+AI ih Super dwesoro !!	17	0:00:00.038950	1209
+AI ih super dwesomo !!	17	0:00:00.038978	1210
+AI ih Super dwSsomo !!	17	0:00:00.039002	1211
+AI ihBSuper dwesomo !!	17	0:00:00.039026	1212
+AI ir Super dwesomo !!	18	0:00:00.039057	1213
+AI Qh Super dwesomo !!	17	0:00:00.039100	1214
+AI ih Super dwOsomo !!	17	0:00:00.039139	1215
+AI ih Super owesomo !!	18	0:00:00.039165	1216
+AI ihwSuper dwesomo !!	17	0:00:00.039189	1217
+AI ih Super dwesomox!!	17	0:00:00.039213	1218
+AI ih Super dwesomo !I	17	0:00:00.039237	1219
+AI ih SuUer dwesomo !!	17	0:00:00.039261	1220
+AI iu Super dwesomo !!	18	0:00:00.039284	1221
+AIgih Super dwesomo !!	17	0:00:00.039308	1222
+AI ih Super dwesomoJ!!	17	0:00:00.039332	1223
+AI ih Super dwesomo C!	17	0:00:00.039355	1224
+AI ih Super d!esomo !!	17	0:00:00.039379	1225
+AI ih SCper dwesomo !!	17	0:00:00.039403	1226
+AI ih SuperHdwesomo !!	17	0:00:00.039426	1227
+AI ih Super dwRsomo !!	17	0:00:00.039450	1228
+AI ih Super dwXsomo !!	17	0:00:00.039475	1229
+AI iP Super dwesomo !!	18	0:00:00.039500	1230
+AI ih SAper dwesomo !!	17	0:00:00.039526	1231
+tI ih Super dwesomo !!	17	0:00:00.039550	1232
+AI ihhSuper dwesomo !!	17	0:00:00.039574	1233
+AI ih SupRr dwesomo !!	17	0:00:00.039598	1234
+AI ih muper dwesomo !!	17	0:00:00.039621	1235
+NI ih Super dwesomo !!	17	0:00:00.039645	1236
+AI ih SuEer dwesomo !!	17	0:00:00.039668	1237
+AI ih Super dwesomox!!	17	0:00:00.039692	1238
+AI ih Super dwescmo !!	17	0:00:00.039716	1239
+AI ih Super dwesomon!!	17	0:00:00.039740	1240
+AI ih Super dwesHmo !!	17	0:00:00.039763	1241
+AI ih Sgper dwesomo !!	17	0:00:00.039787	1242
+AI iH Super dwesomo !!	18	0:00:00.039811	1243
+AI ih Super dwesSmo !!	17	0:00:00.039835	1244
+AI ih Super dwes mo !!	17	0:00:00.039860	1245
+AI ih SupeP dwesomo !!	17	0:00:00.039883	1246
+AI ih Super dwesomY !!	18	0:00:00.039907	1247
+AI ih Super dwesoyo !!	17	0:00:00.039930	1248
+AI ih Super dwespmo !!	17	0:00:00.039954	1249
+AI ih Super dwgsomo !!	17	0:00:00.039977	1250
+AI ih Super twesomo !!	18	0:00:00.040001	1251
+AI ih Suphr dwesomo !!	17	0:00:00.040025	1252
+AI ih Super dwKsomo !!	17	0:00:00.040048	1253
+AI ih super dwesomo !!	17	0:00:00.040071	1254
+AI ih Super dweVomo !!	17	0:00:00.040096	1255
+AI ih Super dwesomH !!	18	0:00:00.040119	1256
+AI ih Super lwesomo !!	18	0:00:00.040143	1257
+AQ ih Super dwesomo !!	18	0:00:00.040167	1258
+AI iH Super dwesomo !!	18	0:00:00.040190	1259
+AI ih euper dwesomo !!	17	0:00:00.040213	1260
+AI ih Super rwesomo !!	18	0:00:00.040236	1261
+AI hh Super dwesomo !!	17	0:00:00.040259	1262
+AI ih Super dwbsomo !!	17	0:00:00.040282	1263
+AI ih Super dwesoro !!	17	0:00:00.040304	1264
+AI ih Super dwesomo c!	17	0:00:00.040327	1265
+AI xh Super dwesomo !!	17	0:00:00.040350	1266
+AI ihTSuper dwesomo !!	17	0:00:00.040373	1267
+AI ih Super dweKomo !!	17	0:00:00.040396	1268
+AI ih Szper dwesomo !!	17	0:00:00.040418	1269
+AI ih SuJer dwesomo !!	17	0:00:00.040441	1270
+AI vh Super dwesomo !!	17	0:00:00.040464	1271
+AI ih Scper dwesomo !!	17	0:00:00.040487	1272
+AI ih Super dwrsomo !!	17	0:00:00.040510	1273
+AI ih Super dwesoma !!	18	0:00:00.040532	1274
+AI iR Super dwesomo !!	18	0:00:00.040555	1275
+AI ih Super dwesomk !!	18	0:00:00.040578	1276
+AI ih Super dResomo !!	17	0:00:00.040601	1277
+AI ih Super ddesomo !!	17	0:00:00.040624	1278
+AV ih Super dwesomo !!	18	0:00:00.040647	1279
+AI qh Super dwesomo !!	17	0:00:00.040670	1280
+AI ih Super dwesomh !!	18	0:00:00.040692	1281
+AI ih Suped dwesomo !!	17	0:00:00.040715	1282
+AI rh Super dwesomo !!	17	0:00:00.040755	1283
+AI ih Supeu dwesomo !!	17	0:00:00.040779	1284
+AI ih SuperMdwesomo !!	17	0:00:00.040802	1285
+AIGih Super dwesomo !!	17	0:00:00.040825	1286
+AI ih Super swesomo !!	18	0:00:00.040848	1287
+AI ih Super dwesomoe!!	17	0:00:00.040871	1288
+AI ih Super.dwesomo !!	17	0:00:00.040894	1289
+AI ih Super dwesomoR!!	17	0:00:00.040917	1290
+AI ih Super dwesomm !!	18	0:00:00.040940	1291
+AI ih Supyr dwesomo !!	17	0:00:00.040963	1292
+AI ih Super dweVomo !!	17	0:00:00.040986	1293
+AI ih Super dwesomH !!	18	0:00:00.041009	1294
+AI iZ Super dwesomo !!	18	0:00:00.041032	1295
+AI ih SuperQdwesomo !!	17	0:00:00.041055	1296
+AI ihUSuper dwesomo !!	17	0:00:00.041078	1297
+AI ihbSuper dwesomo !!	17	0:00:00.041101	1298
+AI ih Super dwesomo b!	17	0:00:00.041125	1299
+AI ih SupQr dwesomo !!	17	0:00:00.041148	1300
+AI ih Super dwezomo !!	17	0:00:00.041171	1301
+AI ih Super dwtsomo !!	17	0:00:00.041202	1302
+AI iL Super dwesomo !!	18	0:00:00.041227	1303
+jI ih Super dwesomo !!	17	0:00:00.041261	1304
+AI zh Super dwesomo !!	17	0:00:00.041284	1305
+AI ih Super dwssomo !!	17	0:00:00.041307	1306
+AI ih SupeL dwesomo !!	17	0:00:00.041330	1307
+AI ih Super dwesomQ !!	18	0:00:00.041353	1308
+AI ih Super dwesomB !!	18	0:00:00.041376	1309
+AI ih Super swesomo !!	18	0:00:00.041399	1310
+AI iZ Super dwesomo !!	18	0:00:00.041423	1311
+AI ih SuperGdwesomo !!	17	0:00:00.041446	1312
+AI ih Super dwesoRo !!	17	0:00:00.041469	1313
+AI ih Super dwesomo L!	17	0:00:00.041492	1314
+AI ih Nuper dwesomo !!	17	0:00:00.041515	1315
+AI ih SuperVdwesomo !!	17	0:00:00.041538	1316
+DI ih Super dwesomo !!	17	0:00:00.041561	1317
+lI ih Super dwesomo !!	17	0:00:00.041584	1318
+AI ih Super dYesomo !!	17	0:00:00.041608	1319
+AI ih Guper dwesomo !!	17	0:00:00.041631	1320
+AZ ih Super dwesomo !!	18	0:00:00.041654	1321
+AI ih Super dwesomo W!	17	0:00:00.041677	1322
+AI ih Vuper dwesomo !!	17	0:00:00.041700	1323
+AI ih SPper dwesomo !!	17	0:00:00.041723	1324
+AI ih Super dweuomo !!	17	0:00:00.041746	1325
+AI ih Supeh dwesomo !!	17	0:00:00.041769	1326
+AI ih SMper dwesomo !!	17	0:00:00.041792	1327
+AI ih SupJr dwesomo !!	17	0:00:00.041815	1328
+AI ih SuperAdwesomo !!	17	0:00:00.041838	1329
+AI ihJSuper dwesomo !!	17	0:00:00.041861	1330
+AI ih Super dwesomv !!	18	0:00:00.041884	1331
+AI ih SuZer dwesomo !!	17	0:00:00.041907	1332
+AI ih SPper dwesomo !!	17	0:00:00.041929	1333
+AI ih Super dwesomo V!	17	0:00:00.041954	1334
+AI ih Iuper dwesomo !!	17	0:00:00.041977	1335
+AI ih Super dvesomo !!	17	0:00:00.042000	1336
+AI ihoSuper dwesomo !!	17	0:00:00.042023	1337
+AI ih Super dwesomo K!	17	0:00:00.042046	1338
+AI ih SupeG dwesomo !!	17	0:00:00.042069	1339
+AI ih Duper dwesomo !!	17	0:00:00.042092	1340
+AIyih Super dwesomo !!	17	0:00:00.042115	1341
+AI ih Super dVesomo !!	17	0:00:00.042138	1342
+AI ih Super dPesomo !!	17	0:00:00.042161	1343
+AI ih Super dweSomo !!	17	0:00:00.042184	1344
+AI ih Super dwesomo !I	17	0:00:00.042207	1345
+AI ih Super dweUomo !!	17	0:00:00.042230	1346
+AI ih Super dwesomoK!!	17	0:00:00.042253	1347
+AI ih Super dwesomoq!!	17	0:00:00.042277	1348
+AI ih Supertdwesomo !!	17	0:00:00.042300	1349
+AI ih Super dwesomu !!	18	0:00:00.042324	1350
+AI ih Super djesomo !!	17	0:00:00.042347	1351
+AI ih Super dwesomM !!	18	0:00:00.042370	1352
+AI ih Super dwesomq !!	18	0:00:00.042393	1353
+AI ih Super dwesomo I!	17	0:00:00.042416	1354
+AI ih Superodwesomo !!	17	0:00:00.042439	1355
+AI ih Suner dwesomo !!	17	0:00:00.042463	1356
+AI ihGSuper dwesomo !!	17	0:00:00.042485	1357
+AI sh Super dwesomo !!	17	0:00:00.042509	1358
+AI ih Super d!esomo !!	17	0:00:00.042532	1359
+AI ih Super dwesXmo !!	17	0:00:00.042555	1360
+AI ihMSuper dwesomo !!	17	0:00:00.042578	1361
+AI ih Super dwesomo j!	17	0:00:00.042601	1362
+AI ih duper dwesomo !!	17	0:00:00.042624	1363
+AI ih SuperKdwesomo !!	17	0:00:00.042647	1364
+AI ih Super dOesomo !!	17	0:00:00.042670	1365
+AI ih Super dwesamo !!	17	0:00:00.042693	1366
+AI ie Super dwesomo !!	18	0:00:00.042716	1367
+AI ih SuZer dwesomo !!	17	0:00:00.042739	1368
+AI ih Super twesomo !!	18	0:00:00.042762	1369
+AI ih Supxr dwesomo !!	17	0:00:00.042785	1370
+AIFih Super dwesomo !!	17	0:00:00.042808	1371
+AI ih Super dwesomo !I	17	0:00:00.042831	1372
+AI ih SuperIdwesomo !!	17	0:00:00.042864	1373
+AI iP Super dwesomo !!	18	0:00:00.042889	1374
+AI ih Super dSesomo !!	17	0:00:00.042912	1375
+AI il Super dwesomo !!	18	0:00:00.042935	1376
+AI ih Super dwesomo !p	17	0:00:00.042958	1377
+AI ih Supea dwesomo !!	17	0:00:00.042981	1378
+AX ih Super dwesomo !!	18	0:00:00.043004	1379
+AI ih Supee dwesomo !!	17	0:00:00.043027	1380
+AI ih Super dwesomj !!	18	0:00:00.043050	1381
+eI ih Super dwesomo !!	17	0:00:00.043073	1382
+AI ih Super dwesomo K!	17	0:00:00.043097	1383
+AI ih Super dwesomo V!	17	0:00:00.043120	1384
+AI ih Super dwesomo !f	17	0:00:00.043142	1385
+AI ih SuperTdwesomo !!	17	0:00:00.043165	1386
+AI ih SuperQdwesomo !!	17	0:00:00.043188	1387
+AI ih SupeB dwesomo !!	17	0:00:00.043211	1388
+AI ih Supev dwesomo !!	17	0:00:00.043234	1389
+AI ih Super dweAomo !!	17	0:00:00.043257	1390
+AI ih Super dwesomoY!!	17	0:00:00.043280	1391
+AI ih Super dwefomo !!	17	0:00:00.043303	1392
+AI ih Super dwesomo O!	17	0:00:00.043325	1393
+AI ih SuZer dwesomo !!	17	0:00:00.043348	1394
+AI ih Super dwessmo !!	17	0:00:00.043371	1395
+AI ih Su!er dwesomo !!	17	0:00:00.043394	1396
+AI ih Super Uwesomo !!	18	0:00:00.043417	1397
+AI ih Syper dwesomo !!	17	0:00:00.043440	1398
+AI ih Super Fwesomo !!	18	0:00:00.043463	1399
+AI ih Super dwesomo !t	17	0:00:00.043486	1400
+AIwih Super dwesomo !!	17	0:00:00.043508	1401
+AI ih Superxdwesomo !!	17	0:00:00.043531	1402
+AI ih SupQr dwesomo !!	17	0:00:00.043554	1403
+AIzih Super dwesomo !!	17	0:00:00.043577	1404
+AI ih Super dwAsomo !!	17	0:00:00.043599	1405
+AI ih Super dwesomo u!	17	0:00:00.043622	1406
+AI ih Super dwesXmo !!	17	0:00:00.043645	1407
+AI ih SDper dwesomo !!	17	0:00:00.043668	1408
+AI ih Super dwCsomo !!	17	0:00:00.043690	1409
+AI ihcSuper dwesomo !!	17	0:00:00.043713	1410
+AI Jh Super dwesomo !!	17	0:00:00.043736	1411
+AI ih Supen dwesomo !!	17	0:00:00.043759	1412
+AI ih Super dwesomY !!	18	0:00:00.043782	1413
+AI ih Super dwesomo !p	17	0:00:00.043805	1414
+AI ih Super dwesomi !!	18	0:00:00.043828	1415
+AI ih SKper dwesomo !!	17	0:00:00.043850	1416
+AI ih SupYr dwesomo !!	17	0:00:00.043873	1417
+AI ih Super dwesNmo !!	17	0:00:00.043896	1418
+AI ih Super dweTomo !!	17	0:00:00.043919	1419
+AI ih Super dwesopo !!	17	0:00:00.043941	1420
+AI ihgSuper dwesomo !!	17	0:00:00.043964	1421
+AI ih Sup.r dwesomo !!	17	0:00:00.043987	1422
+AI ihySuper dwesomo !!	17	0:00:00.044010	1423
+AI ih Super dwesomoU!!	17	0:00:00.044033	1424
+AI ih SupHr dwesomo !!	17	0:00:00.044056	1425
+AI ih Super dwYsomo !!	17	0:00:00.044078	1426
+AI ih Super dwesomo q!	17	0:00:00.044101	1427
+AI ih SuTer dwesomo !!	17	0:00:00.044124	1428
+mI ih Super dwesomo !!	17	0:00:00.044147	1429
+AI ih SuRer dwesomo !!	17	0:00:00.044170	1430
+AI ih Super dSesomo !!	17	0:00:00.044192	1431
+AI ih Super dwesomoR!!	17	0:00:00.044215	1432
+AI ih Supgr dwesomo !!	17	0:00:00.044238	1433
+AI ih Super dwbsomo !!	17	0:00:00.044261	1434
+YI ih Super dwesomo !!	17	0:00:00.044284	1435
+AI ih Super dweso!o !!	17	0:00:00.044307	1436
+AI Th Super dwesomo !!	17	0:00:00.044331	1437
+AI ih Super dwesomoG!!	17	0:00:00.044354	1438
+zI ih Super dwesomo !!	17	0:00:00.044377	1439
+AI ii Super dwesomo !!	18	0:00:00.044400	1440
+AD ih Super dwesomo !!	18	0:00:00.044423	1441
+AI ih Super dcesomo !!	17	0:00:00.044446	1442
+AI ih Super dWesomo !!	17	0:00:00.044469	1443
+AI ih Super dhesomo !!	17	0:00:00.044492	1444
+AI ih Super dwesoao !!	17	0:00:00.044515	1445
+AI ihDSuper dwesomo !!	17	0:00:00.044538	1446
+AI ih Super dwevomo !!	17	0:00:00.044561	1447
+AI!ih Super dwesomo !!	17	0:00:00.044583	1448
+AI ihySuper dwesomo !!	17	0:00:00.044606	1449
+AI ih SYper dwesomo !!	17	0:00:00.044629	1450
+AI ih Super dWesomo !!	17	0:00:00.044652	1451
+AI ihGSuper dwesomo !!	17	0:00:00.044675	1452
+AI ih Super dwesomoi!!	17	0:00:00.044698	1453
+AIRih Super dwesomo !!	17	0:00:00.044721	1454
+AI ih Super dwesomo !J	17	0:00:00.044744	1455
+AI ih juper dwesomo !!	17	0:00:00.044766	1456
+AI ih Super dwesoZo !!	17	0:00:00.044789	1457
+AI ih Super dwesomo !P	17	0:00:00.044812	1458
+AI nh Super dwesomo !!	17	0:00:00.044835	1459
+AI ih SAper dwesomo !!	17	0:00:00.044858	1460
+AI ih Super dVesomo !!	17	0:00:00.044881	1461
+AI ih Super dwesoco !!	17	0:00:00.044911	1462
+AI ih SupeE dwesomo !!	17	0:00:00.044936	1463
+AI ih Super dwesomo n!	17	0:00:00.044958	1464
+AI ih Super Twesomo !!	18	0:00:00.044982	1465
+AI ih Super dwesoPo !!	17	0:00:00.045005	1466
+AI ih Super dwesoXo !!	17	0:00:00.045027	1467
+AICih Super dwesomo !!	17	0:00:00.045050	1468
+AI ih SupeW dwesomo !!	17	0:00:00.045073	1469
+AI ih Super dwzsomo !!	17	0:00:00.045096	1470
+AI ih Sfper dwesomo !!	17	0:00:00.045119	1471
+AI ih Super dwesomo X!	17	0:00:00.045142	1472
+ZI ih Super dwesomo !!	17	0:00:00.045165	1473
+AI ih Super dwesovo !!	17	0:00:00.045188	1474
+AIEih Super dwesomo !!	17	0:00:00.045228	1475
+AI ih Super dWesomo !!	17	0:00:00.045250	1476
+AI ih Super dwesJmo !!	17	0:00:00.045272	1477
+AI ih Huper dwesomo !!	17	0:00:00.045294	1478
+AI ih Super dwesomo !t	17	0:00:00.045316	1479
+AI ih SuYer dwesomo !!	17	0:00:00.045338	1480
+AIRih Super dwesomo !!	17	0:00:00.045360	1481
+AI ih SJper dwesomo !!	17	0:00:00.045382	1482
+AI ih xuper dwesomo !!	17	0:00:00.045404	1483
+AI ih Sup.r dwesomo !!	17	0:00:00.045426	1484
+AI ih Super dwasomo !!	17	0:00:00.045447	1485
+AI ih Supwr dwesomo !!	17	0:00:00.045469	1486
+AI ih Super dzesomo !!	17	0:00:00.045491	1487
+AI ih Super dMesomo !!	17	0:00:00.045513	1488
+AI ih Super dwHsomo !!	17	0:00:00.045535	1489
+AI ih Super dwesomoP!!	17	0:00:00.045557	1490
+AI ih Super dwesomo z!	17	0:00:00.045580	1491
+AI ih Super dwesimo !!	17	0:00:00.045602	1492
+AI  h Super dwesomo !!	17	0:00:00.045624	1493
+AI ih Supet dwesomo !!	17	0:00:00.045646	1494
+AI ih Super dxesomo !!	17	0:00:00.045668	1495
+AI ih SuOer dwesomo !!	17	0:00:00.045690	1496
+AI ih Super dwesomo !C	17	0:00:00.045712	1497
+AI ihwSuper dwesomo !!	17	0:00:00.045734	1498
+AI ih Suprr dwesomo !!	17	0:00:00.045756	1499
+AI ih Super dwesimo !!	17	0:00:00.045778	1500
+AI ih Super dwesomo p!	17	0:00:00.045800	1501
+AIgih Super dwesomo !!	17	0:00:00.045822	1502
+AI ih Super dwlsomo !!	17	0:00:00.045844	1503
+AIlih Super dwesomo !!	17	0:00:00.045866	1504
+AI ih Svper dwesomo !!	17	0:00:00.045888	1505
+AI ih Skper dwesomo !!	17	0:00:00.045909	1506
+AI ih Super dwesoZo !!	17	0:00:00.045931	1507
+AI ih SupeP dwesomo !!	17	0:00:00.045953	1508
+AI ih Super dwesoSo !!	17	0:00:00.045976	1509
+AI ih Super dwesomo d!	17	0:00:00.045997	1510
+AI ih SupFr dwesomo !!	17	0:00:00.046019	1511
+AI ih Super dwes!mo !!	17	0:00:00.046041	1512
+AI ih SPper dwesomo !!	17	0:00:00.046063	1513
+AI ih Sufer dwesomo !!	17	0:00:00.046085	1514
+AI ih SupZr dwesomo !!	17	0:00:00.046106	1515
+AI ih Super xwesomo !!	18	0:00:00.046128	1516
+AI ih Super dDesomo !!	17	0:00:00.046150	1517
+AI ih Super dwesomo M!	17	0:00:00.046172	1518
+AI ih auper dwesomo !!	17	0:00:00.046194	1519
+AI ih Super dwesDmo !!	17	0:00:00.046216	1520
+AI ih Super dkesomo !!	17	0:00:00.046238	1521
+AI ihHSuper dwesomo !!	17	0:00:00.046259	1522
+AI ih Super wwesomo !!	18	0:00:00.046281	1523
+AI ih Supe! dwesomo !!	17	0:00:00.046303	1524
+AI ih Super dwesomo L!	17	0:00:00.046325	1525
+Ap ih Super dwesomo !!	18	0:00:00.046347	1526
+AInih Super dwesomo !!	17	0:00:00.046368	1527
+CI ih Super dwesomo !!	17	0:00:00.046390	1528
+AI ih Super dwGsomo !!	17	0:00:00.046413	1529
+AI ih kuper dwesomo !!	17	0:00:00.046435	1530
+AI ih Supea dwesomo !!	17	0:00:00.046457	1531
+AI ih muper dwesomo !!	17	0:00:00.046479	1532
+AI ih Super Rwesomo !!	18	0:00:00.046501	1533
+AI ihYSuper dwesomo !!	17	0:00:00.046522	1534
+AI ih Super dwesogo !!	17	0:00:00.046544	1535
+AI ih SuCer dwesomo !!	17	0:00:00.046566	1536
+AI ih Nuper dwesomo !!	17	0:00:00.046588	1537
+AI ihHSuper dwesomo !!	17	0:00:00.046610	1538
+AI ih Super dwesomoc!!	17	0:00:00.046631	1539
+AI ihmSuper dwesomo !!	17	0:00:00.046653	1540
+AI ih Super dOesomo !!	17	0:00:00.046676	1541
+AI ih SupPr dwesomo !!	17	0:00:00.046698	1542
+AI ih Super dwesomO !!	18	0:00:00.046720	1543
+AI ih Super dwesomol!!	17	0:00:00.046741	1544
+qI ih Super dwesomo !!	17	0:00:00.046763	1545
+AI ihNSuper dwesomo !!	17	0:00:00.046785	1546
+AI ih Super dwesoIo !!	17	0:00:00.046807	1547
+AI .h Super dwesomo !!	17	0:00:00.046828	1548
+AI ih Super dwesYmo !!	17	0:00:00.046850	1549
+AI ih Super dweZomo !!	17	0:00:00.046872	1550
+AI ih Super dwesoRo !!	17	0:00:00.046902	1551
+AI ih Super dwesomo !l	17	0:00:00.046925	1552
+AI ih quper dwesomo !!	17	0:00:00.046947	1553
+AI ih Super dwKsomo !!	17	0:00:00.046969	1554
+SI ih Super dwesomo !!	17	0:00:00.046991	1555
+AI ih Sup r dwesomo !!	17	0:00:00.047013	1556
+bI ih Super dwesomo !!	17	0:00:00.047035	1557
+AI ih SupeD dwesomo !!	17	0:00:00.047057	1558
+AI ih Super pwesomo !!	18	0:00:00.047079	1559
+AW ih Super dwesomo !!	18	0:00:00.047101	1560
+AI ih Supek dwesomo !!	17	0:00:00.047122	1561
+AI ih Super dwesomoL!!	17	0:00:00.047144	1562
+AI mh Super dwesomo !!	17	0:00:00.047166	1563
+AI ih Huper dwesomo !!	17	0:00:00.047188	1564
+AI ih Suphr dwesomo !!	17	0:00:00.047209	1565
+AIrih Super dwesomo !!	17	0:00:00.047231	1566
+Ab ih Super dwesomo !!	18	0:00:00.047253	1567
+AU ih Super dwesomo !!	18	0:00:00.047275	1568
+AI ih Super dwesamo !!	17	0:00:00.047297	1569
+AI ih Super zwesomo !!	18	0:00:00.047319	1570
+AI ih SJper dwesomo !!	17	0:00:00.047341	1571
+AI Ch Super dwesomo !!	17	0:00:00.047363	1572
+AI ih Super dwesomM !!	18	0:00:00.047385	1573
+AI ih Super dweYomo !!	17	0:00:00.047407	1574
+AI ih Duper dwesomo !!	17	0:00:00.047429	1575
+AI ih Super dwesome !!	19	0:00:00.047451	1576
+AO ih Super dwesome !!	19	0:00:00.047483	1577
+AI ih Super dweTome !!	18	0:00:00.047505	1578
+AI ih Superhdwesome !!	18	0:00:00.047527	1579
+AI ih Super dwetome !!	18	0:00:00.047549	1580
+AI ih Super dwesKme !!	18	0:00:00.047571	1581
+Aq ih Super dwesome !!	19	0:00:00.047593	1582
+AI ih SuAer dwesome !!	18	0:00:00.047615	1583
+AI ih Super dwasome !!	18	0:00:00.047637	1584
+AI Xh Super dwesome !!	18	0:00:00.047659	1585
+AU ih Super dwesome !!	19	0:00:00.047681	1586
+AI ix Super dwesome !!	19	0:00:00.047703	1587
+AI ih Super dwesole !!	18	0:00:00.047725	1588
+AI ih Suoer dwesome !!	18	0:00:00.047747	1589
+AI ih Superldwesome !!	18	0:00:00.047769	1590
+AI ig Super dwesome !!	19	0:00:00.047791	1591
+AI ih Super dwesome C!	18	0:00:00.047813	1592
+AI ih auper dwesome !!	18	0:00:00.047835	1593
+AI ih Super dwesGme !!	18	0:00:00.047857	1594
+AI Yh Super dwesome !!	18	0:00:00.047879	1595
+AI ih Super dFesome !!	18	0:00:00.047901	1596
+AI ih Super dwesomeL!!	18	0:00:00.047923	1597
+AI ih Super dweyome !!	18	0:00:00.047944	1598
+AI ih Super dweVome !!	18	0:00:00.047966	1599
+AI ih Super dweaome !!	18	0:00:00.047988	1600
+AI ih Super dweskme !!	18	0:00:00.048011	1601
+AI ih SuLer dwesome !!	18	0:00:00.048033	1602
+AI ih Super daesome !!	18	0:00:00.048055	1603
+AI ih Super dHesome !!	18	0:00:00.048077	1604
+AI ih SuVer dwesome !!	18	0:00:00.048099	1605
+AI ih Super dwesome !B	18	0:00:00.048121	1606
+AI ih Super dwesomT !!	18	0:00:00.048143	1607
+AI ih S.per dwesome !!	18	0:00:00.048165	1608
+AI ih Super dwtsome !!	18	0:00:00.048187	1609
+AI ih Super dsesome !!	18	0:00:00.048209	1610
+AI ih SuperKdwesome !!	18	0:00:00.048231	1611
+AI ih Super dwesome X!	18	0:00:00.048252	1612
+AI sh Super dwesome !!	18	0:00:00.048274	1613
+AIVih Super dwesome !!	18	0:00:00.048296	1614
+AI ih duper dwesome !!	18	0:00:00.048318	1615
+AI ih Super dwesomk !!	18	0:00:00.048340	1616
+AI iy Super dwesome !!	19	0:00:00.048362	1617
+AI ih Super dwesomej!!	18	0:00:00.048384	1618
+AI ih puper dwesome !!	18	0:00:00.048406	1619
+AI ih SupeJ dwesome !!	18	0:00:00.048428	1620
+AI ih Super dwesome !c	18	0:00:00.048449	1621
+AI ih SupWr dwesome !!	18	0:00:00.048471	1622
+AI ih Super dwesomeK!!	18	0:00:00.048493	1623
+AI ih SuperXdwesome !!	18	0:00:00.048515	1624
+AI ih Super dwesome C!	18	0:00:00.048537	1625
+AI ih Super dwesomW !!	18	0:00:00.048558	1626
+AI ih SOper dwesome !!	18	0:00:00.048580	1627
+AI Zh Super dwesome !!	18	0:00:00.048602	1628
+AI ih Super dweslme !!	18	0:00:00.048624	1629
+AI ih Super dwSsome !!	18	0:00:00.048646	1630
+AI ih Super dwesomec!!	18	0:00:00.048668	1631
+rI ih Super dwesome !!	18	0:00:00.048689	1632
+AI Th Super dwesome !!	18	0:00:00.048711	1633
+AI ih SuperDdwesome !!	18	0:00:00.048733	1634
+FI ih Super dwesome !!	18	0:00:00.048755	1635
+AI ih juper dwesome !!	18	0:00:00.048777	1636
+AI ih Super dwesose !!	18	0:00:00.048799	1637
+As ih Super dwesome !!	19	0:00:00.048821	1638
+AI ph Super dwesome !!	18	0:00:00.048843	1639
+AI ih Superudwesome !!	18	0:00:00.048872	1640
+AIZih Super dwesome !!	18	0:00:00.048895	1641
+AI ih Super Owesome !!	19	0:00:00.048917	1642
+AI ih Super dwLsome !!	18	0:00:00.048939	1643
+AI ih Super Rwesome !!	19	0:00:00.048962	1644
+AI ih Super dwesome X!	18	0:00:00.048984	1645
+AI ih SupFr dwesome !!	18	0:00:00.049006	1646
+AI ih Super ewesome !!	19	0:00:00.049028	1647
+AI ih Super zwesome !!	19	0:00:00.049050	1648
+AK ih Super dwesome !!	19	0:00:00.049072	1649
+AI ih Ruper dwesome !!	18	0:00:00.049094	1650
+AI ih Super dwesomeI!!	18	0:00:00.049115	1651
+MI ih Super dwesome !!	18	0:00:00.049137	1652
+AL ih Super dwesome !!	19	0:00:00.049159	1653
+AI ih Super dwesome !S	18	0:00:00.049181	1654
+AI i. Super dwesome !!	19	0:00:00.049207	1655
+AI.ih Super dwesome !!	18	0:00:00.049230	1656
+AIeih Super dwesome !!	18	0:00:00.049252	1657
+Ab ih Super dwesome !!	19	0:00:00.049274	1658
+AI ih Super dwesomf !!	18	0:00:00.049296	1659
+AI Jh Super dwesome !!	18	0:00:00.049318	1660
+AI ih Superfdwesome !!	18	0:00:00.049340	1661
+AI ih Super dwVsome !!	18	0:00:00.049362	1662
+UI ih Super dwesome !!	18	0:00:00.049384	1663
+AI ih duper dwesome !!	18	0:00:00.049405	1664
+AI ih Super dweQome !!	18	0:00:00.049427	1665
+AI ih Super dwesome d!	18	0:00:00.049449	1666
+AI ih Super dweYome !!	18	0:00:00.049471	1667
+AI ih Super dwesome i!	18	0:00:00.049493	1668
+AI ih Super dwMsome !!	18	0:00:00.049515	1669
+AI ih Super dMesome !!	18	0:00:00.049536	1670
+AI ih Super dCesome !!	18	0:00:00.049558	1671
+AI ih Super dwesome X!	18	0:00:00.049580	1672
+AI ih Super dwesome !p	18	0:00:00.049602	1673
+AI ih Super dwesose !!	18	0:00:00.049624	1674
+AI ih Super dwesome B!	18	0:00:00.049646	1675
+AI ih SuBer dwesome !!	18	0:00:00.049667	1676
+AI ih Super dweaome !!	18	0:00:00.049689	1677
+AI ie Super dwesome !!	19	0:00:00.049711	1678
+AI ih Super dwesome !.	18	0:00:00.049733	1679
+AI ih Supez dwesome !!	18	0:00:00.049755	1680
+AI ih Super dwesAme !!	18	0:00:00.049776	1681
+AI ih Super dwYsome !!	18	0:00:00.049798	1682
+AI ih SRper dwesome !!	18	0:00:00.049820	1683
+dI ih Super dwesome !!	18	0:00:00.049842	1684
+AI ih Suprr dwesome !!	18	0:00:00.049863	1685
+AIXih Super dwesome !!	18	0:00:00.049885	1686
+AB ih Super dwesome !!	19	0:00:00.049907	1687
+AI ih Super dSesome !!	18	0:00:00.049929	1688
+AI iD Super dwesome !!	19	0:00:00.049951	1689
+AI ih Yuper dwesome !!	18	0:00:00.049973	1690
+AI ih Super dwesomey!!	18	0:00:00.049995	1691
+AI ih Super dwOsome !!	18	0:00:00.050017	1692
+AI ih Super dwesose !!	18	0:00:00.050039	1693
+AI ih Super dwestme !!	18	0:00:00.050060	1694
+AI iA Super dwesome !!	19	0:00:00.050082	1695
+AI ih Suqer dwesome !!	18	0:00:00.050108	1696
+mI ih Super dwesome !!	18	0:00:00.050147	1697
+AI ih Superqdwesome !!	18	0:00:00.050171	1698
+AIlih Super dwesome !!	18	0:00:00.050193	1699
+AI ih buper dwesome !!	18	0:00:00.050215	1700
+AI Oh Super dwesome !!	18	0:00:00.050237	1701
+AI ih Smper dwesome !!	18	0:00:00.050259	1702
+AI ih Super dwesomr !!	18	0:00:00.050281	1703
+AI ih Luper dwesome !!	18	0:00:00.050303	1704
+AI ih Superedwesome !!	18	0:00:00.050325	1705
+AI ih Super dwLsome !!	18	0:00:00.050347	1706
+AI ih Super dwenome !!	18	0:00:00.050369	1707
+AI iT Super dwesome !!	19	0:00:00.050391	1708
+AI ih Super dweJome !!	18	0:00:00.050412	1709
+AI iq Super dwesome !!	19	0:00:00.050435	1710
+AI Ah Super dwesome !!	18	0:00:00.050457	1711
+AI ih Super dwesoWe !!	18	0:00:00.050479	1712
+AI ih SuperNdwesome !!	18	0:00:00.050501	1713
+AI ihCSuper dwesome !!	18	0:00:00.050523	1714
+AI ih Ruper dwesome !!	18	0:00:00.050545	1715
+AI ih Super dwDsome !!	18	0:00:00.050566	1716
+AI ih SuperPdwesome !!	18	0:00:00.050588	1717
+AI ih SupJr dwesome !!	18	0:00:00.050610	1718
+AI ih Super dwesomU !!	18	0:00:00.050632	1719
+AI ih Super dwesome C!	18	0:00:00.050654	1720
+AI hh Super dwesome !!	18	0:00:00.050676	1721
+AIaih Super dwesome !!	18	0:00:00.050698	1722
+AI ih Super Gwesome !!	19	0:00:00.050719	1723
+AIbih Super dwesome !!	18	0:00:00.050741	1724
+AI ih Super ddesome !!	18	0:00:00.050763	1725
+AI ih Super dwesomh !!	18	0:00:00.050785	1726
+AI ih Super dwemome !!	18	0:00:00.050807	1727
+AITih Super dwesome !!	18	0:00:00.050829	1728
+AI ih Super dwesome !l	18	0:00:00.050861	1729
+AI ih Supnr dwesome !!	18	0:00:00.050884	1730
+AI ih Soper dwesome !!	18	0:00:00.050906	1731
+AI ih Super dwesomeS!!	18	0:00:00.050928	1732
+AI ih Super dwesomei!!	18	0:00:00.050950	1733
+AI ih Super dwFsome !!	18	0:00:00.050972	1734
+AI ih SupBr dwesome !!	18	0:00:00.050994	1735
+AI ih SuKer dwesome !!	18	0:00:00.051015	1736
+AI ih Super hwesome !!	19	0:00:00.051037	1737
+AI ih Duper dwesome !!	18	0:00:00.051059	1738
+AI  h Super dwesome !!	18	0:00:00.051081	1739
+AI Zh Super dwesome !!	18	0:00:00.051103	1740
+CI ih Super dwesome !!	18	0:00:00.051125	1741
+AI ih super dwesome !!	18	0:00:00.051147	1742
+AI ih Superxdwesome !!	18	0:00:00.051168	1743
+AI ih Super dwesoOe !!	18	0:00:00.051190	1744
+DI ih Super dwesome !!	18	0:00:00.051212	1745
+AI ih SuperMdwesome !!	18	0:00:00.051234	1746
+AI ih Super dwesUme !!	18	0:00:00.051257	1747
+AI ih Super dwesome !q	18	0:00:00.051279	1748
+AI ih SuperFdwesome !!	18	0:00:00.051301	1749
+AI yh Super dwesome !!	18	0:00:00.051323	1750
+AI ih  uper dwesome !!	18	0:00:00.051345	1751
+AI ih Super dwexome !!	18	0:00:00.051367	1752
+AI ih Supew dwesome !!	18	0:00:00.051389	1753
+AI ih Kuper dwesome !!	18	0:00:00.051410	1754
+AI ihhSuper dwesome !!	18	0:00:00.051432	1755
+AI ih Super dwesomE !!	18	0:00:00.051454	1756
+AI ih Super dwesNme !!	18	0:00:00.051476	1757
+AI jh Super dwesome !!	18	0:00:00.051498	1758
+AI ih Super dwesome !L	18	0:00:00.051520	1759
+AI ih SYper dwesome !!	18	0:00:00.051542	1760
+AI ih Super dweHome !!	18	0:00:00.051564	1761
+AI ih SupeU dwesome !!	18	0:00:00.051586	1762
+AI ih Super dCesome !!	18	0:00:00.051608	1763
+AI ih Super dweQome !!	18	0:00:00.051630	1764
+AI ih Super dwesome !A	18	0:00:00.051652	1765
+An ih Super dwesome !!	19	0:00:00.051678	1766
+AI ih Super dweTome !!	18	0:00:00.051716	1767
+AI ih Super dwesomea!!	18	0:00:00.051740	1768
+AI ih SupWr dwesome !!	18	0:00:00.051762	1769
+AI ih Super dwesIme !!	18	0:00:00.051784	1770
+AIoih Super dwesome !!	18	0:00:00.051806	1771
+AI ih Super dwesomer!!	18	0:00:00.051829	1772
+AI ih Super dwesoml !!	18	0:00:00.051851	1773
+AI iS Super dwesome !!	19	0:00:00.051872	1774
+AI fh Super dwesome !!	18	0:00:00.051894	1775
+AI iE Super dwesome !!	19	0:00:00.051916	1776
+AI ih  uper dwesome !!	18	0:00:00.051938	1777
+oI ih Super dwesome !!	18	0:00:00.051960	1778
+AI ih SuUer dwesome !!	18	0:00:00.051981	1779
+AI iL Super dwesome !!	19	0:00:00.052003	1780
+AI ih SuperEdwesome !!	18	0:00:00.052025	1781
+AI ihrSuper dwesome !!	18	0:00:00.052047	1782
+AI ih Super dwesome C!	18	0:00:00.052069	1783
+AI ih Super dwesome  !	18	0:00:00.052090	1784
+AI ih SupGr dwesome !!	18	0:00:00.052112	1785
+AI ih Super dwesowe !!	18	0:00:00.052134	1786
+AI wh Super dwesome !!	18	0:00:00.052156	1787
+AI ih muper dwesome !!	18	0:00:00.052178	1788
+AI ih Super dwesomo !!	18	0:00:00.052199	1789
+AIoih Super dwesome !!	18	0:00:00.052221	1790
+AI ih Super dwesomen!!	18	0:00:00.052243	1791
+AI ih Super dwesome !G	18	0:00:00.052265	1792
+Al ih Super dwesome !!	20	0:00:00.052287	1793
+Al ih juper dwesome !!	19	0:00:00.052319	1794
+Al ih Super d esome !!	19	0:00:00.052341	1795
+Al ih SupZr dwesome !!	19	0:00:00.052363	1796
+Al ih Super dweOome !!	19	0:00:00.052385	1797
+Al ih Super dwesomeY!!	19	0:00:00.052407	1798
+Al ih SuZer dwesome !!	19	0:00:00.052429	1799
+Al ih Super dwesome Y!	19	0:00:00.052451	1800
+AlOih Super dwesome !!	19	0:00:00.052473	1801
+Al ih Super dwesQme !!	19	0:00:00.052495	1802
+Al ih Super cwesome !!	20	0:00:00.052517	1803
+Al ih Supzr dwesome !!	19	0:00:00.052539	1804
+Al ih Super dwesomg !!	19	0:00:00.052560	1805
+Al ih Suprr dwesome !!	19	0:00:00.052582	1806
+Al ih Super dwesomex!!	19	0:00:00.052604	1807
+Al ih kuper dwesome !!	19	0:00:00.052626	1808
+Al ih Super dweso e !!	19	0:00:00.052648	1809
+Al Fh Super dwesome !!	19	0:00:00.052670	1810
+Al ih Super dwesofe !!	19	0:00:00.052691	1811
+Al ih Super dkesome !!	19	0:00:00.052713	1812
+Al ih SuLer dwesome !!	19	0:00:00.052735	1813
+Al ih Super dEesome !!	19	0:00:00.052757	1814
+Al ih SuZer dwesome !!	19	0:00:00.052779	1815
+Al ih SuperTdwesome !!	19	0:00:00.052801	1816
+Al ih Suqer dwesome !!	19	0:00:00.052822	1817
+Al ih SupJr dwesome !!	19	0:00:00.052854	1818
+Al ih Super qwesome !!	20	0:00:00.052878	1819
+Al ih Super dwesoDe !!	19	0:00:00.052900	1820
+fl ih Super dwesome !!	19	0:00:00.052922	1821
+Al ih Super dwesEme !!	19	0:00:00.052944	1822
+Al yh Super dwesome !!	19	0:00:00.052966	1823
+Al ih Supqr dwesome !!	19	0:00:00.052988	1824
+Al Kh Super dwesome !!	19	0:00:00.053010	1825
+Al ih Suxer dwesome !!	19	0:00:00.053032	1826
+Al ih Super dwedome !!	19	0:00:00.053054	1827
+AG ih Super dwesome !!	19	0:00:00.053076	1828
+Al ih Super dpesome !!	19	0:00:00.053098	1829
+Al ii Super dwesome !!	20	0:00:00.053120	1830
+Al ih Super dwFsome !!	19	0:00:00.053141	1831
+Al ih Super dwesomQ !!	19	0:00:00.053163	1832
+AJ ih Super dwesome !!	19	0:00:00.053185	1833
+Al mh Super dwesome !!	19	0:00:00.053214	1834
+Al ih Sumer dwesome !!	19	0:00:00.053237	1835
+Al ih Super dwesEme !!	19	0:00:00.053259	1836
+Al ih Super dwesomy !!	19	0:00:00.053281	1837
+Al ih SRper dwesome !!	19	0:00:00.053303	1838
+Al gh Super dwesome !!	19	0:00:00.053325	1839
+Al ih Super awesome !!	20	0:00:00.053347	1840
+Al ih Superqdwesome !!	19	0:00:00.053369	1841
+Al ih Super dzesome !!	19	0:00:00.053391	1842
+Al ih Super dwesome O!	19	0:00:00.053413	1843
+Al ih Supersdwesome !!	19	0:00:00.053435	1844
+Al ih Super dwesome n!	19	0:00:00.053457	1845
+Aljih Super dwesome !!	19	0:00:00.053479	1846
+Al ih Super pwesome !!	20	0:00:00.053501	1847
+Al ih Super dwesome O!	19	0:00:00.053523	1848
+Al ih Super dweyome !!	19	0:00:00.053545	1849
+Al ih Suier dwesome !!	19	0:00:00.053568	1850
+Al ih Super dwesSme !!	19	0:00:00.053590	1851
+Al ihuSuper dwesome !!	19	0:00:00.053612	1852
+Al ih Super dwBsome !!	19	0:00:00.053634	1853
+Al ih S.per dwesome !!	19	0:00:00.053656	1854
+Al ih Super dwesome !F	19	0:00:00.053678	1855
+ll ih Super dwesome !!	19	0:00:00.053700	1856
+Al ch Super dwesome !!	19	0:00:00.053722	1857
+Alyih Super dwesome !!	19	0:00:00.053743	1858
+Al !h Super dwesome !!	19	0:00:00.053766	1859
+Al ih Super dweskme !!	19	0:00:00.053788	1860
+Al ih xuper dwesome !!	19	0:00:00.053810	1861
+Al ih Superhdwesome !!	19	0:00:00.053831	1862
+Al ih Super dweAome !!	19	0:00:00.053853	1863
+Altih Super dwesome !!	19	0:00:00.053875	1864
+Al ih STper dwesome !!	19	0:00:00.053897	1865
+Al ih Super dwesZme !!	19	0:00:00.053919	1866
+Al ih Super dwesXme !!	19	0:00:00.053940	1867
+Al ih Stper dwesome !!	19	0:00:00.053962	1868
+Al ih .uper dwesome !!	19	0:00:00.053984	1869
+Al ih SCper dwesome !!	19	0:00:00.054006	1870
+Al ih Super dwesomA !!	19	0:00:00.054028	1871
+Al ihxSuper dwesome !!	19	0:00:00.054050	1872
+Al ih SuSer dwesome !!	19	0:00:00.054072	1873
+Alpih Super dwesome !!	19	0:00:00.054094	1874
+Al ih Superqdwesome !!	19	0:00:00.054116	1875
+Al ih Super dwesoDe !!	19	0:00:00.054138	1876
+Al ih Super dwesome !W	19	0:00:00.054160	1877
+Al ih SuperQdwesome !!	19	0:00:00.054181	1878
+Al im Super dwesome !!	20	0:00:00.054203	1879
+Al ih SFper dwesome !!	19	0:00:00.054225	1880
+Al ih SupeX dwesome !!	19	0:00:00.054247	1881
+Al ih SupeS dwesome !!	19	0:00:00.054269	1882
+Al ih Super dw.some !!	19	0:00:00.054291	1883
+Al ia Super dwesome !!	20	0:00:00.054313	1884
+Al ih Super dwesomeH!!	19	0:00:00.054334	1885
+Al ih Super dwesome x!	19	0:00:00.054356	1886
+Al ih Super dwessme !!	19	0:00:00.054378	1887
+AO ih Super dwesome !!	19	0:00:00.054400	1888
+AJ ih Super dwesome !!	19	0:00:00.054422	1889
+Al ih Super dwehome !!	19	0:00:00.054444	1890
+Al ih Super dweMome !!	19	0:00:00.054466	1891
+Al ih Supe  dwesome !!	19	0:00:00.054488	1892
+Al ih Super dwesome z!	19	0:00:00.054510	1893
+Al ih Supdr dwesome !!	19	0:00:00.054532	1894
+Al ih Super dwesomea!!	19	0:00:00.054553	1895
+Al ih Super dfesome !!	19	0:00:00.054575	1896
+Al ih Supec dwesome !!	19	0:00:00.054597	1897
+Al ih Scper dwesome !!	19	0:00:00.054619	1898
+Al ih Super dLesome !!	19	0:00:00.054641	1899
+Al ihhSuper dwesome !!	19	0:00:00.054663	1900
+Al ih Super dweXome !!	19	0:00:00.054685	1901
+Al ihRSuper dwesome !!	19	0:00:00.054707	1902
+ql ih Super dwesome !!	19	0:00:00.054728	1903
+Al ih Super daesome !!	19	0:00:00.054750	1904
+Al ih Supzr dwesome !!	19	0:00:00.054772	1905
+Al ih Suler dwesome !!	19	0:00:00.054795	1906
+Ml ih Super dwesome !!	19	0:00:00.054825	1907
+Algih Super dwesome !!	19	0:00:00.054849	1908
+Al ih SuperXdwesome !!	19	0:00:00.054870	1909
+Ak ih Super dwesome !!	19	0:00:00.054892	1910
+Al zh Super dwesome !!	19	0:00:00.054914	1911
+Algih Super dwesome !!	19	0:00:00.054936	1912
+Al ih Super dwesoje !!	19	0:00:00.054958	1913
+Al ih SuYer dwesome !!	19	0:00:00.054980	1914
+Al ih Super dwesome !V	19	0:00:00.055002	1915
+Al ih Supermdwesome !!	19	0:00:00.055024	1916
+Al yh Super dwesome !!	19	0:00:00.055045	1917
+Al ih SupHr dwesome !!	19	0:00:00.055068	1918
+Al ih SupMr dwesome !!	19	0:00:00.055089	1919
+Al ih Super dwesomev!!	19	0:00:00.055111	1920
+Alnih Super dwesome !!	19	0:00:00.055133	1921
+Al ih Super dwesLme !!	19	0:00:00.055155	1922
+Al ih Super dwesome V!	19	0:00:00.055177	1923
+AW ih Super dwesome !!	19	0:00:00.055199	1924
+Al ih Super dwesomy !!	19	0:00:00.055221	1925
+Al ih SuMer dwesome !!	19	0:00:00.055242	1926
+Al ih Supe. dwesome !!	19	0:00:00.055264	1927
+Al iQ Super dwesome !!	20	0:00:00.055286	1928
+Al ih Suzer dwesome !!	19	0:00:00.055308	1929
+Al ih guper dwesome !!	19	0:00:00.055330	1930
+Al ih Super dwe.ome !!	19	0:00:00.055351	1931
+Al ih SupeG dwesome !!	19	0:00:00.055373	1932
+Al ih Super dwesome e!	19	0:00:00.055395	1933
+Al Uh Super dwesome !!	19	0:00:00.055417	1934
+Al ih Super dZesome !!	19	0:00:00.055439	1935
+Al ih Super dwesome P!	19	0:00:00.055461	1936
+Al ih SQper dwesome !!	19	0:00:00.055483	1937
+Al ih Super dwesoFe !!	19	0:00:00.055504	1938
+Al ih Super dwesome !p	19	0:00:00.055526	1939
+Al ih Super dwePome !!	19	0:00:00.055548	1940
+!l ih Super dwesome !!	19	0:00:00.055570	1941
+Al ih Super dIesome !!	19	0:00:00.055592	1942
+Al ih Xuper dwesome !!	19	0:00:00.055614	1943
+Al ih Super dwesLme !!	19	0:00:00.055635	1944
+Al ih Super dwesome !D	19	0:00:00.055657	1945
+Al ih Sxper dwesome !!	19	0:00:00.055679	1946
+Al ih SuUer dwesome !!	19	0:00:00.055701	1947
+Al ih Super dweTome !!	19	0:00:00.055723	1948
+Al ih Suxer dwesome !!	19	0:00:00.055745	1949
+Al ih Super dOesome !!	19	0:00:00.055767	1950
+Al ih Duper dwesome !!	19	0:00:00.055788	1951
+ol ih Super dwesome !!	19	0:00:00.055810	1952
+Al ih Suzer dwesome !!	19	0:00:00.055832	1953
+Al ih Super dwesomi !!	19	0:00:00.055855	1954
+Al ia Super dwesome !!	20	0:00:00.055877	1955
+Al iz Super dwesome !!	20	0:00:00.055899	1956
+Al ih Super dwelome !!	19	0:00:00.055921	1957
+Al ih  uper dwesome !!	19	0:00:00.055943	1958
+Al ih Suier dwesome !!	19	0:00:00.055965	1959
+Al ih Super dHesome !!	19	0:00:00.055987	1960
+Al ih Super dwrsome !!	19	0:00:00.056009	1961
+Al ih Super dTesome !!	19	0:00:00.056030	1962
+AlNih Super dwesome !!	19	0:00:00.056052	1963
+Al ih Super dwesome !C	19	0:00:00.056074	1964
+Al eh Super dwesome !!	19	0:00:00.056096	1965
+Al ih Super dwesomeq!!	19	0:00:00.056118	1966
+Al ih Super dwesome !E	19	0:00:00.056140	1967
+Al ih SupeR dwesome !!	19	0:00:00.056162	1968
+Al ih Super dwesome w!	19	0:00:00.056184	1969
+A  ih Super dwesome !!	19	0:00:00.056206	1970
+Aloih Super dwesome !!	19	0:00:00.056227	1971
+Al ih Super dEesome !!	19	0:00:00.056249	1972
+Al ih Super dweso.e !!	19	0:00:00.056271	1973
+Al ih SupBr dwesome !!	19	0:00:00.056293	1974
+Al ihrSuper dwesome !!	19	0:00:00.056315	1975
+Al ih SCper dwesome !!	19	0:00:00.056337	1976
+Al ih Super dfesome !!	19	0:00:00.056358	1977
+Al ih Super dwesIme !!	19	0:00:00.056380	1978
+Al Vh Super dwesome !!	19	0:00:00.056402	1979
+Al ih Super dwesoVe !!	19	0:00:00.056424	1980
+Al ih Super Kwesome !!	20	0:00:00.056445	1981
+Al ih Super Hwesome !!	20	0:00:00.056467	1982
+AY ih Super dwesome !!	19	0:00:00.056489	1983
+Al ih Super dwesomej!!	19	0:00:00.056511	1984
+Al ih Super dwesomC !!	19	0:00:00.056533	1985
+Al ih Super dwesomR !!	19	0:00:00.056555	1986
+AlKih Super dwesome !!	19	0:00:00.056576	1987
+rl ih Super dwesome !!	19	0:00:00.056598	1988
+Al ih Super  wesome !!	20	0:00:00.056620	1989
+Al ih Supyr dwesome !!	19	0:00:00.056642	1990
+Al ih Super dwesPme !!	19	0:00:00.056664	1991
+Al ih SuperVdwesome !!	19	0:00:00.056686	1992
+Al ih Super Twesome !!	20	0:00:00.056708	1993
+Al ih Muper dwesome !!	19	0:00:00.056730	1994
+Al ih Super dwesAme !!	19	0:00:00.056752	1995
+Al ih Super dwesome v!	19	0:00:00.056781	1996
+Al ih Suplr dwesome !!	19	0:00:00.056804	1997
+Al ih Superndwesome !!	19	0:00:00.056826	1998
+Al Ih Super dwesome !!	19	0:00:00.056848	1999
+Al ih Super dwesoSe !!	19	0:00:00.056870	2000
+Al dh Super dwesome !!	19	0:00:00.056892	2001
+Ab ih Super dwesome !!	19	0:00:00.056914	2002
+Al ih Super dwesomek!!	19	0:00:00.056935	2003
+Al ih Super dwesoee !!	19	0:00:00.056957	2004
+Al ih Szper dwesome !!	19	0:00:00.056979	2005
+Al ih Supergdwesome !!	19	0:00:00.057001	2006
+Al hh Super dwesome !!	19	0:00:00.057022	2007
+Al ih Superidwesome !!	19	0:00:00.057044	2008
+Al ih Super dweOome !!	19	0:00:00.057066	2009
+Al ih Super dwe!ome !!	19	0:00:00.057088	2010
+Al ih SuBer dwesome !!	19	0:00:00.057110	2011
+AlQih Super dwesome !!	19	0:00:00.057132	2012
+Al ih Super twesome !!	20	0:00:00.057154	2013
+Al ih SuperTdwesome !!	19	0:00:00.057176	2014
+Al ih Super dwSsome !!	19	0:00:00.057213	2015
+Al Ih Super dwesome !!	19	0:00:00.057235	2016
+Al ih Super dwesomQ !!	19	0:00:00.057257	2017
+Al ih Stper dwesome !!	19	0:00:00.057277	2018
+Al is Super dwesome !!	21	0:00:00.057298	2019
+Al is SYper dwesome !!	20	0:00:00.057329	2020
+gl is Super dwesome !!	20	0:00:00.057351	2021
+Al is Super dwesEme !!	20	0:00:00.057372	2022
+zl is Super dwesome !!	20	0:00:00.057392	2023
+Al is Super dwesome !k	20	0:00:00.057413	2024
+Al is Supep dwesome !!	20	0:00:00.057434	2025
+Al isqSuper dwesome !!	20	0:00:00.057456	2026
+Al is Super dwesome !b	20	0:00:00.057477	2027
+A. is Super dwesome !!	20	0:00:00.057498	2028
+Al is Super dwesomf !!	20	0:00:00.057519	2029
+Al is Super dwesoRe !!	20	0:00:00.057540	2030
+AQ is Super dwesome !!	20	0:00:00.057561	2031
+Al is Super dwesomK !!	20	0:00:00.057581	2032
+Al is SVper dwesome !!	20	0:00:00.057602	2033
+Al iX Super dwesome !!	20	0:00:00.057623	2034
+Ay is Super dwesome !!	20	0:00:00.057644	2035
+Al is Super dwesobe !!	20	0:00:00.057665	2036
+Al is Super owesome !!	21	0:00:00.057686	2037
+Al is Super kwesome !!	21	0:00:00.057707	2038
+Al is Super lwesome !!	21	0:00:00.057728	2039
+Al is SuperKdwesome !!	20	0:00:00.057749	2040
+Al is Super dwesome F!	20	0:00:00.057769	2041
+Al is SRper dwesome !!	20	0:00:00.057790	2042
+Al is Super dwqsome !!	20	0:00:00.057811	2043
+!l is Super dwesome !!	20	0:00:00.057832	2044
+Alris Super dwesome !!	20	0:00:00.057853	2045
+Al is Super dwesomE !!	20	0:00:00.057873	2046
+Al is Super dwesome X!	20	0:00:00.057894	2047
+Al iskSuper dwesome !!	20	0:00:00.057915	2048
+Al is Super dwesomo !!	20	0:00:00.057936	2049
+AE is Super dwesome !!	20	0:00:00.057957	2050
+Al is SXper dwesome !!	20	0:00:00.057978	2051
+Al is Super dwesome f!	20	0:00:00.057999	2052
+Al Ys Super dwesome !!	20	0:00:00.058019	2053
+Al is Kuper dwesome !!	20	0:00:00.058040	2054
+Al is Super dwesQme !!	20	0:00:00.058061	2055
+Al is Super Rwesome !!	21	0:00:00.058082	2056
+Il is Super dwesome !!	20	0:00:00.058103	2057
+Al is Suwer dwesome !!	20	0:00:00.058124	2058
+Al is Super Wwesome !!	21	0:00:00.058145	2059
+AA is Super dwesome !!	20	0:00:00.058166	2060
+Al is Super dwasome !!	20	0:00:00.058187	2061
+Al is Super dwesPme !!	20	0:00:00.058208	2062
+Al is Super dwesome f!	20	0:00:00.058229	2063
+Al is Supey dwesome !!	20	0:00:00.058250	2064
+Al is Super dwesome !.	20	0:00:00.058270	2065
+Al is Super dwesomI !!	20	0:00:00.058291	2066
+Al is Super dwevome !!	20	0:00:00.058312	2067
+Al is Super dwesome z!	20	0:00:00.058333	2068
+Al is Super deesome !!	20	0:00:00.058354	2069
+Al is Super dwesomee!!	20	0:00:00.058375	2070
+Al is Super dwesoqe !!	20	0:00:00.058396	2071
+Al isASuper dwesome !!	20	0:00:00.058417	2072
+Al is SRper dwesome !!	20	0:00:00.058438	2073
+Al is Super ywesome !!	21	0:00:00.058458	2074
+Al is Super dwesome A!	20	0:00:00.058480	2075
+Al is Wuper dwesome !!	20	0:00:00.058500	2076
+Al is Super dwesome !R	20	0:00:00.058521	2077
+Al is Super wwesome !!	21	0:00:00.058542	2078
+Al is SFper dwesome !!	20	0:00:00.058564	2079
+Al is uuper dwesome !!	20	0:00:00.058585	2080
+Al is Super rwesome !!	21	0:00:00.058606	2081
+AlEis Super dwesome !!	20	0:00:00.058626	2082
+Al is SupBr dwesome !!	20	0:00:00.058647	2083
+Alpis Super dwesome !!	20	0:00:00.058668	2084
+Al is Super dwesome !a	20	0:00:00.058697	2085
+Al is Suoer dwesome !!	20	0:00:00.058720	2086
+Al is Super dwesomm !!	20	0:00:00.058741	2087
+Al is Super dweeome !!	20	0:00:00.058762	2088
+Al is Super djesome !!	20	0:00:00.058783	2089
+Al is SuTer dwesome !!	20	0:00:00.058804	2090
+Al is Sucer dwesome !!	20	0:00:00.058825	2091
+Al is Super dDesome !!	20	0:00:00.058846	2092
+Al is Super dwezome !!	20	0:00:00.058867	2093
+Al is Super dwmsome !!	20	0:00:00.058888	2094
+Al is Suuer dwesome !!	20	0:00:00.058908	2095
+AlDis Super dwesome !!	20	0:00:00.058929	2096
+Al is SuperOdwesome !!	20	0:00:00.058950	2097
+kl is Super dwesome !!	20	0:00:00.058971	2098
+Al Ys Super dwesome !!	20	0:00:00.058992	2099
+Al is Super dwesome !z	20	0:00:00.059013	2100
+Al is ruper dwesome !!	20	0:00:00.059034	2101
+Al is Super dwesZme !!	20	0:00:00.059055	2102
+Al is Super xwesome !!	21	0:00:00.059076	2103
+Al is SuperAdwesome !!	20	0:00:00.059097	2104
+Al is Szper dwesome !!	20	0:00:00.059118	2105
+Al is Super dweXome !!	20	0:00:00.059139	2106
+Al is Super dwesomeR!!	20	0:00:00.059160	2107
+Al is Super dwesome !y	20	0:00:00.059181	2108
+AlYis Super dwesome !!	20	0:00:00.059202	2109
+Ab is Super dwesome !!	20	0:00:00.059223	2110
+Al is Superqdwesome !!	20	0:00:00.059244	2111
+Al is Super dwesomeN!!	20	0:00:00.059265	2112
+Al is Supdr dwesome !!	20	0:00:00.059286	2113
+Al is duper dwesome !!	20	0:00:00.059307	2114
+Al iv Super dwesome !!	20	0:00:00.059327	2115
+Al is Super dwesomO !!	20	0:00:00.059348	2116
+Sl is Super dwesome !!	20	0:00:00.059369	2117
+Al is Super dwesome a!	20	0:00:00.059390	2118
+Al is Super dwxsome !!	20	0:00:00.059411	2119
+Al is Supcr dwesome !!	20	0:00:00.059432	2120
+Al is Ruper dwesome !!	20	0:00:00.059453	2121
+Al is Euper dwesome !!	20	0:00:00.059474	2122
+Al is SupeF dwesome !!	20	0:00:00.059495	2123
+Al is !uper dwesome !!	20	0:00:00.059516	2124
+Al is Super rwesome !!	21	0:00:00.059537	2125
+Al is Super dweso!e !!	20	0:00:00.059558	2126
+Al is SuperRdwesome !!	20	0:00:00.059579	2127
+Al is Super dwesomea!!	20	0:00:00.059600	2128
+Al is Super dwesIme !!	20	0:00:00.059621	2129
+Al is Super dwtsome !!	20	0:00:00.059642	2130
+Al is Super Mwesome !!	21	0:00:00.059662	2131
+Al is Supem dwesome !!	20	0:00:00.059683	2132
+Xl is Super dwesome !!	20	0:00:00.059704	2133
+Al is SGper dwesome !!	20	0:00:00.059725	2134
+Al is iuper dwesome !!	20	0:00:00.059746	2135
+Al is Super dwe.ome !!	20	0:00:00.059766	2136
+Al ys Super dwesome !!	20	0:00:00.059787	2137
+Al is Super dXesome !!	20	0:00:00.059808	2138
+Al is Super dwesomeg!!	20	0:00:00.059829	2139
+Tl is Super dwesome !!	20	0:00:00.059850	2140
+Al is SupeL dwesome !!	20	0:00:00.059871	2141
+Al is Super dweQome !!	20	0:00:00.059892	2142
+Al is Supeq dwesome !!	20	0:00:00.059913	2143
+Al is Super dwesWme !!	20	0:00:00.059934	2144
+Al is Super dwesoXe !!	20	0:00:00.059955	2145
+Al Is Super dwesome !!	20	0:00:00.059975	2146
+Al is Super dwesqme !!	20	0:00:00.059997	2147
+AJ is Super dwesome !!	20	0:00:00.060018	2148
+Al is Supcr dwesome !!	20	0:00:00.060038	2149
+AlSis Super dwesome !!	20	0:00:00.060059	2150
+Al is Super dweskme !!	20	0:00:00.060080	2151
+Al is Super dwesome !s	20	0:00:00.060101	2152
+Al is SupSr dwesome !!	20	0:00:00.060125	2153
+Al is SuperEdwesome !!	20	0:00:00.060163	2154
+Al is Saper dwesome !!	20	0:00:00.060187	2155
+AZ is Super dwesome !!	20	0:00:00.060214	2156
+AP is Super dwesome !!	20	0:00:00.060243	2157
+Al is Super dwetome !!	20	0:00:00.060265	2158
+Al is Super Dwesome !!	21	0:00:00.060286	2159
+Al is Super dhesome !!	20	0:00:00.060308	2160
+Al is Super dwwsome !!	20	0:00:00.060329	2161
+Al is SRper dwesome !!	20	0:00:00.060350	2162
+Al is Sup r dwesome !!	20	0:00:00.060386	2163
+Al is SuperXdwesome !!	20	0:00:00.060424	2164
+Al is Super dwe ome !!	20	0:00:00.060465	2165
+Al is Supeh dwesome !!	20	0:00:00.060491	2166
+AR is Super dwesome !!	20	0:00:00.060530	2167
+Al ismSuper dwesome !!	20	0:00:00.060555	2168
+Al is Super dwesome f!	20	0:00:00.060576	2169
+Al iK Super dwesome !!	20	0:00:00.060597	2170
+Al is SuperYdwesome !!	20	0:00:00.060618	2171
+Al is Super dwesome D!	20	0:00:00.060639	2172
+Al is Super dwBsome !!	20	0:00:00.060660	2173
+Al is Sujer dwesome !!	20	0:00:00.060693	2174
+Al is Svper dwesome !!	20	0:00:00.060715	2175
+Al is !uper dwesome !!	20	0:00:00.060736	2176
+Al is Super dweqome !!	20	0:00:00.060757	2177
+Cl is Super dwesome !!	20	0:00:00.060778	2178
+Al is Super dweNome !!	20	0:00:00.060805	2179
+Al is SupeH dwesome !!	20	0:00:00.060839	2180
+Al is Super dwesoNe !!	20	0:00:00.060870	2181
+A! is Super dwesome !!	20	0:00:00.060908	2182
+Al is Supes dwesome !!	20	0:00:00.060952	2183
+Al is SupTr dwesome !!	20	0:00:00.060994	2184
+AlVis Super dwesome !!	20	0:00:00.061020	2185
+Al is Supek dwesome !!	20	0:00:00.061059	2186
+Al is Super dwesoie !!	20	0:00:00.061082	2187
+Al is Super dwesoqe !!	20	0:00:00.061103	2188
+Al is Super dwesomeU!!	20	0:00:00.061124	2189
+AI is Super dwesome !!	20	0:00:00.061145	2190
+Al is SuSer dwesome !!	20	0:00:00.061166	2191
+Al is Super dwesmme !!	20	0:00:00.061187	2192
+Al is Super dwesomd !!	20	0:00:00.061216	2193
+AlSis Super dwesome !!	20	0:00:00.061237	2194
+Al is Supxr dwesome !!	20	0:00:00.061268	2195
+Al is SuperJdwesome !!	20	0:00:00.061289	2196
+Al is !uper dwesome !!	20	0:00:00.061311	2197
+Al is SupeF dwesome !!	20	0:00:00.061331	2198
+Al is Super dwjsome !!	20	0:00:00.061352	2199
+Al iV Super dwesome !!	20	0:00:00.061373	2200
+Al is Super dwesoke !!	20	0:00:00.061395	2201
+Al is Supe  dwesome !!	20	0:00:00.061432	2202
+Al is SupeS dwesome !!	20	0:00:00.061478	2203
+Al is Super dwesome !L	20	0:00:00.061520	2204
+Al isPSuper dwesome !!	20	0:00:00.061561	2205
+Al ts Super dwesome !!	20	0:00:00.061595	2206
+Al is Super dwesome !m	20	0:00:00.061633	2207
+Al is SupQr dwesome !!	20	0:00:00.061677	2208
+Al is Super dwesome !u	20	0:00:00.061705	2209
+Fl is Super dwesome !!	20	0:00:00.061727	2210
+Al is Super dwesomt !!	20	0:00:00.061762	2211
+AlBis Super dwesome !!	20	0:00:00.061802	2212
+Al is SuperRdwesome !!	20	0:00:00.061839	2213
+Al is Super dwesWme !!	20	0:00:00.061874	2214
+nl is Super dwesome !!	20	0:00:00.061911	2215
+Al iZ Super dwesome !!	20	0:00:00.061953	2216
+Al is Uuper dwesome !!	20	0:00:00.061986	2217
+Al is fuper dwesome !!	20	0:00:00.062013	2218
+Al is Super Gwesome !!	21	0:00:00.062053	2219
+Al is Super dwesHme !!	20	0:00:00.062095	2220
+Al is SNper dwesome !!	20	0:00:00.062140	2221
+Al is SupYr dwesome !!	20	0:00:00.062186	2222
+Al is Super dwesove !!	20	0:00:00.062233	2223
+Al ic Super dwesome !!	20	0:00:00.062271	2224
+AU is Super dwesome !!	20	0:00:00.062327	2225
+Al is Sbper dwesome !!	20	0:00:00.062375	2226
+Al isESuper dwesome !!	20	0:00:00.062416	2227
+Al isXSuper dwesome !!	20	0:00:00.062462	2228
+Al is Super dWesome !!	20	0:00:00.062508	2229
+Al xs Super dwesome !!	20	0:00:00.062549	2230
+Al is Super dwesDme !!	20	0:00:00.062589	2231
+Al iD Super dwesome !!	20	0:00:00.062632	2232
+Al is Super dwesome k!	20	0:00:00.062677	2233
+Al is Superbdwesome !!	20	0:00:00.062720	2234
+Al iA Super dwesome !!	20	0:00:00.062762	2235
+Al is Super !wesome !!	21	0:00:00.062800	2236
+Al is Super Ewesome !!	21	0:00:00.062823	2237
+Al is Super dwesome Z!	20	0:00:00.062844	2238
+At is Super dwesome !!	20	0:00:00.062865	2239
+Al is Super dwesome s!	20	0:00:00.062887	2240
+ml is Super dwesome !!	20	0:00:00.062908	2241
+zl is Super dwesome !!	20	0:00:00.062930	2242
+Al is SuperJdwesome !!	20	0:00:00.062962	2243
+Al is Supeu dwesome !!	20	0:00:00.062986	2244
+Al is Super dwosome !!	20	0:00:00.063025	2245
+Al is Super .wesome !!	21	0:00:00.063069	2246
+Al is SuperUdwesome !!	20	0:00:00.063113	2247
+Al is Superkdwesome !!	20	0:00:00.063148	2248
+Al is SuIer dwesome !!	20	0:00:00.063172	2249
+Al is Super dwrsome !!	20	0:00:00.063194	2250
+Al iM Super dwesome !!	20	0:00:00.063216	2251
+Al is Super.dwesome !!	20	0:00:00.063238	2252
+AE is Super dwesome !!	20	0:00:00.063260	2253
+Al is Super dwesJme !!	20	0:00:00.063282	2254
+Al isJSuper dwesome !!	20	0:00:00.063304	2255
+Al is SuperEdwesome !!	20	0:00:00.063326	2256
+Al is Supey dwesome !!	20	0:00:00.063349	2257
+Al is SUper dwesome !!	20	0:00:00.063371	2258
+Al is Super dwesomv !!	20	0:00:00.063394	2259
+Al iW Super dwesome !!	20	0:00:00.063416	2260
+Alois Super dwesome !!	20	0:00:00.063437	2261
+Al is Super nwesome !!	21	0:00:00.063458	2262
+Al is Super dweRome !!	20	0:00:00.063522	2263
+Al is Cuper dwesome !!	20	0:00:00.063550	2264
+Al is Super dwesome !a	20	0:00:00.063572	2265
+AA is Super dwesome !!	20	0:00:00.063593	2266
+Al is Super dYesome !!	20	0:00:00.063615	2267
+Al ms Super dwesome !!	20	0:00:00.063637	2268
+Al is Sbper dwesome !!	20	0:00:00.063660	2269
+Al is SupeU dwesome !!	20	0:00:00.063684	2270
+Al is Super nwesome !!	21	0:00:00.063706	2271
+Al is Super dOesome !!	20	0:00:00.063728	2272
+Al is Super dwlsome !!	20	0:00:00.063750	2273
+Al is Super dwesome s!	20	0:00:00.063772	2274
+tl is Super dwesome !!	20	0:00:00.063794	2275
+Al is Super dwDsome !!	20	0:00:00.063816	2276
+Al iq Super dwesome !!	20	0:00:00.063838	2277
+Al is SupCr dwesome !!	20	0:00:00.063860	2278
+Al isSSuper dwesome !!	20	0:00:00.063881	2279
+Al is Super dwesOme !!	20	0:00:00.063903	2280
+AU is Super dwesome !!	20	0:00:00.063924	2281
+Al is SupeC dwesome !!	20	0:00:00.063946	2282
+Al is Supen dwesome !!	20	0:00:00.063968	2283
+Al isZSuper dwesome !!	20	0:00:00.063989	2284
+Al Bs Super dwesome !!	20	0:00:00.064011	2285
+Al is Super dwesomU !!	20	0:00:00.064032	2286
+Al is SuZer dwesome !!	20	0:00:00.064054	2287
+Al is SupeQ dwesome !!	20	0:00:00.064075	2288
+Almis Super dwesome !!	20	0:00:00.064096	2289
+Al is Super dweFome !!	20	0:00:00.064117	2290
+Al is SuCer dwesome !!	20	0:00:00.064138	2291
+Al is Sjper dwesome !!	20	0:00:00.064159	2292
+Al is zuper dwesome !!	20	0:00:00.064179	2293
+Al is SuPer dwesome !!	20	0:00:00.064200	2294
+Al is Suphr dwesome !!	20	0:00:00.064221	2295
+Al is Super dwesomP !!	20	0:00:00.064242	2296
+Al is Slper dwesome !!	20	0:00:00.064263	2297
+Al is Super dwosome !!	20	0:00:00.064284	2298
+Al is Suyer dwesome !!	20	0:00:00.064305	2299
+Al is Super dwesomW !!	20	0:00:00.064326	2300
+Al is Super dwYsome !!	20	0:00:00.064347	2301
+Al is Super dwesome A!	20	0:00:00.064367	2302
+Al is Super dwesomea!!	20	0:00:00.064388	2303
+Al is Super dwesfme !!	20	0:00:00.064409	2304
+Al isPSuper dwesome !!	20	0:00:00.064430	2305
+Al is Muper dwesome !!	20	0:00:00.064451	2306
+Alyis Super dwesome !!	20	0:00:00.064472	2307
+Al is Super dIesome !!	20	0:00:00.064492	2308
+Al is Super dwebome !!	20	0:00:00.064513	2309
+Al vs Super dwesome !!	20	0:00:00.064534	2310
+Al is Super dwesose !!	20	0:00:00.064555	2311
+Al is Super doesome !!	20	0:00:00.064576	2312
+Al is SupeT dwesome !!	20	0:00:00.064597	2313
+Al is SuLer dwesome !!	20	0:00:00.064617	2314
+Al is Supdr dwesome !!	20	0:00:00.064638	2315
+Al is Super dwesGme !!	20	0:00:00.064659	2316
+Al is Super dwesomm !!	20	0:00:00.064680	2317
+Al isQSuper dwesome !!	20	0:00:00.064700	2318
+Av is Super dwesome !!	20	0:00:00.064721	2319
+Al isWSuper dwesome !!	20	0:00:00.064742	2320
+Al is Super dwrsome !!	20	0:00:00.064763	2321
+Al isCSuper dwesome !!	20	0:00:00.064784	2322
+AT is Super dwesome !!	20	0:00:00.064805	2323
+Al iscSuper dwesome !!	20	0:00:00.064825	2324
+Al is Super fwesome !!	21	0:00:00.064846	2325
+Al is iuper dwesome !!	20	0:00:00.064867	2326
+AU is Super dwesome !!	20	0:00:00.064888	2327
+AC is Super dwesome !!	20	0:00:00.064909	2328
+Al is quper dwesome !!	20	0:00:00.064930	2329
+Al is Super dwegome !!	20	0:00:00.064950	2330
+Al is Super dwesome !f	20	0:00:00.064972	2331
+Al is SupBr dwesome !!	20	0:00:00.064993	2332
+Al is Super dwesomeH!!	20	0:00:00.065014	2333
+Al is Super dwesCme !!	20	0:00:00.065034	2334
+Al it Super dwesome !!	20	0:00:00.065055	2335
+AD is Super dwesome !!	20	0:00:00.065076	2336
+Al is Super dw some !!	20	0:00:00.065096	2337
+Al bs Super dwesome !!	20	0:00:00.065117	2338
+Al is Su.er dwesome !!	20	0:00:00.065138	2339
+Al is zuper dwesome !!	20	0:00:00.065159	2340
+Al is Super dwesnme !!	20	0:00:00.065180	2341
+Al is Super dwesome !N	20	0:00:00.065209	2342
+Al is SuWer dwesome !!	20	0:00:00.065231	2343
+Al is Super swesome !!	21	0:00:00.065264	2344
+Al is Super dweJome !!	20	0:00:00.065286	2345
+Alyis Super dwesome !!	20	0:00:00.065307	2346
+Al is vuper dwesome !!	20	0:00:00.065328	2347
+AlJis Super dwesome !!	20	0:00:00.065349	2348
+Al is fuper dwesome !!	20	0:00:00.065369	2349
+AD is Super dwesome !!	20	0:00:00.065390	2350
+Al isuSuper dwesome !!	20	0:00:00.065411	2351
+Al is Super dwesoms !!	20	0:00:00.065441	2352
+Al isBSuper dwesome !!	20	0:00:00.065464	2353
+Al is Super jwesome !!	21	0:00:00.065484	2354
+Al is Super dwesome t!	20	0:00:00.065505	2355
+Al is Super dwewome !!	20	0:00:00.065526	2356
+Al is Super dwesome !n	20	0:00:00.065547	2357
+AlXis Super dwesome !!	20	0:00:00.065568	2358
+Al is SuperCdwesome !!	20	0:00:00.065589	2359
+Al is Kuper dwesome !!	20	0:00:00.065610	2360
+Al is Super dwesome !C	20	0:00:00.065630	2361
+Al Fs Super dwesome !!	20	0:00:00.065651	2362
+Al is Super dweGome !!	20	0:00:00.065673	2363
+Al is Supercdwesome !!	20	0:00:00.065693	2364
+Al is Super dwmsome !!	20	0:00:00.065714	2365
+cl is Super dwesome !!	20	0:00:00.065735	2366
+Al is Super dwesoUe !!	20	0:00:00.065757	2367
+Al is Super dwesyme !!	20	0:00:00.065778	2368
+Al is SuFer dwesome !!	20	0:00:00.065799	2369
+Al is Super dwesome !A	20	0:00:00.065819	2370
+Al ia Super dwesome !!	20	0:00:00.065840	2371
+Al is Sdper dwesome !!	20	0:00:00.065861	2372
+Al is Super dwesomeA!!	20	0:00:00.065883	2373
+Al is Super dwesome F!	20	0:00:00.065904	2374
+Al is Super dwesomeC!!	20	0:00:00.065924	2375
+Al isPSuper dwesome !!	20	0:00:00.065945	2376
+Jl is Super dwesome !!	20	0:00:00.065966	2377
+AlQis Super dwesome !!	20	0:00:00.065987	2378
+Al Ps Super dwesome !!	20	0:00:00.066009	2379
+Al Bs Super dwesome !!	20	0:00:00.066029	2380
+Al is SuNer dwesome !!	20	0:00:00.066051	2381
+Al is Super dwesome H!	20	0:00:00.066071	2382
+Al is Super dwksome !!	20	0:00:00.066092	2383
+AlYis Super dwesome !!	20	0:00:00.066113	2384
+hl is Super dwesome !!	20	0:00:00.066134	2385
+Al Xs Super dwesome !!	20	0:00:00.066155	2386
+Al is Super dwesUme !!	20	0:00:00.066176	2387
+Al is SuOer dwesome !!	20	0:00:00.066197	2388
+Al is Super dwesnme !!	20	0:00:00.066218	2389
+Al is Super dwesoJe !!	20	0:00:00.066238	2390
+AM is Super dwesome !!	20	0:00:00.066259	2391
+Al is Supee dwesome !!	20	0:00:00.066280	2392
+Al is Super dwesome H!	20	0:00:00.066301	2393
+Al is Sufer dwesome !!	20	0:00:00.066322	2394
+Al is SupMr dwesome !!	20	0:00:00.066343	2395
+Al io Super dwesome !!	20	0:00:00.066363	2396
+Al is Super dwgsome !!	20	0:00:00.066384	2397
+Al is Super dwelome !!	20	0:00:00.066405	2398
+Al Ls Super dwesome !!	20	0:00:00.066426	2399
+Al is Super dwesoJe !!	20	0:00:00.066447	2400
+Al isLSuper dwesome !!	20	0:00:00.066468	2401
+Al is SMper dwesome !!	20	0:00:00.066488	2402
+Al Vs Super dwesome !!	20	0:00:00.066509	2403
+Al is Super dAesome !!	20	0:00:00.066530	2404
+Dl is Super dwesome !!	20	0:00:00.066551	2405
+Al is SuperAdwesome !!	20	0:00:00.066572	2406
+Al is Super daesome !!	20	0:00:00.066593	2407
+Al is Super dwesvme !!	20	0:00:00.066614	2408
+Al is kuper dwesome !!	20	0:00:00.066634	2409
+Al il Super dwesome !!	20	0:00:00.066655	2410
+pl is Super dwesome !!	20	0:00:00.066676	2411
+Al is SuRer dwesome !!	20	0:00:00.066697	2412
+Al is SuJer dwesome !!	20	0:00:00.066718	2413
+Xl is Super dwesome !!	20	0:00:00.066739	2414
+AlIis Super dwesome !!	20	0:00:00.066760	2415
+el is Super dwesome !!	20	0:00:00.066781	2416
+Albis Super dwesome !!	20	0:00:00.066802	2417
+Al is Super owesome !!	21	0:00:00.066823	2418
+sl is Super dwesome !!	20	0:00:00.066844	2419
+Al is Super dwes me !!	20	0:00:00.066865	2420
+Al is Super djesome !!	20	0:00:00.066886	2421
+Al is Superadwesome !!	20	0:00:00.066906	2422
+Al is Super dwesomeJ!!	20	0:00:00.066928	2423
+Al is Super dwesome !T	20	0:00:00.066949	2424
+Al is SuperTdwesome !!	20	0:00:00.066969	2425
+AlPis Super dwesome !!	20	0:00:00.066990	2426
+AlWis Super dwesome !!	20	0:00:00.067011	2427
+AE is Super dwesome !!	20	0:00:00.067032	2428
+Al is Super dwes!me !!	20	0:00:00.067053	2429
+Al iC Super dwesome !!	20	0:00:00.067073	2430
+Alsis Super dwesome !!	20	0:00:00.067094	2431
+Al is Super dwesome A!	20	0:00:00.067115	2432
+Al is Super dwesomex!!	20	0:00:00.067136	2433
+Al is Super dwesomp !!	20	0:00:00.067157	2434
+Al ib Super dwesome !!	20	0:00:00.067178	2435
+Al Os Super dwesome !!	20	0:00:00.067199	2436
+Al is Super dwehome !!	20	0:00:00.067220	2437
+Al is Super dwesomex!!	20	0:00:00.067240	2438
+Alpis Super dwesome !!	20	0:00:00.067261	2439
+Al is SupJr dwesome !!	20	0:00:00.067282	2440
+Al is Super jwesome !!	21	0:00:00.067313	2441
+Al is Super dweIome !!	20	0:00:00.067335	2442
+Al is Super dwvsome !!	20	0:00:00.067356	2443
+Al is SuHer dwesome !!	20	0:00:00.067377	2444
+Al is Super dwesome !W	20	0:00:00.067398	2445
+Al is Supep dwesome !!	20	0:00:00.067419	2446
+Al is Super dwesoLe !!	20	0:00:00.067440	2447
+Alwis Super dwesome !!	20	0:00:00.067461	2448
+Al is Super dweoome !!	20	0:00:00.067482	2449
+Al is Super dwesNme !!	20	0:00:00.067503	2450
+Al is Super dwesome L!	20	0:00:00.067524	2451
+AU is Super dwesome !!	20	0:00:00.067544	2452
+Al is SupXr dwesome !!	20	0:00:00.067565	2453
+Al is Super dwesomE !!	20	0:00:00.067586	2454
+Al is Super dwesomeC!!	20	0:00:00.067607	2455
+Ql is Super dwesome !!	20	0:00:00.067628	2456
+Al Zs Super dwesome !!	20	0:00:00.067649	2457
+Al is Super dqesome !!	20	0:00:00.067670	2458
+Al is Su er dwesome !!	20	0:00:00.067690	2459
+Al isoSuper dwesome !!	20	0:00:00.067711	2460
+Al is Suler dwesome !!	20	0:00:00.067732	2461
+Al is SupAr dwesome !!	20	0:00:00.067753	2462
+Al is Super dwe ome !!	20	0:00:00.067774	2463
+Al is Super dwesome b!	20	0:00:00.067795	2464
+Al isiSuper dwesome !!	20	0:00:00.067815	2465
+Al is Super Lwesome !!	21	0:00:00.067836	2466
+Al is Super dwesome  !	20	0:00:00.067857	2467
+Al is Super dwesoqe !!	20	0:00:00.067878	2468
+Al is Suqer dwesome !!	20	0:00:00.067899	2469
+Al is Super dweiome !!	20	0:00:00.067920	2470
+Al is Super dwesome !z	20	0:00:00.067942	2471
+Al is Superjdwesome !!	20	0:00:00.067963	2472
+Al is Super dwYsome !!	20	0:00:00.067984	2473
+Al is Super dwesoTe !!	20	0:00:00.068005	2474
+Al is muper dwesome !!	20	0:00:00.068025	2475
+Al is Super dwesomN !!	20	0:00:00.068046	2476
+Al is Super dwesome !L	20	0:00:00.068067	2477
+Al is Ruper dwesome !!	20	0:00:00.068088	2478
+Al is Super dwesome !O	20	0:00:00.068109	2479
+Al is SNper dwesome !!	20	0:00:00.068129	2480
+Al is Super swesome !!	21	0:00:00.068150	2481
+Al is Super dwesomS !!	20	0:00:00.068171	2482
+xl is Super dwesome !!	20	0:00:00.068192	2483
+Al is SupeY dwesome !!	20	0:00:00.068213	2484
+Al isfSuper dwesome !!	20	0:00:00.068234	2485
+Al is Super Cwesome !!	21	0:00:00.068254	2486
+AlQis Super dwesome !!	20	0:00:00.068275	2487
+Al is Supyr dwesome !!	20	0:00:00.068311	2488
+Cl is Super dwesome !!	20	0:00:00.068336	2489
+Al is Super dwesome !O	20	0:00:00.068358	2490
+Al isJSuper dwesome !!	20	0:00:00.068378	2491
+Al is Super dFesome !!	20	0:00:00.068399	2492
+Al is Super dwxsome !!	20	0:00:00.068420	2493
+Al is Superkdwesome !!	20	0:00:00.068441	2494
+Al is SuFer dwesome !!	20	0:00:00.068462	2495
+Al isCSuper dwesome !!	20	0:00:00.068483	2496
+Al is Juper dwesome !!	20	0:00:00.068504	2497
+Al is Super nwesome !!	21	0:00:00.068524	2498
+Al is SupLr dwesome !!	20	0:00:00.068545	2499
+Al is Super dwZsome !!	20	0:00:00.068566	2500
+AlGis Super dwesome !!	20	0:00:00.068587	2501
+Al is Super dQesome !!	20	0:00:00.068608	2502
+Al is Super dwesomez!!	20	0:00:00.068629	2503
+Al isJSuper dwesome !!	20	0:00:00.068650	2504
+Al is SupPr dwesome !!	20	0:00:00.068671	2505
+AC is Super dwesome !!	20	0:00:00.068691	2506
+Al ij Super dwesome !!	20	0:00:00.068712	2507
+Al is SuperIdwesome !!	20	0:00:00.068733	2508
+AlZis Super dwesome !!	20	0:00:00.068753	2509
+Al is Super dweHome !!	20	0:00:00.068774	2510
+Al is Super ywesome !!	21	0:00:00.068795	2511
+Al is Super dwtsome !!	20	0:00:00.068816	2512
+Al is SuperCdwesome !!	20	0:00:00.068836	2513
+Al is Super uwesome !!	21	0:00:00.068857	2514
+Al isgSuper dwesome !!	20	0:00:00.068878	2515
+An is Super dwesome !!	20	0:00:00.068898	2516
+Al is SRper dwesome !!	20	0:00:00.068919	2517
+Aluis Super dwesome !!	20	0:00:00.068940	2518
+Al is SuperVdwesome !!	20	0:00:00.068961	2519
+Al is Super dwRsome !!	20	0:00:00.068982	2520
+Al is Super dwIsome !!	20	0:00:00.069002	2521
+Al is SuperEdwesome !!	20	0:00:00.069023	2522
+Al is Suker dwesome !!	20	0:00:00.069044	2523
+AV is Super dwesome !!	20	0:00:00.069064	2524
+Al is Super swesome !!	21	0:00:00.069085	2525
+Al is Super Owesome !!	21	0:00:00.069106	2526
+Al is Super dMesome !!	20	0:00:00.069127	2527
+Al is Super dSesome !!	20	0:00:00.069148	2528
+Al is Super kwesome !!	21	0:00:00.069168	2529
+Al is Super dwesomeB!!	20	0:00:00.069225	2530
+Al is Supec dwesome !!	20	0:00:00.069248	2531
+Alois Super dwesome !!	20	0:00:00.069268	2532
+Al iF Super dwesome !!	20	0:00:00.069288	2533
+Al is SupeH dwesome !!	20	0:00:00.069308	2534
+Al is Super daesome !!	20	0:00:00.069328	2535
+Al is Super Zwesome !!	21	0:00:00.069348	2536
+Al fs Super dwesome !!	20	0:00:00.069368	2537
+Al is Super dwrsome !!	20	0:00:00.069388	2538
+Al is Superudwesome !!	20	0:00:00.069408	2539
+AV is Super dwesome !!	20	0:00:00.069428	2540
+Al is Super dMesome !!	20	0:00:00.069448	2541
+Al is Super cwesome !!	21	0:00:00.069468	2542
+Al is  uper dwesome !!	20	0:00:00.069488	2543
+Al ij Super dwesome !!	20	0:00:00.069508	2544
+Al is Super dwesome !G	20	0:00:00.069528	2545
+Al ns Super dwesome !!	20	0:00:00.069547	2546
+Al is Super dwesome !t	20	0:00:00.069567	2547
+Al is SOper dwesome !!	20	0:00:00.069587	2548
+Alnis Super dwesome !!	20	0:00:00.069607	2549
+Al is SuGer dwesome !!	20	0:00:00.069627	2550
+Al is Super dwesomeU!!	20	0:00:00.069647	2551
+Al iq Super dwesome !!	20	0:00:00.069667	2552
+Jl is Super dwesome !!	20	0:00:00.069687	2553
+Al ij Super dwesome !!	20	0:00:00.069707	2554
+Am is Super dwesome !!	20	0:00:00.069727	2555
+Al is Super dwesome O!	20	0:00:00.069747	2556
+Al Gs Super dwesome !!	20	0:00:00.069767	2557
+Al is Super d.esome !!	20	0:00:00.069787	2558
+Al is Super dwesomD !!	20	0:00:00.069806	2559
+Al is SMper dwesome !!	20	0:00:00.069826	2560
+cl is Super dwesome !!	20	0:00:00.069846	2561
+Al is SuperWdwesome !!	20	0:00:00.069866	2562
+Al isOSuper dwesome !!	20	0:00:00.069886	2563
+Al is Quper dwesome !!	20	0:00:00.069906	2564
+Al is Super dwesOme !!	20	0:00:00.069926	2565
+Al Js Super dwesome !!	20	0:00:00.069946	2566
+Al is Super dwesome !A	20	0:00:00.069966	2567
+Al isbSuper dwesome !!	20	0:00:00.069986	2568
+Al is Super dQesome !!	20	0:00:00.070006	2569
+Al is Super dwPsome !!	20	0:00:00.070026	2570
+Al is Super dwesoce !!	20	0:00:00.070046	2571
+Al is Super dweslme !!	20	0:00:00.070066	2572
+Alxis Super dwesome !!	20	0:00:00.070086	2573
+Al is SupWr dwesome !!	20	0:00:00.070106	2574
+Al is Supjr dwesome !!	20	0:00:00.070127	2575
+Al is Super dwesome b!	20	0:00:00.070147	2576
+ol is Super dwesome !!	20	0:00:00.070167	2577
+Al im Super dwesome !!	20	0:00:00.070186	2578
+Aw is Super dwesome !!	20	0:00:00.070206	2579
+Al is Super Lwesome !!	21	0:00:00.070226	2580
+Al isnSuper dwesome !!	20	0:00:00.070246	2581
+Al is Super dwesoms !!	20	0:00:00.070266	2582
+Al is Super dwesomN !!	20	0:00:00.070286	2583
+Al isrSuper dwesome !!	20	0:00:00.070306	2584
+Al is Superrdwesome !!	20	0:00:00.070326	2585
+Al is Super dhesome !!	20	0:00:00.070346	2586
+Cl is Super dwesome !!	20	0:00:00.070365	2587
+Aljis Super dwesome !!	20	0:00:00.070386	2588
+sl is Super dwesome !!	20	0:00:00.070405	2589
+Al is Super dwOsome !!	20	0:00:00.070425	2590
+Alvis Super dwesome !!	20	0:00:00.070445	2591
+Al is Super Iwesome !!	21	0:00:00.070465	2592
+Al is SupeT dwesome !!	20	0:00:00.070485	2593
+Al is Supen dwesome !!	20	0:00:00.070504	2594
+Al is Super dwesPme !!	20	0:00:00.070524	2595
+Al is Super dwesose !!	20	0:00:00.070544	2596
+Al ys Super dwesome !!	20	0:00:00.070564	2597
+Al is Super dwesome z!	20	0:00:00.070584	2598
+Al is Super dwesoBe !!	20	0:00:00.070604	2599
+yl is Super dwesome !!	20	0:00:00.070623	2600
+Al is Fuper dwesome !!	20	0:00:00.070643	2601
+Al is Super dwesome !d	20	0:00:00.070663	2602
+Al is Super dwesomei!!	20	0:00:00.070683	2603
+Al is Superndwesome !!	20	0:00:00.070703	2604
+Al is SuEer dwesome !!	20	0:00:00.070723	2605
+Al is SupeF dwesome !!	20	0:00:00.070743	2606
+Al is guper dwesome !!	20	0:00:00.070763	2607
+Al is Super dwesone !!	20	0:00:00.070783	2608
+Al is Super dwYsome !!	20	0:00:00.070803	2609
+Al is Super dwxsome !!	20	0:00:00.070823	2610
+Alkis Super dwesome !!	20	0:00:00.070843	2611
+Al  s Super dwesome !!	20	0:00:00.070862	2612
+Al is Sbper dwesome !!	20	0:00:00.070882	2613
+Al is SuXer dwesome !!	20	0:00:00.070902	2614
+Al is euper dwesome !!	20	0:00:00.070922	2615
+Al is Super dwesHme !!	20	0:00:00.070942	2616
+Al is Super dwzsome !!	20	0:00:00.070962	2617
+Al is Super dwPsome !!	20	0:00:00.070982	2618
+Al is Super dwesome z!	20	0:00:00.071010	2619
+Al is Super dwesoma !!	20	0:00:00.071031	2620
+Al is Super dwFsome !!	20	0:00:00.071051	2621
+Al is Super dweseme !!	20	0:00:00.071071	2622
+AlBis Super dwesome !!	20	0:00:00.071091	2623
+Al is Super vwesome !!	21	0:00:00.071111	2624
+Al is Supmr dwesome !!	20	0:00:00.071131	2625
+Al iQ Super dwesome !!	20	0:00:00.071151	2626
+Al is Super Bwesome !!	21	0:00:00.071171	2627
+Al is Supervdwesome !!	20	0:00:00.071191	2628
+Al is Fuper dwesome !!	20	0:00:00.071211	2629
+Al is Super dwesqme !!	20	0:00:00.071231	2630
+Al is Super dwEsome !!	20	0:00:00.071251	2631
+Al is Super Rwesome !!	21	0:00:00.071271	2632
+Al is Super dwesRme !!	20	0:00:00.071291	2633
+AlWis Super dwesome !!	20	0:00:00.071311	2634
+Al isLSuper dwesome !!	20	0:00:00.071331	2635
+Al is Super dwesome  !	20	0:00:00.071351	2636
+Al is SuperJdwesome !!	20	0:00:00.071371	2637
+Al ia Super dwesome !!	20	0:00:00.071390	2638
+Al is Siper dwesome !!	20	0:00:00.071411	2639
+Al is SuQer dwesome !!	20	0:00:00.071431	2640
+Al is Super dwesomK !!	20	0:00:00.071451	2641
+Al is Supwr dwesome !!	20	0:00:00.071470	2642
+Al is Super mwesome !!	21	0:00:00.071490	2643
+Al iy Super dwesome !!	20	0:00:00.071511	2644
+Al is Zuper dwesome !!	20	0:00:00.071531	2645
+Al is Super dweswme !!	20	0:00:00.071551	2646
+Al is Super dwesomeU!!	20	0:00:00.071571	2647
+AE is Super dwesome !!	20	0:00:00.071590	2648
+Al is vuper dwesome !!	20	0:00:00.071611	2649
+Al is SuFer dwesome !!	20	0:00:00.071631	2650
+Al is Super dwestme !!	20	0:00:00.071650	2651
+AU is Super dwesome !!	20	0:00:00.071670	2652
+al is Super dwesome !!	20	0:00:00.071690	2653
+Al is Super dwesome B!	20	0:00:00.071710	2654
+Al is Super dwesoSe !!	20	0:00:00.071730	2655
+Al is Super dwesome !h	20	0:00:00.071749	2656
+Al is Super dwesomi !!	20	0:00:00.071769	2657
+Al is Uuper dwesome !!	20	0:00:00.071789	2658
+Al is SZper dwesome !!	20	0:00:00.071809	2659
+Al is Super dlesome !!	20	0:00:00.071828	2660
+Al Xs Super dwesome !!	20	0:00:00.071848	2661
+Al is Supex dwesome !!	20	0:00:00.071868	2662
+Al is Sgper dwesome !!	20	0:00:00.071888	2663
+Al is Super dwxsome !!	20	0:00:00.071908	2664
+Al .s Super dwesome !!	20	0:00:00.071928	2665
+Al is SuperUdwesome !!	20	0:00:00.071948	2666
+Alsis Super dwesome !!	20	0:00:00.071968	2667
+Al is Guper dwesome !!	20	0:00:00.071988	2668
+Al is Supsr dwesome !!	20	0:00:00.072007	2669
+Al is SuperTdwesome !!	20	0:00:00.072027	2670
+Hl is Super dwesome !!	20	0:00:00.072047	2671
+AY is Super dwesome !!	20	0:00:00.072067	2672
+Al is Super dwesomP !!	20	0:00:00.072087	2673
+Al is Super dwesome !R	20	0:00:00.072107	2674
+Al us Super dwesome !!	20	0:00:00.072127	2675
+Al is SuperOdwesome !!	20	0:00:00.072147	2676
+Al isvSuper dwesome !!	20	0:00:00.072168	2677
+Al is SFper dwesome !!	20	0:00:00.072188	2678
+Al isnSuper dwesome !!	20	0:00:00.072208	2679
+AlDis Super dwesome !!	20	0:00:00.072228	2680
+Al iswSuper dwesome !!	20	0:00:00.072248	2681
+Al is Supez dwesome !!	20	0:00:00.072267	2682
+Al is SDper dwesome !!	20	0:00:00.072287	2683
+Al is Super dEesome !!	20	0:00:00.072307	2684
+Al is Superwdwesome !!	20	0:00:00.072327	2685
+Al is Super dwesoPe !!	20	0:00:00.072347	2686
+Al is Suter dwesome !!	20	0:00:00.072367	2687
+Al is Super dwBsome !!	20	0:00:00.072387	2688
+Al Is Super dwesome !!	20	0:00:00.072407	2689
+Al is Super dwesomt !!	20	0:00:00.072427	2690
+Al is Spper dwesome !!	20	0:00:00.072447	2691
+Al is Supe. dwesome !!	20	0:00:00.072467	2692
+Al is Supdr dwesome !!	20	0:00:00.072487	2693
+Al Gs Super dwesome !!	20	0:00:00.072507	2694
+Al is Fuper dwesome !!	20	0:00:00.072526	2695
+Al is Super dwesome !Q	20	0:00:00.072546	2696
+Al is SupeK dwesome !!	20	0:00:00.072566	2697
+Al is Super dwesoma !!	20	0:00:00.072586	2698
+Al is Super dbesome !!	20	0:00:00.072606	2699
+Al is SupTr dwesome !!	20	0:00:00.072626	2700
+Al is Super dwesomr !!	20	0:00:00.072645	2701
+Al is Super dwestme !!	20	0:00:00.072665	2702
+Al is Super dwfsome !!	20	0:00:00.072685	2703
+Al is SupeJ dwesome !!	20	0:00:00.072705	2704
+AlZis Super dwesome !!	20	0:00:00.072725	2705
+Al is Super dwevome !!	20	0:00:00.072745	2706
+Al is Super dwexome !!	20	0:00:00.072765	2707
+Al is SupPr dwesome !!	20	0:00:00.072791	2708
+Al is Super dwesoKe !!	20	0:00:00.072812	2709
+Al is Super dwesome !Z	20	0:00:00.072832	2710
+Al is Super dwrsome !!	20	0:00:00.072852	2711
+Al is Super dwesoPe !!	20	0:00:00.072872	2712
+Al is Super dwesomeK!!	20	0:00:00.072892	2713
+Al is Supeq dwesome !!	20	0:00:00.072912	2714
+An is Super dwesome !!	20	0:00:00.072932	2715
+Al is Supcr dwesome !!	20	0:00:00.072952	2716
+Al is Super pwesome !!	21	0:00:00.072972	2717
+Al is Super dwesvme !!	20	0:00:00.072992	2718
+Al is huper dwesome !!	20	0:00:00.073012	2719
+Al is Supur dwesome !!	20	0:00:00.073032	2720
+Al is Superadwesome !!	20	0:00:00.073052	2721
+Ql is Super dwesome !!	20	0:00:00.073072	2722
+Al is Superkdwesome !!	20	0:00:00.073092	2723
+Al is SupeX dwesome !!	20	0:00:00.073112	2724
+Al iw Super dwesome !!	20	0:00:00.073132	2725
+Al is Super dwesomS !!	20	0:00:00.073152	2726
+Al is Superkdwesome !!	20	0:00:00.073171	2727
+Al.is Super dwesome !!	20	0:00:00.073198	2728
+Al is Super dwesoKe !!	20	0:00:00.073220	2729
+Al is Super dweIome !!	20	0:00:00.073240	2730
+Al is Super dwesomm !!	20	0:00:00.073260	2731
+Al is Supeg dwesome !!	20	0:00:00.073280	2732
+Al is Su!er dwesome !!	20	0:00:00.073300	2733
+Al is Super dwesomed!!	20	0:00:00.073320	2734
+Al is SupJr dwesome !!	20	0:00:00.073340	2735
+Al is Super dwesoLe !!	20	0:00:00.073360	2736
+Al isGSuper dwesome !!	20	0:00:00.073379	2737
+Al iM Super dwesome !!	20	0:00:00.073399	2738
+Al is Super dwesRme !!	20	0:00:00.073419	2739
+Al is Super dwePome !!	20	0:00:00.073439	2740
+Al is Super twesome !!	21	0:00:00.073459	2741
+AK is Super dwesome !!	20	0:00:00.073479	2742
+Al is Super dwesome  !	20	0:00:00.073499	2743
+Al is kuper dwesome !!	20	0:00:00.073519	2744
+ll is Super dwesome !!	20	0:00:00.073539	2745
+Al is Super dwesome N!	20	0:00:00.073559	2746
+Al is Super dwesomb !!	20	0:00:00.073578	2747
+Al is Super dwesome j!	20	0:00:00.073598	2748
+AlDis Super dwesome !!	20	0:00:00.073618	2749
+Al is Supex dwesome !!	20	0:00:00.073638	2750
+Al is Super dwesome !S	20	0:00:00.073658	2751
+Al is Super dwesome F!	20	0:00:00.073677	2752
+Al is Super dwesome !Q	20	0:00:00.073697	2753
+Al is Super dwesome n!	20	0:00:00.073717	2754
+Aliis Super dwesome !!	20	0:00:00.073737	2755
+Al is SuRer dwesome !!	20	0:00:00.073757	2756
+Al is Super dwesome D!	20	0:00:00.073777	2757
+Al is Super dwesome h!	20	0:00:00.073797	2758
+Al is Super dweoome !!	20	0:00:00.073817	2759
+Al is SupeK dwesome !!	20	0:00:00.073837	2760
+Al is Super dIesome !!	20	0:00:00.073857	2761
+Al is Super dwesome c!	20	0:00:00.073877	2762
+Al is Super dwesom. !!	20	0:00:00.073897	2763
+Al is Super dweiome !!	20	0:00:00.073916	2764
+Al is Super dweso!e !!	20	0:00:00.073936	2765
+Al Es Super dwesome !!	20	0:00:00.073956	2766
+Al is Super dweaome !!	20	0:00:00.073976	2767
+Al is Super dwesrme !!	20	0:00:00.073995	2768
+Al is Super dwesome !w	20	0:00:00.074015	2769
+Al is SPper dwesome !!	20	0:00:00.074035	2770
+Al is Super dwesomem!!	20	0:00:00.074055	2771
+Al is Super dDesome !!	20	0:00:00.074074	2772
+Al is Super dbesome !!	20	0:00:00.074094	2773
+Al is Suber dwesome !!	20	0:00:00.074114	2774
+Al is Super dwegome !!	20	0:00:00.074134	2775
+Al is Super dwesomeA!!	20	0:00:00.074153	2776
+Al isOSuper dwesome !!	20	0:00:00.074173	2777
+Al is Super dweeome !!	20	0:00:00.074193	2778
+Al is SupeO dwesome !!	20	0:00:00.074213	2779
+Al is Super dweskme !!	20	0:00:00.074233	2780
+Al is SFper dwesome !!	20	0:00:00.074254	2781
+Al is Superrdwesome !!	20	0:00:00.074274	2782
+Al Ns Super dwesome !!	20	0:00:00.074294	2783
+Al is Super dwespme !!	20	0:00:00.074314	2784
+Al isKSuper dwesome !!	20	0:00:00.074333	2785
+Al is Super dwesome !W	20	0:00:00.074353	2786
+zl is Super dwesome !!	20	0:00:00.074373	2787
+AV is Super dwesome !!	20	0:00:00.074393	2788
+Al is Super dwesome !M	20	0:00:00.074413	2789
+Al is Super dwesome !o	20	0:00:00.074433	2790
+Al is Super dUesome !!	20	0:00:00.074453	2791
+Al is Super dwesome !Q	20	0:00:00.074473	2792
+Al isXSuper dwesome !!	20	0:00:00.074493	2793
+Al is SuperNdwesome !!	20	0:00:00.074513	2794
+Al is Super dwesame !!	20	0:00:00.074533	2795
+Al is Super Swesome !!	21	0:00:00.074552	2796
+Al is Super dweUome !!	20	0:00:00.074581	2797
+Al is Super dwesomed!!	20	0:00:00.074602	2798
+rl is Super dwesome !!	20	0:00:00.074622	2799
+Al ik Super dwesome !!	20	0:00:00.074642	2800
+Al is Auper dwesome !!	20	0:00:00.074662	2801
+Al is Suner dwesome !!	20	0:00:00.074682	2802
+Al is Super dwesYme !!	20	0:00:00.074702	2803
+Al iscSuper dwesome !!	20	0:00:00.074722	2804
+Al is SupeX dwesome !!	20	0:00:00.074741	2805
+Al is Super dwes me !!	20	0:00:00.074761	2806
+Al ib Super dwesome !!	20	0:00:00.074781	2807
+Al ms Super dwesome !!	20	0:00:00.074801	2808
+Al is Super d.esome !!	20	0:00:00.074821	2809
+Al iD Super dwesome !!	20	0:00:00.074841	2810
+Algis Super dwesome !!	20	0:00:00.074861	2811
+Al is Super duesome !!	20	0:00:00.074881	2812
+Al is Zuper dwesome !!	20	0:00:00.074900	2813
+Al is Super dwesomep!!	20	0:00:00.074920	2814
+Al is Super dYesome !!	20	0:00:00.074940	2815
+Al is Super dwesofe !!	20	0:00:00.074960	2816
+Al qs Super dwesome !!	20	0:00:00.074981	2817
+Al is Super deesome !!	20	0:00:00.075001	2818
+Al is Super dweXome !!	20	0:00:00.075021	2819
+Al is Supyr dwesome !!	20	0:00:00.075040	2820
+Ax is Super dwesome !!	20	0:00:00.075060	2821
+Al is SupVr dwesome !!	20	0:00:00.075080	2822
+Al is Super dweOome !!	20	0:00:00.075100	2823
+AlVis Super dwesome !!	20	0:00:00.075120	2824
+Al is Super dwksome !!	20	0:00:00.075140	2825
+Al Js Super dwesome !!	20	0:00:00.075159	2826
+Al is SuQer dwesome !!	20	0:00:00.075179	2827
+Al is Super dweIome !!	20	0:00:00.075199	2828
+Al as Super dwesome !!	20	0:00:00.075218	2829
+Al is Super dwVsome !!	20	0:00:00.075238	2830
+Al is Super dwesome v!	20	0:00:00.075258	2831
+Al is Cuper dwesome !!	20	0:00:00.075278	2832
+Al is Supew dwesome !!	20	0:00:00.075298	2833
+Al is Super dwesoGe !!	20	0:00:00.075317	2834
+Al is Super dweSome !!	20	0:00:00.075337	2835
+Al is Super dGesome !!	20	0:00:00.075357	2836
+tl is Super dwesome !!	20	0:00:00.075377	2837
+Al is Super dweZome !!	20	0:00:00.075397	2838
+Al is Super dwesome !j	20	0:00:00.075416	2839
+Al is Super dkesome !!	20	0:00:00.075436	2840
+Al is Ssper dwesome !!	20	0:00:00.075456	2841
+Al is SupLr dwesome !!	20	0:00:00.075476	2842
+Al isgSuper dwesome !!	20	0:00:00.075496	2843
+Aleis Super dwesome !!	20	0:00:00.075516	2844
+Al is Super dvesome !!	20	0:00:00.075536	2845
+Al is Supzr dwesome !!	20	0:00:00.075556	2846
+Al is Super!dwesome !!	20	0:00:00.075576	2847
+Al is Suler dwesome !!	20	0:00:00.075595	2848
+AlFis Super dwesome !!	20	0:00:00.075615	2849
+Al is duper dwesome !!	20	0:00:00.075635	2850
+Al is Super dwesoYe !!	20	0:00:00.075655	2851
+Al is SuperDdwesome !!	20	0:00:00.075675	2852
+Al is Super dwCsome !!	20	0:00:00.075695	2853
+Al is SupeN dwesome !!	20	0:00:00.075715	2854
+Al rs Super dwesome !!	20	0:00:00.075734	2855
+AC is Super dwesome !!	20	0:00:00.075754	2856
+Al im Super dwesome !!	20	0:00:00.075774	2857
+Al is SupeW dwesome !!	20	0:00:00.075794	2858
+Al is Super dwesomF !!	20	0:00:00.075813	2859
+Al is Super dwesomeH!!	20	0:00:00.075833	2860
+Alsis Super dwesome !!	20	0:00:00.075853	2861
+Al is Super dzesome !!	20	0:00:00.075873	2862
+Al is Skper dwesome !!	20	0:00:00.075893	2863
+Al is SuCer dwesome !!	20	0:00:00.075912	2864
+Ah is Super dwesome !!	20	0:00:00.075932	2865
+Al is Super dwesome E!	20	0:00:00.075952	2866
+Al gs Super dwesome !!	20	0:00:00.075972	2867
+Al is Super dweCome !!	20	0:00:00.075992	2868
+Al is Suber dwesome !!	20	0:00:00.076011	2869
+rl is Super dwesome !!	20	0:00:00.076031	2870
+Al is Super dwe.ome !!	20	0:00:00.076051	2871
+Al is SuperHdwesome !!	20	0:00:00.076071	2872
+Al is Superjdwesome !!	20	0:00:00.076091	2873
+Al is Super vwesome !!	21	0:00:00.076110	2874
+Al Js Super dwesome !!	20	0:00:00.076130	2875
+Al is Super dwPsome !!	20	0:00:00.076150	2876
+Al is SuperAdwesome !!	20	0:00:00.076170	2877
+ml is Super dwesome !!	20	0:00:00.076189	2878
+Al is Super dweHome !!	20	0:00:00.076209	2879
+Al Ns Super dwesome !!	20	0:00:00.076229	2880
+Al isQSuper dwesome !!	20	0:00:00.076249	2881
+Al is muper dwesome !!	20	0:00:00.076269	2882
+Al ss Super dwesome !!	20	0:00:00.076288	2883
+Al is SupPr dwesome !!	20	0:00:00.076308	2884
+AlDis Super dwesome !!	20	0:00:00.076329	2885
+Al is Super dweFome !!	20	0:00:00.076356	2886
+Al is Super deesome !!	20	0:00:00.076377	2887
+Al is Supersdwesome !!	20	0:00:00.076398	2888
+Al is SupeS dwesome !!	20	0:00:00.076418	2889
+Al is Super Zwesome !!	21	0:00:00.076437	2890
+Al is Super owesome !!	21	0:00:00.076457	2891
+AlBis Super dwesome !!	20	0:00:00.076477	2892
+Al is Super dwesomy !!	20	0:00:00.076497	2893
+Al Ds Super dwesome !!	20	0:00:00.076517	2894
+Al is Super dwesQme !!	20	0:00:00.076537	2895
+Al is SupKr dwesome !!	20	0:00:00.076556	2896
+Al is Supertdwesome !!	20	0:00:00.076576	2897
+Al is Super dtesome !!	20	0:00:00.076596	2898
+Al is Super dwPsome !!	20	0:00:00.076616	2899
+Al Ws Super dwesome !!	20	0:00:00.076636	2900
+Al is Super dwesome !E	20	0:00:00.076656	2901
+Al is SuKer dwesome !!	20	0:00:00.076676	2902
+Al iT Super dwesome !!	20	0:00:00.076696	2903
+cl is Super dwesome !!	20	0:00:00.076716	2904
+Al is Super dwesome !v	20	0:00:00.076736	2905
+Al is Super dwesoGe !!	20	0:00:00.076756	2906
+Al is Super dwesome d!	20	0:00:00.076775	2907
+Al is SuperRdwesome !!	20	0:00:00.076795	2908
+Al is Super dwesome !U	20	0:00:00.076815	2909
+Al is Super dwesome !H	20	0:00:00.076835	2910
+Al is Supdr dwesome !!	20	0:00:00.076854	2911
+Al isWSuper dwesome !!	20	0:00:00.076874	2912
+Xl is Super dwesome !!	20	0:00:00.076894	2913
+Al is Super dweIome !!	20	0:00:00.076914	2914
+Al is SupeL dwesome !!	20	0:00:00.076933	2915
+Al is Super dwtsome !!	20	0:00:00.076953	2916
+Al is SFper dwesome !!	20	0:00:00.076973	2917
+Al Ss Super dwesome !!	20	0:00:00.076993	2918
+Al is Super dwesome !w	20	0:00:00.077013	2919
+Al is Supqr dwesome !!	20	0:00:00.077033	2920
+Al is Super dwesomj !!	20	0:00:00.077052	2921
+Al ismSuper dwesome !!	20	0:00:00.077072	2922
+Al is Super dwesomeW!!	20	0:00:00.077092	2923
+Al is Super dwesomeL!!	20	0:00:00.077112	2924
+Al is Supen dwesome !!	20	0:00:00.077132	2925
+Al is Yuper dwesome !!	20	0:00:00.077152	2926
+Al is Super dTesome !!	20	0:00:00.077171	2927
+Al is Super fwesome !!	21	0:00:00.077195	2928
+Al is Super dwesoNe !!	20	0:00:00.077226	2929
+Al is Super dwesqme !!	20	0:00:00.077243	2930
+Jl is Super dwesome !!	20	0:00:00.077259	2931
+AlCis Super dwesome !!	20	0:00:00.077276	2932
+Al is Super mwesome !!	21	0:00:00.077292	2933
+Al is SSper dwesome !!	20	0:00:00.077308	2934
+Al is Super dwesomr !!	20	0:00:00.077324	2935
+Al is Super dwesome !T	20	0:00:00.077341	2936
+Al is Supkr dwesome !!	20	0:00:00.077357	2937
+Al ik Super dwesome !!	20	0:00:00.077373	2938
+Al is Yuper dwesome !!	20	0:00:00.077390	2939
+Al isQSuper dwesome !!	20	0:00:00.077406	2940
+Ul is Super dwesome !!	20	0:00:00.077422	2941
+Al is Supkr dwesome !!	20	0:00:00.077438	2942
+Al is Super dwesoBe !!	20	0:00:00.077455	2943
+Al is Supsr dwesome !!	20	0:00:00.077471	2944
+Al is Super fwesome !!	21	0:00:00.077488	2945
+Al is Super dGesome !!	20	0:00:00.077504	2946
+Al is Super dw.some !!	20	0:00:00.077520	2947
+Al is Super dweso!e !!	20	0:00:00.077536	2948
+Al is Supez dwesome !!	20	0:00:00.077553	2949
+Al is Euper dwesome !!	20	0:00:00.077569	2950
+Al is SuQer dwesome !!	20	0:00:00.077586	2951
+Al iZ Super dwesome !!	20	0:00:00.077602	2952
+Al vs Super dwesome !!	20	0:00:00.077618	2953
+Al is Super dwesoIe !!	20	0:00:00.077634	2954
+Al is SupYr dwesome !!	20	0:00:00.077651	2955
+Al Ls Super dwesome !!	20	0:00:00.077667	2956
+Al is Super dwesoQe !!	20	0:00:00.077683	2957
+Al is SuEer dwesome !!	20	0:00:00.077700	2958
+Al is Ouper dwesome !!	20	0:00:00.077716	2959
+AlMis Super dwesome !!	20	0:00:00.077732	2960
+Al is Super dwesomeB!!	20	0:00:00.077748	2961
+Al .s Super dwesome !!	20	0:00:00.077765	2962
+Alris Super dwesome !!	20	0:00:00.077781	2963
+Al is Super dwesome p!	20	0:00:00.077797	2964
+Al is Cuper dwesome !!	20	0:00:00.077813	2965
+Al rs Super dwesome !!	20	0:00:00.077830	2966
+Al is SupeA dwesome !!	20	0:00:00.077846	2967
+Al is Luper dwesome !!	20	0:00:00.077862	2968
+Al is Juper dwesome !!	20	0:00:00.077878	2969
+Al is Svper dwesome !!	20	0:00:00.077894	2970
+Al Ws Super dwesome !!	20	0:00:00.077911	2971
+Al is Supkr dwesome !!	20	0:00:00.077927	2972
+Al is SuYer dwesome !!	20	0:00:00.077943	2973
+Al ys Super dwesome !!	20	0:00:00.077959	2974
+Al iw Super dwesome !!	20	0:00:00.077982	2975
+Al is Super dwesome M!	20	0:00:00.077999	2976
+A! is Super dwesome !!	20	0:00:00.078015	2977
+Al is Super dwesrme !!	20	0:00:00.078032	2978
+Al is Super dwesome w!	20	0:00:00.078057	2979
+Al is Super dwespme !!	20	0:00:00.078071	2980
+Al is Super dwemome !!	20	0:00:00.078085	2981
+Al is SuRer dwesome !!	20	0:00:00.078100	2982
+Al is puper dwesome !!	20	0:00:00.078114	2983
+Al is SuperEdwesome !!	20	0:00:00.078128	2984
+Al is Luper dwesome !!	20	0:00:00.078142	2985
+Al is Super dhesome !!	20	0:00:00.078157	2986
+Al is Super dwesom! !!	20	0:00:00.078171	2987
+Al is Super dwesoFe !!	20	0:00:00.078186	2988
+Al ms Super dwesome !!	20	0:00:00.078200	2989
+pl is Super dwesome !!	20	0:00:00.078214	2990
+Al is SuNer dwesome !!	20	0:00:00.078229	2991
+Al Cs Super dwesome !!	20	0:00:00.078243	2992
+Al is Spper dwesome !!	20	0:00:00.078257	2993
+Al is Super dwesomh !!	20	0:00:00.078271	2994
+Al is Supir dwesome !!	20	0:00:00.078286	2995
+Al is Super dwZsome !!	20	0:00:00.078300	2996
+Al is Supeb dwesome !!	20	0:00:00.078314	2997
+Al Js Super dwesome !!	20	0:00:00.078328	2998
+Al is Super dwesomeu!!	20	0:00:00.078343	2999
+Al is Suver dwesome !!	20	0:00:00.078357	3000
+Al is Super dwesome m!	20	0:00:00.078371	3001
+Al is Cuper dwesome !!	20	0:00:00.078385	3002
+Al is Super dwetome !!	20	0:00:00.078400	3003
+Al is Srper dwesome !!	20	0:00:00.078414	3004
+Al is Super dwesome !T	20	0:00:00.078428	3005
+Aliis Super dwesome !!	20	0:00:00.078442	3006
+AU is Super dwesome !!	20	0:00:00.078457	3007
+Al is Super dwesome K!	20	0:00:00.078471	3008
+Al is Super dwCsome !!	20	0:00:00.078485	3009
+Al is Suher dwesome !!	20	0:00:00.078499	3010
+xl is Super dwesome !!	20	0:00:00.078513	3011
+Al is Super dweso.e !!	20	0:00:00.078528	3012
+Al iw Super dwesome !!	20	0:00:00.078542	3013
+Al iswSuper dwesome !!	20	0:00:00.078556	3014
+Al iskSuper dwesome !!	20	0:00:00.078570	3015
+Al iw Super dwesome !!	20	0:00:00.078584	3016
+Al is Super dwesom. !!	20	0:00:00.078599	3017
+Al is Super dwesome !m	20	0:00:00.078613	3018
+Al is Super dGesome !!	20	0:00:00.078627	3019
+Xl is Super dwesome !!	20	0:00:00.078642	3020
+Al is Super dwesome !U	20	0:00:00.078656	3021
+Al is Super dhesome !!	20	0:00:00.078670	3022
+Al ys Super dwesome !!	20	0:00:00.078684	3023
+Al is SuOer dwesome !!	20	0:00:00.078698	3024
+Al is Suprr dwesome !!	20	0:00:00.078713	3025
+Al is SuperNdwesome !!	20	0:00:00.078727	3026
+Al is Super dweIome !!	20	0:00:00.078741	3027
+Al is Supe! dwesome !!	20	0:00:00.078755	3028
+AlHis Super dwesome !!	20	0:00:00.078770	3029
+Al is Super dwesomeY!!	20	0:00:00.078784	3030
+Alzis Super dwesome !!	20	0:00:00.078798	3031
+Al is  uper dwesome !!	20	0:00:00.078812	3032
+Al is Super dweYome !!	20	0:00:00.078826	3033
+Al Is Super dwesome !!	20	0:00:00.078841	3034
+Al!is Super dwesome !!	20	0:00:00.078855	3035
+Al is Super dwfsome !!	20	0:00:00.078869	3036
+Al is SuperHdwesome !!	20	0:00:00.078884	3037
+Al is Super dwesomf !!	20	0:00:00.078898	3038
+Al is Super dwesoZe !!	20	0:00:00.078923	3039
+Al is ouper dwesome !!	20	0:00:00.078938	3040
+Al is Super dwesGme !!	20	0:00:00.078962	3041
+Al is Super dAesome !!	20	0:00:00.078987	3042
+Al is Super dwesoQe !!	20	0:00:00.079002	3043
+Al is Zuper dwesome !!	20	0:00:00.079027	3044
+Ay is Super dwesome !!	20	0:00:00.079041	3045
+Al Ds Super dwesome !!	20	0:00:00.079056	3046
+Al !s Super dwesome !!	20	0:00:00.079070	3047
+Al is Muper dwesome !!	20	0:00:00.079084	3048
+Al is Super dwesomeg!!	20	0:00:00.079098	3049
+Al is Super dwesrme !!	20	0:00:00.079113	3050
+Al is Super d!esome !!	20	0:00:00.079127	3051
+Al is Sucer dwesome !!	20	0:00:00.079141	3052
+Al is Super dweSome !!	20	0:00:00.079155	3053
+Al is SupZr dwesome !!	20	0:00:00.079170	3054
+Al is Super Hwesome !!	21	0:00:00.079184	3055
+Al is Super dwLsome !!	20	0:00:00.079198	3056
+Al is Super dweFome !!	20	0:00:00.079212	3057
+Al iz Super dwesome !!	20	0:00:00.079226	3058
+Al isrSuper dwesome !!	20	0:00:00.079241	3059
+Al ms Super dwesome !!	20	0:00:00.079255	3060
+Al is Supeh dwesome !!	20	0:00:00.079269	3061
+Al is Super dweuome !!	20	0:00:00.079283	3062
+Al is Super hwesome !!	21	0:00:00.079297	3063
+Al iE Super dwesome !!	20	0:00:00.079316	3064
+Al is Suppr dwesome !!	20	0:00:00.079331	3065
+Al is Super dwewome !!	20	0:00:00.079346	3066
+Al fs Super dwesome !!	20	0:00:00.079360	3067
+Al is Super dwesome c!	20	0:00:00.079374	3068
+Al is Super dweTome !!	20	0:00:00.079388	3069
+Al is SupeN dwesome !!	20	0:00:00.079403	3070
+Al is Super dwesomF !!	20	0:00:00.079417	3071
+Al is wuper dwesome !!	20	0:00:00.079431	3072
+Al is SSper dwesome !!	20	0:00:00.079445	3073
+Al is Super dwesomeU!!	20	0:00:00.079460	3074
+Al isGSuper dwesome !!	20	0:00:00.079474	3075
+Al is Saper dwesome !!	20	0:00:00.079488	3076
+Al is Super dKesome !!	20	0:00:00.079502	3077
+Al is Huper dwesome !!	20	0:00:00.079516	3078
+Al is guper dwesome !!	20	0:00:00.079531	3079
+Alfis Super dwesome !!	20	0:00:00.079545	3080
+Al is Spper dwesome !!	20	0:00:00.079559	3081
+nl is Super dwesome !!	20	0:00:00.079574	3082
+Al is Super dwesoKe !!	20	0:00:00.079588	3083
+Al is Super dwesome !x	20	0:00:00.079602	3084
+Al isoSuper dwesome !!	20	0:00:00.079616	3085
+fl is Super dwesome !!	20	0:00:00.079631	3086
+Al isBSuper dwesome !!	20	0:00:00.079645	3087
+Al is Super dwesoxe !!	20	0:00:00.079659	3088
+Al is Super dEesome !!	20	0:00:00.079674	3089
+Al is Super dwecome !!	20	0:00:00.079688	3090
+Al Us Super dwesome !!	20	0:00:00.079702	3091
+Al Es Super dwesome !!	20	0:00:00.079717	3092
+Al is Super twesome !!	21	0:00:00.079732	3093
+Al is euper dwesome !!	20	0:00:00.079746	3094
+Al is SuCer dwesome !!	20	0:00:00.079760	3095
+Al is Super duesome !!	20	0:00:00.079774	3096
+Hl is Super dwesome !!	20	0:00:00.079789	3097
+Al is Super dwesqme !!	20	0:00:00.079803	3098
+Al is super dwesome !!	20	0:00:00.079817	3099
+AlTis Super dwesome !!	20	0:00:00.079831	3100
+Al is SEper dwesome !!	20	0:00:00.079846	3101
+Al is Super dwesome !N	20	0:00:00.079860	3102
+Al is Super dwessme !!	20	0:00:00.079874	3103
+Al is Super dwesomo !!	20	0:00:00.079888	3104
+yl is Super dwesome !!	20	0:00:00.079903	3105
+Al is Nuper dwesome !!	20	0:00:00.079917	3106
+Al is Super dwesomq !!	20	0:00:00.079931	3107
+jl is Super dwesome !!	20	0:00:00.079945	3108
+Al is Super dwesoze !!	20	0:00:00.079959	3109
+Al is Super dwesome D!	20	0:00:00.079974	3110
+Al is Super Zwesome !!	21	0:00:00.079988	3111
+Al is SupGr dwesome !!	20	0:00:00.080002	3112
+Al isOSuper dwesome !!	20	0:00:00.080016	3113
+Al is SuKer dwesome !!	20	0:00:00.080031	3114
+Al is Super dwesAme !!	20	0:00:00.080045	3115
+Al is Supej dwesome !!	20	0:00:00.080059	3116
+Al is Super dwesomg !!	20	0:00:00.080073	3117
+Alfis Super dwesome !!	20	0:00:00.080088	3118
+Al is SPper dwesome !!	20	0:00:00.080102	3119
+Ab is Super dwesome !!	20	0:00:00.080116	3120
+AlKis Super dwesome !!	20	0:00:00.080130	3121
+Al is Super dwesome !l	20	0:00:00.080145	3122
+Al is Super dWesome !!	20	0:00:00.080159	3123
+Al Cs Super dwesome !!	20	0:00:00.080173	3124
+Al is Super dwesoPe !!	20	0:00:00.080188	3125
+Al bs Super dwesome !!	20	0:00:00.080202	3126
+AG is Super dwesome !!	20	0:00:00.080216	3127
+AlVis Super dwesome !!	20	0:00:00.080230	3128
+Al is Super dUesome !!	20	0:00:00.080244	3129
+Al is SupIr dwesome !!	20	0:00:00.080259	3130
+Al is Super dwLsome !!	20	0:00:00.080273	3131
+Alsis Super dwesome !!	20	0:00:00.080287	3132
+Alnis Super dwesome !!	20	0:00:00.080301	3133
+Al is Super Xwesome !!	21	0:00:00.080316	3134
+Allis Super dwesome !!	20	0:00:00.080330	3135
+Al isLSuper dwesome !!	20	0:00:00.080344	3136
+El is Super dwesome !!	20	0:00:00.080359	3137
+Al is Super dwesame !!	20	0:00:00.080373	3138
+Zl is Super dwesome !!	20	0:00:00.080387	3139
+Al is Muper dwesome !!	20	0:00:00.080401	3140
+Al is Superldwesome !!	20	0:00:00.080416	3141
+Al isJSuper dwesome !!	20	0:00:00.080430	3142
+Al is Super dwesome !h	20	0:00:00.080444	3143
+Al is Sxper dwesome !!	20	0:00:00.080458	3144
+Al is Saper dwesome !!	20	0:00:00.080473	3145
+Ql is Super dwesome !!	20	0:00:00.080487	3146
+Al is Super dwesome Q!	20	0:00:00.080501	3147
+Al is Supbr dwesome !!	20	0:00:00.080515	3148
+Nl is Super dwesome !!	20	0:00:00.080530	3149
+Al is Suher dwesome !!	20	0:00:00.080544	3150
+Al is Super dwesone !!	20	0:00:00.080558	3151
+Al is SupeV dwesome !!	20	0:00:00.080572	3152
+Al is Super swesome !!	21	0:00:00.080591	3153
+Al is Super dAesome !!	20	0:00:00.080606	3154
+Al is Super dwesomH !!	20	0:00:00.080620	3155
+Al is Super dweHome !!	20	0:00:00.080635	3156
+Al is Super dweswme !!	20	0:00:00.080649	3157
+Al is Super dwesomef!!	20	0:00:00.080663	3158
+Al is Super dwerome !!	20	0:00:00.080678	3159
+Al is Super dCesome !!	20	0:00:00.080692	3160
+Al is Super dwesome B!	20	0:00:00.080706	3161
+Al is Super dwssome !!	20	0:00:00.080721	3162
+Al is Super dwesome !F	20	0:00:00.080735	3163
+Al is Super dweswme !!	20	0:00:00.080749	3164
+Al is Super dwesJme !!	20	0:00:00.080764	3165
+Al isaSuper dwesome !!	20	0:00:00.080778	3166
+Al iF Super dwesome !!	20	0:00:00.080792	3167
+Al is Super cwesome !!	21	0:00:00.080807	3168
+Al is Super dwZsome !!	20	0:00:00.080821	3169
+Al is Super dwesowe !!	20	0:00:00.080835	3170
+Al is Super dBesome !!	20	0:00:00.080850	3171
+sl is Super dwesome !!	20	0:00:00.080864	3172
+Al iU Super dwesome !!	20	0:00:00.080879	3173
+Al is SuHer dwesome !!	20	0:00:00.080893	3174
+Al Ns Super dwesome !!	20	0:00:00.080907	3175
+Al is Super dwesomel!!	20	0:00:00.080921	3176
+Al is Super dwesome !u	20	0:00:00.080935	3177
+Al is Suger dwesome !!	20	0:00:00.080950	3178
+Al is Super dwesomeL!!	20	0:00:00.080964	3179
+Al isgSuper dwesome !!	20	0:00:00.080978	3180
+Al is Super dwesomeZ!!	20	0:00:00.080993	3181
+Al is Super Uwesome !!	21	0:00:00.081007	3182
+Almis Super dwesome !!	20	0:00:00.081021	3183
+Al is SUper dwesome !!	20	0:00:00.081035	3184
+Al is Super dwesome !v	20	0:00:00.081050	3185
+Al is Super iwesome !!	21	0:00:00.081064	3186
+Al iswSuper dwesome !!	20	0:00:00.081078	3187
+AE is Super dwesome !!	20	0:00:00.081093	3188
+Al is SupVr dwesome !!	20	0:00:00.081107	3189
+Al is Sujer dwesome !!	20	0:00:00.081121	3190
+Al is Super dweoome !!	20	0:00:00.081135	3191
+Al is Super dwesSme !!	20	0:00:00.081150	3192
+Al is Super dwesome !x	20	0:00:00.081164	3193
+Al is Super Ewesome !!	21	0:00:00.081178	3194
+Al is S per dwesome !!	20	0:00:00.081209	3195
+Al is Super.dwesome !!	20	0:00:00.081226	3196
+Al is Super dwesomeA!!	20	0:00:00.081250	3197
+Al is Super dwesome u!	20	0:00:00.081265	3198
+Pl is Super dwesome !!	20	0:00:00.081279	3199
+El is Super dwesome !!	20	0:00:00.081294	3200
+Al isCSuper dwesome !!	20	0:00:00.081308	3201
+Al is Supyr dwesome !!	20	0:00:00.081322	3202
+gl is Super dwesome !!	20	0:00:00.081337	3203
+Al is Super dwesome T!	20	0:00:00.081351	3204
+AM is Super dwesome !!	20	0:00:00.081365	3205
+Al is Super dwesZme !!	20	0:00:00.081380	3206
+Al is Superedwesome !!	20	0:00:00.081394	3207
+Al js Super dwesome !!	20	0:00:00.081408	3208
+Alwis Super dwesome !!	20	0:00:00.081423	3209
+Al is Superodwesome !!	20	0:00:00.081437	3210
+Al is Suher dwesome !!	20	0:00:00.081451	3211
+Al is Uuper dwesome !!	20	0:00:00.081465	3212
+Au is Super dwesome !!	20	0:00:00.081480	3213
+Al is SuperQdwesome !!	20	0:00:00.081494	3214
+Al is Super dwesowe !!	20	0:00:00.081508	3215
+Al ss Super dwesome !!	20	0:00:00.081522	3216
+Alnis Super dwesome !!	20	0:00:00.081537	3217
+Al is Super dwesome.!!	20	0:00:00.081551	3218
+Al is Super twesome !!	21	0:00:00.081565	3219
+Al is Super dwysome !!	20	0:00:00.081580	3220
+Al is Super dOesome !!	20	0:00:00.081594	3221
+Al is Super Awesome !!	22	0:00:00.081608	3222

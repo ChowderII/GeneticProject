@@ -1,0 +1,22 @@
+EIMQhJrqtlARdwgzjeoZUT	1	0:00:00.001736	37
+EIMQhJrqtlARdwgzjeoZU!	2	0:00:00.002963	69
+EIMihJrqtlARdwgzjeoZU!	3	0:00:00.005876	146
+EIMihJrutlARdwgzjeoZU!	4	0:00:00.006503	163
+EIMihJruteARdwgzjeoZU!	5	0:00:00.009026	232
+EIMihJrupeARdwgzjeoZU!	6	0:00:00.011847	314
+EIMihJrupeARdwgzjeo U!	7	0:00:00.013001	348
+EIMihJrupeARdwezjeo U!	8	0:00:00.014530	390
+EI ihJrupeARdwezjeo U!	9	0:00:00.014579	391
+EI ihJruperRdwezjeo U!	10	0:00:00.019082	521
+EI ihJruperRdwezjeo !!	11	0:00:00.022708	604
+EI ihJruper dwezjeo !!	12	0:00:00.023100	613
+AI ihJruper dwezjeo !!	13	0:00:00.025566	705
+AI ihJSuper dwezjeo !!	14	0:00:00.027068	759
+AI ihJSuper dwesjeo !!	15	0:00:00.028959	834
+AI ihJSuper dwesoeo !!	16	0:00:00.033777	1021
+AI ih Super dwesoeo !!	17	0:00:00.034290	1043
+AI ih Super dwesomo !!	18	0:00:00.036885	1154
+AI ih Super dwesome !!	19	0:00:00.047466	1577
+Al ih Super dwesome !!	20	0:00:00.052302	1794
+Al is Super dwesome !!	21	0:00:00.057313	2020
+Al is Super Awesome !!	22	0:00:00.081618	3223
