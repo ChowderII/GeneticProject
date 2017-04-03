@@ -3,6 +3,7 @@ import datetime
 import unittest
 import random
 
+queens = 4
 
 def test_benchmark(self):
     genetic.Benchmark.run(lambda:self.test)
@@ -15,19 +16,36 @@ def display(candidate, startTime, counter):
 
 
 def get_fitness(genes):
-    for i in range(genes):
+    sum = list(genes)
+    sub = list(genes)
 
+    fitness = len(genes)
+
+    for i in range(len(genes)):
+        sum[i] = i + genes[i]
+        sub[i] = genes[i] - i
+
+    for i in range(len(genes)):
+        for j in range(len(genes)):
+            if (i == j):
+                continue
+            if (sum[i] == sum[j]):
+                fitness -= 1
+            if (sub[i] == sub[j]):
+                fitness -= 1
+    return fitness
 
 
 class GuessPasswordTests(unittest.TestCase):
     geneSet = []
     for i in range(queens):
         geneSet.append(i)
+    geneSet = ''.join(map(str, geneSet))
 
     def test_benchmark(self):
-        genetic.Benchmark.run(self.test_Random)
+        genetic.Benchmark.run(self.guess_password)
 
-    def guess_password(self, target):
+    def guess_password(self):
         startTime = datetime.datetime.now()
         counter = 0
 
@@ -39,8 +57,8 @@ class GuessPasswordTests(unittest.TestCase):
 
         optimalFitness = len(self.geneSet)
         best = genetic.get_best(fnGetFitness, len(self.geneSet), optimalFitness, self.geneSet, fnDisplay, counter)
-        self.assertEqual(best.Genes, target)# change
+        self.assertEqual(best.Fitness, len(best.Genes))
 
 if __name__ == '__main__':
-    queens = input("How many queens do you want to fit ? : ")
     unittest.main()
+

@@ -28,7 +28,7 @@ class GuessPasswordTests(unittest.TestCase):
         self.guess_password(target)
 
     def test_benchmark(self):
-        genetic.Benchmark.run(self.test_Random())
+        genetic.Benchmark.run(self.test_Random)
 
     def test_Hello_World(self):
         target = "Hello World!"
