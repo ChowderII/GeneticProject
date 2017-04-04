@@ -16,13 +16,13 @@ class Benchmark:
     @staticmethod
     def run(function):
         timings = []
-        stdout = sys.stdout
+        #stdout = sys.stdout
         for i in range(100):
-            sys.stdout = None
+            #sys.stdout = None
             startTime = time.time()
             function()
             seconds = time.time() - startTime
-            sys.stdout = stdout
+            #sys.stdout = stdout
             timings.append(seconds)
             mean = statistics.mean(timings)
             if i < 10 or i % 10 == 9:
@@ -43,13 +43,22 @@ def _mutate(parent, geneSet, get_fitness):
     index = random.randint(0, len(parent.Genes) -1)
     childGenes = list(parent.Genes)
     newGene, alternate = random.sample(geneSet, 2)
-    childGenes[index] = alternate \
-        if newGene == childGenes[index] \
-        else newGene
+
+    if (newGene == childGenes[index]):
+        temp = childGenes[index]
+        tempIndex = childGenes.index(alternate)
+        childGenes[index] = alternate
+        childGenes[tempIndex] = temp
+
+    else:
+        temp = childGenes[index]
+        tempIndex = childGenes.index(newGene)
+        childGenes[index] = alternate
+        childGenes[tempIndex] = temp
+
     genes = ''.join(childGenes)
     fitness = get_fitness(genes)
     return Chromosome(genes, fitness)
-
 
 def get_best(get_fitness, targetLen, optimalFitness, geneSet, display, counter):
     bestParent = _generate_parent(targetLen, geneSet, get_fitness)
