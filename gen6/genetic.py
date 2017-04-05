@@ -1,7 +1,6 @@
 import random
 import statistics
 import time
-import sys
 
 
 class Chromosome:
@@ -17,7 +16,7 @@ class Benchmark:
     def run(function):
         timings = []
         #stdout = sys.stdout
-        for i in range(100):
+        for i in range(2):
             #sys.stdout = None
             startTime = time.time()
             function()
@@ -53,7 +52,7 @@ def _mutate(parent, geneSet, get_fitness):
     else:
         temp = childGenes[index]
         tempIndex = childGenes.index(newGene)
-        childGenes[index] = alternate
+        childGenes[index] = newGene
         childGenes[tempIndex] = temp
 
     genes = ''.join(childGenes)
@@ -69,7 +68,7 @@ def get_best(get_fitness, targetLen, optimalFitness, geneSet, display, counter):
     while True:
         counter += 1
         child = _mutate(bestParent, geneSet, get_fitness)
-
+        display(child, counter)
         if bestParent.Fitness >= child.Fitness:
             continue
         display(child, counter)

@@ -3,7 +3,8 @@ import datetime
 import unittest
 import random
 
-queens = 4
+queens = 8
+#f = open('outputFile.txt', 'w')
 
 def test_benchmark(self):
     genetic.Benchmark.run(lambda:self.test)
@@ -11,27 +12,28 @@ def test_benchmark(self):
 
 def display(candidate, startTime, counter):
     timeDiff = datetime.datetime.now() - startTime
-    out = "{}\t{}\t{}\t{}".format(candidate.Genes, candidate.Fitness, str(timeDiff), counter)
+    out = "{}\t{}\t{}\t{}\n".format(candidate.Genes, candidate.Fitness, str(timeDiff), counter)
     print(out)
 
 
 def get_fitness(genes):
-    sum = list(genes)
-    sub = list(genes)
+    sum = list(map(int, genes))
+    sub = list(map(int, genes))
+    INTGenes = list(map(int, genes))
 
     fitness = len(genes)
 
     for i in range(len(genes)):
-        sum[i] = i + genes[i]
-        sub[i] = genes[i] - i
+        sum[i] = i + INTGenes[i]
+        sub[i] = INTGenes[i] - i
 
     for i in range(len(genes)):
         for j in range(len(genes)):
             if (i == j):
                 continue
-            if (sum[i] == sum[j]):
+            if sum[i] == sum[j]:
                 fitness -= 1
-            if (sub[i] == sub[j]):
+            if sub[i] == sub[j]:
                 fitness -= 1
     return fitness
 
@@ -41,9 +43,6 @@ class GuessPasswordTests(unittest.TestCase):
     for i in range(queens):
         geneSet.append(i)
     geneSet = ''.join(map(str, geneSet))
-
-    def test_benchmark(self):
-        genetic.Benchmark.run(self.guess_password)
 
     def guess_password(self):
         startTime = datetime.datetime.now()
@@ -59,6 +58,8 @@ class GuessPasswordTests(unittest.TestCase):
         best = genetic.get_best(fnGetFitness, len(self.geneSet), optimalFitness, self.geneSet, fnDisplay, counter)
         self.assertEqual(best.Fitness, len(best.Genes))
 
+    def test_benchmark(self):
+        genetic.Benchmark.run(self.guess_password)
+
 if __name__ == '__main__':
     unittest.main()
-
