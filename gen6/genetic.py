@@ -68,7 +68,6 @@ def get_best(get_fitness, targetLen, optimalFitness, geneSet, display, counter):
     while True:
         counter += 1
         child = _mutate(bestParent, geneSet, get_fitness)
-        display(child, counter)
         if bestParent.Fitness >= child.Fitness:
             continue
         display(child, counter)
