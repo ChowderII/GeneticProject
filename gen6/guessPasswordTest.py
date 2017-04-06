@@ -61,5 +61,25 @@ class GuessPasswordTests(unittest.TestCase):
     def test_benchmark(self):
         genetic.Benchmark.run(self.guess_password)
 
+def guess_password(geneSet):
+    startTime = datetime.datetime.now()
+    counter = 0
+
+    def fnGetFitness (genes):
+        return get_fitness(genes)
+
+    def fnDisplay(candidate, counter):
+        display(candidate, startTime, counter)
+
+    optimalFitness = len(geneSet)
+    best = genetic.get_best(fnGetFitness, len(geneSet), optimalFitness, geneSet, fnDisplay, counter)
+    return best
 if __name__ == '__main__':
-    unittest.main()
+    geneSet = []
+    for i in range(queens):
+        geneSet.append(i)
+    geneSet = ''.join(map(str, geneSet))
+    optimalFitness = len(geneSet)
+    best = guess_password(geneSet)
+
+    display(best, datetime.datetime.now(), -1)
